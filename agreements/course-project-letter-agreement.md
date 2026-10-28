@@ -4,21 +4,57 @@
 
 Date: ______________________
 
-**To:** ______________________________ (full name) ("**Participant**") \
-Harvard email address (ending in harvard.edu): ______________________________
+**To:** the individuals listed below (up to ten; leave unused lines blank). Each of them who signs this Letter Agreement is a "**Participant**."
 
-Participant is (check one):
+**1.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
 
-☐ a student enrolled in the Course \
-☐ a member of the Course's teaching staff, signing in a personal capacity
+**2.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**3.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**4.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**5.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**6.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**7.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**8.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**9.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+**10.** Name: ______________________________ \
+Email: ______________________\@harvard.edu \
+(check one) ☐ Student ☐ Course Staff
+
+A Participant checked as "Student" is a student enrolled in the Course. A Participant checked as "Course Staff" is a member of the Course's teaching staff, signing in a personal capacity.
 
 **Re: Sponsorship of a project in a course at the Harvard John A. Paulson School of Engineering and Applied Sciences**
 
-Dear ______________________ ,
+Dear Participants:
 
-This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which Participant takes part in the Project. If President and Fellows of Harvard College ("**Harvard**") also signs below, it is a party to this Letter Agreement as described in Section 9. Partner, Participant and, if it signs, Harvard are each a "**party**."
+This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. If President and Fellows of Harvard College ("**Harvard**") also signs below, it is a party to this Letter Agreement as described in Section 9. Partner, each Participant and, if it signs, Harvard are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
 
-In consideration of Partner's sponsorship of the Project, Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
+In consideration of Partner's sponsorship of the Project, each Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
 
 ## 1. Sponsorship of an academic project
 
@@ -50,7 +86,7 @@ Publication Hold Period under Section 5.2 (leave blank for no time limit): _____
 
 **3.1 Partner Information.** "**Partner Information**" means all information, in any form, that Partner or anyone acting on its behalf provides or makes available to Participant in connection with the Project.
 
-**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means Participant and each other student or member of the Course's teaching staff who has signed a letter agreement with Partner for the Project on substantially the same terms as this Letter Agreement.
+**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means the Participants and each other student or member of the Course's teaching staff who has signed another letter agreement with Partner for the Project on substantially the same terms as this Letter Agreement.
 
 **3.3 Course Private Information.** "**Course Private Information**" means Partner Information that is Course Private Information under the option that applies under Section 4. Participant shall not disclose Course Private Information to anyone other than Partner and members of the Course Community, or as Partner approves in writing. The "**Course Community**" means (a) students enrolled in the Course during the Course Term; (b) the Course's teaching staff; (c) Harvard faculty and staff who support the administration of the Course; and (d) members of the SEAS community and invited guests attending a Private Course Event, solely while attending that event. A "**Private Course Event**" is a class session, presentation, poster session (including the Course's final poster session), project review or similar event of the Course that is not open to the public and is restricted to members of the SEAS community and invited guests. The "**SEAS community**" means the students, faculty and staff of SEAS.
 
@@ -156,7 +192,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 ## 10. Effective date and duration
 
-**10.1 Effective Date.** This Letter Agreement takes effect on the date on which both Partner and Participant have signed it (the "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
+**10.1 Effective Date.** This Letter Agreement takes effect, as to each Participant, on the date on which both Partner and that Participant have signed it (that Participant's "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
 
 **10.2 Survival.** Sections 3 through 9, 10.2 and 11 survive the end of this Letter Agreement, including if Participant stops taking part in the Project or withdraws from the Course. Participant's obligations regarding Confidential Information and Course Private Information continue for five (5) years after the end of the Course Term and, for any Confidential Information that is a trade secret, for as long as it remains a trade secret under applicable law. Sections 5.2 through 5.4 continue without time limit.
 
@@ -168,7 +204,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any consent, approval, waiver or license that Partner grants under it must be signed, which may be done electronically, by an authorized officer of Partner. Otherwise, the Partner Contacts may represent Partner with respect to the Project, including by providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent. Notices, copies and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
 
-**11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. It may be amended only in a writing signed by Partner and Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
+**11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and each Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. As to any Participant, it may be amended only in a writing signed by Partner and that Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
 
 **11.5 Severability.** If any provision of this Letter Agreement is held unenforceable, it will be enforced to the maximum extent permitted, and the remaining provisions remain in effect.
 
@@ -198,12 +234,29 @@ Title: ______________________________ \
 Date: ______________________________ \
 Email: ______________________________
 
-**ACCEPTED AND AGREED: PARTICIPANT**
+**ACCEPTED AND AGREED: PARTICIPANTS**
 
-Signature: ______________________________ \
-Full name: ______________________________ \
-Date: ______________________________ \
-Harvard email address: ______________________________
+Each Participant signs on the line with the same number as in the list of Participants above.
+
+**1.** Signature: ______________________________ Date: ______________
+
+**2.** Signature: ______________________________ Date: ______________
+
+**3.** Signature: ______________________________ Date: ______________
+
+**4.** Signature: ______________________________ Date: ______________
+
+**5.** Signature: ______________________________ Date: ______________
+
+**6.** Signature: ______________________________ Date: ______________
+
+**7.** Signature: ______________________________ Date: ______________
+
+**8.** Signature: ______________________________ Date: ______________
+
+**9.** Signature: ______________________________ Date: ______________
+
+**10.** Signature: ______________________________ Date: ______________
 
 **ACKNOWLEDGED AND AGREED: HARVARD** (optional; complete only if Harvard is a party)
 
