@@ -28,8 +28,6 @@ In consideration of Partner's sponsorship of the Project, Participant's opportun
 
 **1.3 Teaching staff.** If Participant is a member of the Course's teaching staff, Participant signs this Letter Agreement in a personal capacity, personally agreeing to maintain the confidentiality of Partner Information as provided in this Letter Agreement, and not as an agent or representative of Harvard. Participant's signature does not bind Harvard.
 
-**1.4 Alternative project.** If Participant is a student, Participant acknowledges that Participant was given the opportunity to request a project in the Course that did not require entering into an agreement with a third party.
-
 ## 2. Project
 
 Project title: ____________________________________________
@@ -146,7 +144,7 @@ This Section 5 applies whichever option applies under Section 4.
 
 **11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner or Harvard is authorized to do so.
 
-**11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily.
+**11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily. If Participant is a student, Participant was given the opportunity to request a project in the Course that did not require entering into an agreement with a third party.
 
 If these terms are acceptable, please sign below.
 
