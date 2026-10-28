@@ -7,43 +7,43 @@ Date: ______________________
 **To:** the individuals listed below (up to ten; leave unused lines blank). Each of them who signs this Letter Agreement is a "**Participant**."
 
 **1.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **2.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **3.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **4.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **5.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **6.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **7.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **8.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **9.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 **10.** Name: ______________________________ \
-Email: ______________________\@harvard.edu \
+Email (ending in harvard.edu): ______________________________ \
 (check one) ☐ Student ☐ Course Staff
 
 A Participant checked as "Student" is a student enrolled in the Course. A Participant checked as "Course Staff" is a member of the Course's teaching staff, signing in a personal capacity.
@@ -202,7 +202,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.2 Equitable relief.** Participant acknowledges that a breach by Participant of Sections 3 through 6 or Section 8 may cause Partner irreparable harm for which money damages would not be an adequate remedy, and that Partner may seek injunctive or other equitable relief for such a breach in addition to any other remedy.
 
-**11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any consent, approval, waiver or license that Partner grants under it must be signed, which may be done electronically, by an authorized officer of Partner. Otherwise, the Partner Contacts may represent Partner with respect to the Project, including by providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent. Notices, copies and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
+**11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any waiver by Partner must be signed, which may be done electronically, by an authorized officer of Partner. By listing Partner Contacts in Section 2, Partner's authorized officer authorizes each of them to represent Partner with respect to the Project, including by giving any consent, approval or license that Partner gives under this Letter Agreement, providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent, but not to amend this Letter Agreement. Notices, copies, consents and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
 
 **11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and each Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. As to any Participant, it may be amended only in a writing signed by Partner and that Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
 
