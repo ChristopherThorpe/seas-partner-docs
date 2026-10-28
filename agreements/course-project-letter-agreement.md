@@ -4,8 +4,8 @@
 
 Date: ______________________
 
-**To:** ______________________________ ("**Participant**") \
-Email: ______________________________
+**To:** ______________________________ (full name) ("**Participant**") \
+Harvard email address (ending in harvard.edu): ______________________________
 
 Participant is (check one):
 
@@ -36,7 +36,11 @@ Course (number and title): ______________________________
 
 Academic term (the "**Course Term**"): ______________________
 
-Partner's Project contact (name and email), for copies, notices and consents under Section 5: ______________________________
+In addition to its signatory, Partner designates the following individuals ("**Partner Contacts**") to represent Partner with respect to the Project, as described in Section 11.3. Partner may change its Partner Contacts by notice to Participant.
+
+Name: ______________________________ Email: ______________________________ \
+Name: ______________________________ Email: ______________________________ \
+Name: ______________________________ Email: ______________________________
 
 Publication Hold Period under Section 5.2 (leave blank for no time limit): __________ ☐ days ☐ months ☐ years
 
@@ -162,7 +166,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.2 Equitable relief.** Participant acknowledges that a breach by Participant of Sections 3 through 6 or Section 8 may cause Partner irreparable harm for which money damages would not be an adequate remedy, and that Partner may seek injunctive or other equitable relief for such a breach in addition to any other remedy.
 
-**11.3 Notices and consents.** Notices, copies and consents under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent under Section 5 go to Partner's Project contact named in Section 2. Other notices go to the email addresses in the signature blocks below, or to another address that a party designates by notice. Partner's consent under Section 5 must come from its Project contact or an authorized officer of Partner.
+**11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any consent, approval, waiver or license that Partner grants under it must be signed, which may be done electronically, by an authorized officer of Partner. Otherwise, the Partner Contacts may represent Partner with respect to the Project, including by providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent. Notices, copies and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
 
 **11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. It may be amended only in a writing signed by Partner and Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
 
@@ -188,7 +192,7 @@ Sincerely,
 
 ______________________________ (Partner's full legal name)
 
-By: ______________________________ \
+By (authorized officer): ______________________________ \
 Name: ______________________________ \
 Title: ______________________________ \
 Date: ______________________________ \
@@ -197,9 +201,9 @@ Email: ______________________________
 **ACCEPTED AND AGREED: PARTICIPANT**
 
 Signature: ______________________________ \
-Name: ______________________________ \
+Full name: ______________________________ \
 Date: ______________________________ \
-Email: ______________________________
+Harvard email address: ______________________________
 
 **ACKNOWLEDGED AND AGREED: HARVARD** (optional; complete only if Harvard is a party)
 
