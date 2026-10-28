@@ -102,7 +102,7 @@ This Section 5 applies whichever option applies under Section 4.
 
 **7.3 Disclaimer.** TO THE FULLEST EXTENT PERMITTED BY LAW, PARTICIPANT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE PROJECT AND ALL PROJECT WORK PRODUCT, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.
 
-**7.4 Hold harmless.** If Participant is a student, Partner shall hold Participant harmless from any claim, loss, liability, damage or expense arising out of or relating to the Project, Participant's participation in it, or any use of Project Work Product, except to the extent arising from Participant's breach of this Letter Agreement.
+**7.4 Hold harmless.** If Participant is a student, Partner shall hold Participant harmless from any claim, loss, liability, damage or expense arising out of or relating to the Project, Participant's participation in it, or any use of Project Work Product, except to the extent arising from Participant's material breach of this Letter Agreement.
 
 ## 8. Intellectual property
 
