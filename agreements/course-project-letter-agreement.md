@@ -116,6 +116,8 @@ This Section 5 applies whichever option applies under Section 4.
 
 **9.3 Separate agreements with Harvard.** This Letter Agreement does not amend any separate agreement between Partner and Harvard concerning the Course or the Project (a "**Sponsorship Agreement**"). As between Partner and Harvard, the Sponsorship Agreement governs if it conflicts with this Letter Agreement.
 
+**9.4 No Harvard liability.** Whether or not Harvard signs this Letter Agreement, Harvard expressly disclaims any and all liability resulting from any party's breach of this Letter Agreement, and neither Partner nor Participant shall assert any claim against Harvard for any such breach. Harvard is an intended third-party beneficiary of this Section 9.4.
+
 ## 10. Effective date and duration
 
 **10.1 Effective Date.** This Letter Agreement takes effect on the date on which both Partner and Participant have signed it (the "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
@@ -136,7 +138,7 @@ This Section 5 applies whichever option applies under Section 4.
 
 **11.6 Assignment.** Participant may not assign or delegate this Letter Agreement. Partner may assign it, on written notice to Participant, to a successor to all or substantially all of the business to which it relates. This Letter Agreement binds and benefits the parties and their permitted successors and assigns.
 
-**11.7 No third-party beneficiaries.** Nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
+**11.7 No third-party beneficiaries.** Except as stated in Section 9.4, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
 
 **11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Dropbox Sign, are as effective as handwritten signatures.
 
