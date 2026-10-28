@@ -90,7 +90,7 @@ This Section 5 applies whichever option applies under Section 4.
 
 ## 6. Information that Partner does not receive
 
-**6.1 Other projects' information.** Participant shall not disclose to Partner any information of any other project in the Course that is confidential, or restricted to the Course, under the terms that apply to that project, including information that is confidential information or course private information under a letter agreement between that project's sponsor and its participants. Partner shall not request any such information from Participant or any other Project Participant.
+**6.1 Other projects' information.** Participant shall not disclose to Partner any information of any other project in the Course that, under the terms that apply to that project, either (a) is confidential, including confidential information under a letter agreement between that project's sponsor and its participants; or (b) is restricted to the Course, including course private information under such a letter agreement, and is unrelated to the Project or Partner. Partner shall not request any such information from Participant or any other Project Participant.
 
 **6.2 Student records.** If Participant is a member of the Course's teaching staff, Participant shall not share with Partner any grades or other education records of students, as defined in the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g ("**FERPA Information**"). Partner shall not request FERPA Information. If Partner receives any FERPA Information, Partner shall disregard it and promptly delete or destroy it. This Section 6.2 does not restrict a student from sharing the student's own work with Partner, including copies provided under Section 5.3.
 
