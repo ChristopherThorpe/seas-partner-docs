@@ -1,0 +1,39 @@
+{
+  "name": "seas-partner-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Questionnaire-driven Google Docs generator with Dropbox Sign text tags, built on Google Apps Script.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc -p tsconfig.json && tsc -p src/core && tsc -p src/server && tsc -p src/client",
+    "lint": "eslint . && prettier --check .",
+    "format": "prettier --write .",
+    "check": "npm run lint && npm run typecheck && npm test && npm run build",
+    "push": "npm run build && clasp push --force",
+    "deploy": "npm run push && clasp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherThorpe/seas-partner-docs.git"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@google/clasp": "3.4.1",
+    "@types/google-apps-script": "2.0.13",
+    "@types/google.script.client-side": "0.1.5",
+    "@types/node": "26.6.6",
+    "esbuild": "0.28.2",
+    "eslint": "10.13.0",
+    "prettier": "3.9.10",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.72.1",
+    "vitest": "5.0.5"
+  }
+}
