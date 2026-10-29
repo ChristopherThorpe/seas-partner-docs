@@ -212,7 +212,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.7 No third-party beneficiaries.** Except as stated in Section 9.3, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
 
-**11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Dropbox Sign, are as effective as handwritten signatures.
+**11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Adobe Acrobat Sign, are as effective as handwritten signatures.
 
 **11.9 Interpretation.** Headings are for convenience only. "Including" means "including without limitation."
 
