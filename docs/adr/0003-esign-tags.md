@@ -54,11 +54,11 @@ For #15 and #16:
 Dropbox Sign only places tagged fields through its paid API, so SEAS chose **Adobe Acrobat Sign**, which HUIT already provides to Harvard faculty and staff (#1). Adobe documents its text tags as processed automatically on web upload, on all service tiers. The rules found here still apply, with Adobe's syntax:
 
 - `{{Name_es_:signerN:type:directives}}`. Signer numbers are positional and gapless, as with Dropbox Sign.
-- Field formatting comes from the tag's first `{`. White tags therefore need `:font(color=black)`, or typed values come out white.
+- Adobe's docs say field formatting comes from the tag's first `{`, so white tags could make typed values white. The test didn't show this, but `:font(color=black)` is added anyway.
 - `:dimension(width=…, height=…)` sets the field size exactly, so the renderer doesn't need to pad tags.
 - The `{{#x=…}}` / `{{$x}}` short form keeps tags short in narrow places.
 
-**Adobe result ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)):** `docs/spikes/esign-tags/adobe-texttags-test.pdf` was uploaded through the Acrobat Sign web app, and its tags became fields for the right signers, with no API. The tag builder in #16 keeps the platform syntax in one place, so the Dropbox Sign mapping above remains available if plans change. Every field that shows a value keeps `:font(color=black)` as a safe default.
+**Adobe result ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)):** `docs/spikes/esign-tags/adobe-texttags-test.pdf` was uploaded through the Acrobat Sign web app, and its tags became fields for the right signers, with no API. The tag builder in #16 keeps the platform syntax in one place, so the Dropbox Sign mapping above remains available if plans change. In the signed PDF, the Partner's title and date (both with `:font(color=black)`) and the Participant's initials and major showed their values. The major field had **no** font directive, so in practice a white tag didn't make the typed value white, despite what Adobe's docs suggest. Every field that shows a value still gets `:font(color=black)` as a cheap safeguard.
 
 ## Signer order
 
