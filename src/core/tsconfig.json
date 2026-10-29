@@ -1,0 +1,5 @@
+{
+  // Pure modules: no Apps Script, DOM or Node globals, so they run anywhere and test in Node.
+  "extends": "../../tsconfig.base.json",
+  "include": ["./**/*.ts"]
+}

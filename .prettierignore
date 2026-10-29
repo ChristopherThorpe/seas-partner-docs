@@ -1,0 +1,6 @@
+dist/
+coverage/
+node_modules/
+package-lock.json
+# Legal drafts are formatted by hand; don't let Prettier rewrap them.
+agreements/
