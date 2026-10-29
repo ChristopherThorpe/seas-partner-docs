@@ -192,7 +192,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 ## 10. Effective date and duration
 
-**10.1 Effective Date.** This Letter Agreement takes effect, as to each Participant, on the date on which both Partner and that Participant have signed it (that Participant's "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
+**10.1 Effective Date.** This Letter Agreement takes effect on ______________________ (the "**Effective Date**")[, including as to any Participant who signs it after that date,] and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
 
 **10.2 Survival.** Sections 3 through 9, 10.2 and 11 survive the end of this Letter Agreement, including if Participant stops taking part in the Project or withdraws from the Course. Participant's obligations regarding Confidential Information and Course Private Information continue for five (5) years after the end of the Course Term and, for any Confidential Information that is a trade secret, for as long as it remains a trade secret under applicable law. Sections 5.2 through 5.4 continue without time limit.
 
