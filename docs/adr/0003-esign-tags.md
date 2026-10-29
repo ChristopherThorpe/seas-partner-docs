@@ -1,6 +1,6 @@
 # ADR 0003: E-signature text tags in generated Google Docs
 
-- **Status:** Accepted for the tag-generation rules below. The Dropbox Sign API side is verified, but **the Dropbox Sign web app ignores text tags** (result 9). **Platform decision (#1): Adobe Acrobat Sign through HUIT**, pending its own upload test in [#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35). See [Platform decision](#platform-decision).
+- **Status:** Accepted. **The platform is Adobe Acrobat Sign** through HUIT (#1). Its text tags placed the fields for the right signers on a normal web upload ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)). Dropbox Sign was evaluated first: its API side works, but its web app ignores text tags (result 9).
 - **Issue:** [#5](https://github.com/ChristopherThorpe/seas-partner-docs/issues/5)
 - **Date:** 2026-10-28
 
@@ -58,10 +58,15 @@ Dropbox Sign only places tagged fields through its paid API, so SEAS chose **Ado
 - `:dimension(width=…, height=…)` sets the field size exactly, so the renderer doesn't need to pad tags.
 - The `{{#x=…}}` / `{{$x}}` short form keeps tags short in narrow places.
 
-`docs/spikes/esign-tags/adobe-texttags-test.pdf` is the test file for [#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35), which is waiting on HUIT access. The tag builder in #16 keeps the platform syntax in one place, so the Dropbox Sign mapping above remains available if plans change.
+**Adobe result ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)):** `docs/spikes/esign-tags/adobe-texttags-test.pdf` was uploaded through the Acrobat Sign web app, and its tags became fields for the right signers, with no API. The tag builder in #16 keeps the platform syntax in one place, so the Dropbox Sign mapping above remains available if plans change. Every field that shows a value keeps `:font(color=black)` as a safe default.
+
+## Signer order
+
+- **signer1 is the Partner, and signer2, signer3, … are the Participants**, numbered per generated document with no gaps (one per Participant actually named; see #25).
+- **Harvard isn't tagged.** On the rare occasion Harvard signs, the person sending the agreement adds Harvard in Acrobat Sign **as the last recipient**, after every Participant, and places Harvard's signature field by hand. Signer numbers are positional, so adding Harvard anywhere earlier would shift the tagged fields onto the wrong people.
 
 ## Open items
 
 - [x] **Dropbox Sign web app.** Done: no fields appeared, and AI Auto-place Fields did poorly (result 9).
-- [ ] **Adobe Acrobat Sign upload test** ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)): waiting on HUIT access.
+- [x] **Adobe Acrobat Sign upload test** ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)): fields appeared for the right signers.
 - [ ] **Apps Script export path.** Repeat the check with a PDF from `DriveApp.getFileById(id).getAs('application/pdf')` once the web app is deployed (#3). It's expected to use the same renderer as Drive export.
