@@ -4,21 +4,57 @@
 
 Date: ______________________
 
-**To:** ______________________________ (full name) ("**Participant**") \
-Harvard email address (ending in harvard.edu): ______________________________
+**To:** the individuals listed below (up to ten; leave unused lines blank). Each of them who signs this Letter Agreement is a "**Participant**."
 
-Participant is (check one):
+**1.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
 
-☐ a student enrolled in the Course \
-☐ a member of the Course's teaching staff, signing in a personal capacity
+**2.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**3.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**4.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**5.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**6.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**7.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**8.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**9.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+**10.** Name: ______________________________ \
+Email (ending in harvard.edu): ______________________________ \
+(check one) ☐ Student ☐ Course Staff
+
+A Participant checked as "Student" is a student enrolled in the Course. A Participant checked as "Course Staff" is a member of the Course's teaching staff, signing in a personal capacity.
 
 **Re: Sponsorship of a project in a course at the Harvard John A. Paulson School of Engineering and Applied Sciences**
 
-Dear ______________________ ,
+Dear Participants:
 
-This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which Participant takes part in the Project. If President and Fellows of Harvard College ("**Harvard**") also signs below, it is a party to this Letter Agreement as described in Section 9. Partner, Participant and, if it signs, Harvard are each a "**party**."
+This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 and described in Exhibit A (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. President and Fellows of Harvard College ("**Harvard**") is not a party to this Letter Agreement. Attached to and made part of this Letter Agreement as Exhibit B is Harvard's approval of the form of this Letter Agreement, including each of the options that may be selected in it; Harvard's exception to its intellectual property policy, under which it claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to Course participants; Harvard's clarification that members of the Course's teaching staff who sign this Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions; and Harvard's disclaimer of any and all liability resulting from Partner's use of any Project materials or from any breach of this Letter Agreement by any Participant. Partner and each Participant are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
 
-In consideration of Partner's sponsorship of the Project, Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
+In consideration of Partner's sponsorship of the Project, each Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
 
 ## 1. Sponsorship of an academic project
 
@@ -31,6 +67,8 @@ In consideration of Partner's sponsorship of the Project, Participant's opportun
 ## 2. Project
 
 Project title: ____________________________________________
+
+Project description: see Exhibit A.
 
 Course (number and title): ______________________________
 
@@ -50,7 +88,7 @@ Publication Hold Period under Section 5.2 (leave blank for no time limit): _____
 
 **3.1 Partner Information.** "**Partner Information**" means all information, in any form, that Partner or anyone acting on its behalf provides or makes available to Participant in connection with the Project.
 
-**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means Participant and each other student or member of the Course's teaching staff who has signed a letter agreement with Partner for the Project on substantially the same terms as this Letter Agreement.
+**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means the Participants and each other student or member of the Course's teaching staff who has signed another letter agreement with Partner for the Project on substantially the same terms as this Letter Agreement.
 
 **3.3 Course Private Information.** "**Course Private Information**" means Partner Information that is Course Private Information under the option that applies under Section 4. Participant shall not disclose Course Private Information to anyone other than Partner and members of the Course Community, or as Partner approves in writing. The "**Course Community**" means (a) students enrolled in the Course during the Course Term; (b) the Course's teaching staff; (c) Harvard faculty and staff who support the administration of the Course; and (d) members of the SEAS community and invited guests attending a Private Course Event, solely while attending that event. A "**Private Course Event**" is a class session, presentation, poster session (including the Course's final poster session), project review or similar event of the Course that is not open to the public and is restricted to members of the SEAS community and invited guests. The "**SEAS community**" means the students, faculty and staff of SEAS.
 
@@ -82,7 +120,7 @@ This Section 5 applies whichever option applies under Section 4.
 
 **5.1 Sharing among project teams.** Partner understands that the educational curriculum of the Course involves interactions among project teams and that teams may share Course Private Information within the Course Community. That sharing shall not take place in any public forum without the prior written consent of all applicable Project Participants and Partner.
 
-**5.2 Partner review of other disclosures.** If Participant seeks otherwise to publish findings, in writing or orally, relating to Participant's participation in the Project, Participant shall provide to Partner a copy of any proposed publication, presentation or other disclosure relating in any way to information provided by Partner (or, for an oral disclosure, a written summary of what Participant intends to disclose) (collectively, the "**Proposed Disclosed Info**") at least thirty (30) days before its submission for publication, presentation or other disclosure, and shall not publish, present or otherwise disclose any Proposed Disclosed Info unless and until Partner consents to it in writing or its Publication Hold Period ends. The "**Publication Hold Period**" for any Proposed Disclosed Info begins when Partner receives it and lasts for the period stated in Section 2. If no period is stated there, the Publication Hold Period never ends, and Partner's written consent is always required. The end of a Publication Hold Period does not relieve Participant of Participant's obligations under Sections 3 and 4 regarding Confidential Information and Course Private Information.
+**5.2 Partner review of other disclosures.** If Participant seeks otherwise to publish findings, in writing or orally, relating to Participant's participation in the Project, Participant shall provide to Partner a copy of any proposed publication, presentation or other disclosure relating in any way to information provided by Partner (or, for an oral disclosure, a written summary of what Participant intends to disclose) (collectively, the "**Proposed Disclosed Info**") at least thirty (30) days before its submission for publication, presentation or other disclosure, and shall not publish, present or otherwise disclose any Proposed Disclosed Info unless and until Partner consents to it in writing or its Publication Hold Period ends. Partner shall not unreasonably withhold consent to the publication of results that do not disclose Confidential Information. The "**Publication Hold Period**" for any Proposed Disclosed Info begins when Partner receives it and lasts for the period stated in Section 2. If no period is stated there, the Publication Hold Period never ends, and Partner's written consent is always required. The end of a Publication Hold Period does not relieve Participant of Participant's obligations under Sections 3 and 4 regarding Confidential Information and Course Private Information.
 
 **5.3 Private academic disclosures.** Notwithstanding Section 5.2, Participant may make limited disclosures relating to the Project without Partner's prior written consent where the disclosure is made solely in connection with privately submitted coursework, private class presentations, private poster sessions, or other reasonable and related private academic uses associated with the Project, provided that (i) all logos of, and identifying references to, Partner and any Partner Affiliate are masked using generic names (for example, "Climate Technology Firm" or "Investment Bank"); (ii) Participant provides a copy of the coursework, presentation, poster or other disclosure to Partner for its records no later than when it is submitted or presented; and (iii) if Partner identifies concerns with those materials, Partner may request amendments, redactions or similar edits, and Participant shall not unreasonably refuse any such request. "**Partner Affiliate**" means any entity that directly or indirectly controls, is controlled by, or is under common control with Partner.
 
@@ -124,7 +162,7 @@ All other Project Work Product: \
 ☐ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) \
 ☐ Other: ______________________________
 
-If an FSL license is checked, the following also apply to the software in Project Work Product (the "**Project Software**"): (a) Participant hereby assigns to Partner an undivided interest in Participant's rights in the Project Software and, to the extent that the Project Software is not a joint work of the student Project Participants, an undivided interest to each other student Project Participant, so that Partner and the student Project Participants own the Project Software jointly; (b) Partner and the student Project Participants together are the licensor under the FSL license, so that its restrictions on competing use protect each of them; (c) Partner and each student Project Participant may use the Project Software for any purpose, including in commercial products and services, personally or through an entity it controls, and use by one or more student Project Participants includes their use through a company that they found or control; no such use is a competing use for the purposes of the FSL license, and no joint owner shall assert otherwise; (d) no joint owner shall license or distribute copies of the Project Software, in source or object form, to anyone other than under the checked FSL license, except to an entity through which clause (c) permits it to use the Project Software, unless Partner and all student Project Participants agree in writing; (e) no joint owner owes any other joint owner an accounting of profits from any use or licensing of the Project Software that this Section 8.1 permits; and (f) each released copy of the Project Software shall carry the copyright notice "Copyright [year of first release] [Partner's full legal name] and [full names of the student Project Participants]," except that, notwithstanding Section 11.6, one or more student Project Participants may, without the consent of the other joint owners, assign their interests in the Project Software to a company that they found during the Project and control, and update the notice to name that company in place of themselves, provided that the company first agrees in writing to be bound by the provisions of this Letter Agreement as if it were the applicable student Project Participant or Participants.
+If an FSL license is checked, the following also apply to the software in Project Work Product (the "**Project Software**"): (a) Participant hereby assigns to Partner an undivided interest in Participant's rights in the Project Software and, to the extent that the Project Software is not a joint work of the student Project Participants, an undivided interest to each other student Project Participant, so that Partner and the student Project Participants own the Project Software jointly; (b) Partner and the student Project Participants together are the licensor under the FSL license, so that its restrictions on competing use protect each of them; (c) Partner and each student Project Participant may use the Project Software for any purpose, including in commercial products and services, personally or through an entity it controls, and use by one or more student Project Participants includes their use through a company that they found or control; no such use is a competing use for the purposes of the FSL license, and no joint owner shall assert otherwise; (d) no joint owner shall license or distribute copies of the Project Software, in source or object form, to anyone other than under the checked FSL license, except to an entity through which clause (c) permits it to use the Project Software, unless Partner and every student Project Participant first amend their letter agreements to permit it; (e) no joint owner owes any other joint owner an accounting of profits from any use or licensing of the Project Software that this Section 8.1 permits; and (f) each released copy of the Project Software shall carry the copyright notice "Copyright [year of first release] [Partner's full legal name] and [full names of the student Project Participants]," except that, notwithstanding Section 11.6, one or more student Project Participants may, without the consent of the other joint owners, assign their interests in the Project Software to a company that they found during the Project and control, and update the notice to name that company in place of themselves, provided that the company first agrees in writing to be bound by the provisions of this Letter Agreement as if it were the applicable student Project Participant or Participants.
 
 ☐ **8.2 Participant keeps ownership; licenses to Partner and Project Participants.** Participant keeps Participant's rights in Project Work Product. Participant hereby grants to Partner and to each other Project Participant a non-exclusive, royalty-free, perpetual, irrevocable, worldwide license under those rights to use, reproduce, modify, prepare derivative works of, distribute, perform and display, make, have made, sell, offer to sell, import and otherwise exploit Project Work Product for any purpose. These licenses are not transferable, except that Partner's license transfers with any assignment of this Letter Agreement permitted by Section 11.6. No licensee may sublicense its license without Participant's prior written consent. Each other Project Participant's use remains subject to that Project Participant's own letter agreement with Partner.
 
@@ -140,23 +178,21 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **8.8 Demonstrations and recordings.** Notwithstanding Sections 3.3 and 5.2, Participant may demonstrate working Project Work Product live to potential employers, graduate programs and similar audiences, provided that Participant masks references to Partner and any Partner Affiliate as described in Section 5.3(i), does not disclose Confidential Information, and does not provide copies of Project Work Product or of any data or code licensed under the Enabling License. Participant may also make video recordings demonstrating working Project Work Product, redacting any Confidential Information, and, with Partner's consent, which Partner shall not unreasonably withhold, may share them in a non-public manner (for example, on a password-protected website) to illustrate Participant's work in the Course.
 
-**8.9 Enabling License.** Partner shall use commercially reasonable efforts to grant Participant, by written notice identifying the data or code covered, a license for five (5) years after the end of the Course Term to use limited or simulated versions of data or code included in Partner Background IP, as minimally required solely to enable the demonstrations permitted by Sections 8.7 and 8.8 for noncommercial purposes (the "**Enabling License**"). For example, an AI model trained on Partner data cannot easily be "un-trained," but Participant may wish to demonstrate that model to graduate schools or employers; demonstrating the trained model is covered by the Enabling License, but reusing, distilling, reverse engineering, extracting or otherwise disclosing the data used to train it is not. Data and code licensed under the Enabling License remain subject to Sections 3 and 4 for as long as the Enabling License lasts. Participant may demonstrate the functionality of software licensed under the Enabling License but shall not disclose its source code without Partner's express written consent. The Enabling License does not permit commercial use, and no commercial use of Project Work Product may use any data or code licensed under the Enabling License. To avoid doubt, employment interviews, research discussions and similar activities are not commercial use.
+**8.9 Enabling License.** Partner hereby grants Participant a license for five (5) years after the end of the Course Term to use limited or simulated versions of data or code included in Partner Background IP, as minimally required solely to enable the demonstrations permitted by Sections 8.7 and 8.8 for noncommercial purposes (the "**Enabling License**"). The Enabling License covers the data and code that a Partner Contact identifies by written notice. Partner shall use commercially reasonable efforts to identify data or code sufficient for those demonstrations, and the Partner Contacts decide in their discretion which data or code to identify. For example, an AI model trained on Partner data cannot easily be "un-trained," but Participant may wish to demonstrate that model to graduate schools or employers; demonstrating the trained model is covered by the Enabling License, but reusing, distilling, reverse engineering, extracting or otherwise disclosing the data used to train it is not. Data and code licensed under the Enabling License remain subject to Sections 3 and 4 for as long as the Enabling License lasts. Participant may demonstrate the functionality of software licensed under the Enabling License but shall not disclose its source code without Partner's express written consent. The Enabling License does not permit commercial use, and no commercial use of Project Work Product may use any data or code licensed under the Enabling License. To avoid doubt, employment interviews, research discussions and similar activities are not commercial use.
 
 **8.10 Consideration; no warranties.** Participant acknowledges that the rights granted to Partner in this Section 8 are a material inducement to Partner's sponsorship of the Project, and that Partner's sponsorship and Participant's opportunity to take part in the Project are sufficient consideration for them. Section 7 applies to all Project Work Product and to all rights granted under this Section 8, and Participant gives no warranty or indemnity regarding intellectual property.
 
 ## 9. Harvard
 
-**9.1 If Harvard does not sign.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it.
+**9.1 Harvard is not a party.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it. Exhibit B is attached to and made part of this Letter Agreement, but it does not make Harvard a party. Harvard makes no representations or warranties regarding the Project, any Participant or any Project Work Product.
 
-**9.2 If Harvard signs.** Harvard signs this Letter Agreement, through the office identified in its signature block, to acknowledge the arrangements in it as they relate to the Course. Harvard has no obligations under this Letter Agreement except those expressly stated to be Harvard's. Harvard makes no representations or warranties regarding the Project, Participant or any Project Work Product.
+**9.2 Separate agreements and Harvard's rights.** This Letter Agreement does not amend any agreement between Harvard and Partner or any other third party concerning the Course or the Project (a "**Separate Agreement**"), and it does not affect any rights that Harvard has under such an agreement or under its policies, including without limitation rights in intellectual property arising from faculty-sponsored research. Nothing in this Letter Agreement assigns or licenses any right that Harvard owns, and Participant's rights under Section 8 are subject to those rights. As between Partner and Harvard, a Separate Agreement governs if it conflicts with this Letter Agreement.
 
-**9.3 Separate agreements with Harvard.** This Letter Agreement does not amend any separate agreement between Partner and Harvard concerning the Course or the Project (a "**Sponsorship Agreement**"). As between Partner and Harvard, the Sponsorship Agreement governs if it conflicts with this Letter Agreement.
-
-**9.4 No Harvard liability.** Whether or not Harvard signs this Letter Agreement, Harvard expressly disclaims any and all liability resulting from any party's breach of this Letter Agreement, and neither Partner nor Participant shall assert any claim against Harvard for any such breach. Harvard is an intended third-party beneficiary of this Section 9.4.
+**9.3 No Harvard liability.** Harvard has no liability resulting from Partner's use of any Project materials or from any party's breach of this Letter Agreement, and neither Partner nor any Participant shall assert any claim against Harvard for any such use or breach. Harvard is an intended third-party beneficiary of this Section 9.3.
 
 ## 10. Effective date and duration
 
-**10.1 Effective Date.** This Letter Agreement takes effect on the date on which both Partner and Participant have signed it (the "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
+**10.1 Effective Date.** This Letter Agreement takes effect, as to each Participant, on the date on which both Partner and that Participant have signed it (that Participant's "**Effective Date**") and continues through the end of the Course Term. It also applies to Partner Information provided to Participant in connection with the Project before the Effective Date.
 
 **10.2 Survival.** Sections 3 through 9, 10.2 and 11 survive the end of this Letter Agreement, including if Participant stops taking part in the Project or withdraws from the Course. Participant's obligations regarding Confidential Information and Course Private Information continue for five (5) years after the end of the Course Term and, for any Confidential Information that is a trade secret, for as long as it remains a trade secret under applicable law. Sections 5.2 through 5.4 continue without time limit.
 
@@ -166,21 +202,21 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.2 Equitable relief.** Participant acknowledges that a breach by Participant of Sections 3 through 6 or Section 8 may cause Partner irreparable harm for which money damages would not be an adequate remedy, and that Partner may seek injunctive or other equitable relief for such a breach in addition to any other remedy.
 
-**11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any consent, approval, waiver or license that Partner grants under it must be signed, which may be done electronically, by an authorized officer of Partner. Otherwise, the Partner Contacts may represent Partner with respect to the Project, including by providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent. Notices, copies and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
+**11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any waiver by Partner must be signed, which may be done electronically, by an authorized officer of Partner. By listing Partner Contacts in Section 2, Partner's authorized officer authorizes each of them to represent Partner with respect to the Project, including by giving any consent or approval that Partner gives under this Letter Agreement, identifying the data and code covered by the Enabling License, providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent, but not to amend this Letter Agreement. Notices, copies, consents and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
 
-**11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. It may be amended only in a writing signed by Partner and Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
+**11.4 Entire agreement; amendment; waiver.** This Letter Agreement, including its Exhibits, is the entire agreement between Partner and each Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. As to any Participant, it may be amended only in a writing signed by Partner and that Participant. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
 
 **11.5 Severability.** If any provision of this Letter Agreement is held unenforceable, it will be enforced to the maximum extent permitted, and the remaining provisions remain in effect.
 
 **11.6 Assignment.** Participant may not assign or delegate this Letter Agreement. Partner may assign it, on written notice to Participant, to a successor to all or substantially all of the business to which it relates. This Letter Agreement binds and benefits the parties and their permitted successors and assigns.
 
-**11.7 No third-party beneficiaries.** Except as stated in Section 9.4, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
+**11.7 No third-party beneficiaries.** Except as stated in Section 9.3, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
 
 **11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Dropbox Sign, are as effective as handwritten signatures.
 
 **11.9 Interpretation.** Headings are for convenience only. "Including" means "including without limitation."
 
-**11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner or Harvard is authorized to do so.
+**11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner is authorized to do so.
 
 **11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily. If Participant is a student, Participant was given the opportunity to request a project in the Course that did not require entering into an agreement with a third party.
 
@@ -198,23 +234,58 @@ Title: ______________________________ \
 Date: ______________________________ \
 Email: ______________________________
 
-**ACCEPTED AND AGREED: PARTICIPANT**
+**ACCEPTED AND AGREED: PARTICIPANTS**
 
-Signature: ______________________________ \
-Full name: ______________________________ \
-Date: ______________________________ \
-Harvard email address: ______________________________
+Each Participant signs on the line with the same number as in the list of Participants above.
 
-**ACKNOWLEDGED AND AGREED: HARVARD** (optional; complete only if Harvard is a party)
+**1.** Signature: ______________________________ Date: ______________
 
-Check one:
+**2.** Signature: ______________________________ Date: ______________
 
-☐ President and Fellows of Harvard College \
-☐ President and Fellows of Harvard College, acting through its Office for Technology Development \
-☐ President and Fellows of Harvard College, acting through the Harvard John A. Paulson School of Engineering and Applied Sciences
+**3.** Signature: ______________________________ Date: ______________
+
+**4.** Signature: ______________________________ Date: ______________
+
+**5.** Signature: ______________________________ Date: ______________
+
+**6.** Signature: ______________________________ Date: ______________
+
+**7.** Signature: ______________________________ Date: ______________
+
+**8.** Signature: ______________________________ Date: ______________
+
+**9.** Signature: ______________________________ Date: ______________
+
+**10.** Signature: ______________________________ Date: ______________
+
+## Exhibit A: Project description
+
+Project title: as stated in Section 2.
+
+Description of the Project, including its goals, scope and expected deliverables: \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ (attach additional pages if needed)
+
+## Exhibit B: Harvard approval of the form of this Letter Agreement
+
+[Draft for Harvard's review. Once signed, the same Exhibit B is attached to every letter agreement in this form for the courses listed below.]
+
+President and Fellows of Harvard College ("**Harvard**"), acting through the office checked below, states the following about letter agreements in the form to which this Exhibit B is attached (each, a "**Letter Agreement**") for the following course or courses: ______________________________. Capitalized terms not defined in this Exhibit B have the meanings given in the Letter Agreement.
+
+1. **Approval of the form.** Harvard approves the form of the Letter Agreement, including each of the options that may be selected in it.
+2. **Student intellectual property.** As an exception to its Statement of Policy in Regard to Intellectual Property, Harvard claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to course participants.
+3. **Course staff.** Members of a course's teaching staff who sign a Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions, and not on behalf of Harvard.
+4. **No liability.** Harvard disclaims any and all liability resulting from Partner's use of any Project materials or from any breach of a Letter Agreement by any Participant.
+
+Harvard is not a party to any Letter Agreement.
+
+Office (check one): \
+☐ Office for Technology Development \
+☐ Harvard John A. Paulson School of Engineering and Applied Sciences
 
 By: ______________________________ \
 Name: ______________________________ \
 Title: ______________________________ \
-Date: ______________________________ \
-Email: ______________________________
+Date: ______________________________
