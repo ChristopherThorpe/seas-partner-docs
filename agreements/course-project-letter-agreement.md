@@ -268,7 +268,7 @@ ______________________________________________________________________ \
 ______________________________________________________________________ \
 ______________________________________________________________________ (attach additional pages if needed)
 
-## Exhibit B: Harvard approval of the form of this Letter Agreement
+## Exhibit B: Approval of Letter Agreement
 
 [Draft for Harvard's review. Once signed, the same Exhibit B is attached to every letter agreement in this form for the courses listed below.]
 
