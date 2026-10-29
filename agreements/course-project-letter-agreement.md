@@ -52,7 +52,7 @@ A Participant checked as "Student" is a student enrolled in the Course. A Partic
 
 Dear Participants:
 
-This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. If President and Fellows of Harvard College ("**Harvard**") also signs below, it is a party to this Letter Agreement as described in Section 9. Partner, each Participant and, if it signs, Harvard are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
+This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 and described in Exhibit A (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. President and Fellows of Harvard College ("**Harvard**") is not a party to this Letter Agreement. Attached to and made part of this Letter Agreement as Exhibit B is Harvard's approval of the form of this Letter Agreement, including each of the options that may be selected in it; Harvard's exception to its intellectual property policy, under which it claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to Course participants; Harvard's clarification that members of the Course's teaching staff who sign this Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions; and Harvard's disclaimer of any and all liability resulting from Partner's use of any Project materials or from any breach of this Letter Agreement by any Participant. Partner and each Participant are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
 
 In consideration of Partner's sponsorship of the Project, each Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
 
@@ -67,6 +67,8 @@ In consideration of Partner's sponsorship of the Project, each Participant's opp
 ## 2. Project
 
 Project title: ____________________________________________
+
+Project description: see Exhibit A.
 
 Course (number and title): ______________________________
 
@@ -182,13 +184,11 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 ## 9. Harvard
 
-**9.1 If Harvard does not sign.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it.
+**9.1 Harvard is not a party.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it. Exhibit B is attached to and made part of this Letter Agreement, but it does not make Harvard a party. Harvard makes no representations or warranties regarding the Project, any Participant or any Project Work Product.
 
-**9.2 If Harvard signs.** Harvard signs this Letter Agreement, through the office identified in its signature block, to acknowledge the arrangements in it as they relate to the Course. Harvard has no obligations under this Letter Agreement except those expressly stated to be Harvard's. Harvard makes no representations or warranties regarding the Project, Participant or any Project Work Product.
+**9.2 Separate agreements with Harvard.** This Letter Agreement does not amend any separate agreement between Partner and Harvard concerning the Course or the Project (a "**Sponsorship Agreement**"). As between Partner and Harvard, the Sponsorship Agreement governs if it conflicts with this Letter Agreement.
 
-**9.3 Separate agreements with Harvard.** This Letter Agreement does not amend any separate agreement between Partner and Harvard concerning the Course or the Project (a "**Sponsorship Agreement**"). As between Partner and Harvard, the Sponsorship Agreement governs if it conflicts with this Letter Agreement.
-
-**9.4 No Harvard liability.** Whether or not Harvard signs this Letter Agreement, Harvard expressly disclaims any and all liability resulting from any party's breach of this Letter Agreement, and neither Partner nor Participant shall assert any claim against Harvard for any such breach. Harvard is an intended third-party beneficiary of this Section 9.4.
+**9.3 No Harvard liability.** Harvard has no liability resulting from Partner's use of any Project materials or from any party's breach of this Letter Agreement, and neither Partner nor any Participant shall assert any claim against Harvard for any such use or breach. Harvard is an intended third-party beneficiary of this Section 9.3.
 
 ## 10. Effective date and duration
 
@@ -204,19 +204,19 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 **11.3 Signatures, consents and Partner Contacts.** This Letter Agreement, any amendment to it, and any waiver by Partner must be signed, which may be done electronically, by an authorized officer of Partner. By listing Partner Contacts in Section 2, Partner's authorized officer authorizes each of them to represent Partner with respect to the Project, including by giving any consent or approval that Partner gives under this Letter Agreement, identifying the data and code covered by the Enabling License, providing and identifying Partner Information, giving notices, requesting edits under Section 5.3, and receiving copies and requests for consent, but not to amend this Letter Agreement. Notices, copies, consents and requests under this Letter Agreement must be in writing, and email is sufficient. Copies and requests for consent go to the Partner Contacts. Other notices go to the email addresses given in this Letter Agreement (for Partner, those of its signatory and the Partner Contacts), or to another address that a party designates by notice.
 
-**11.4 Entire agreement; amendment; waiver.** This Letter Agreement is the entire agreement between Partner and each Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. As to any Participant, it may be amended only in a writing signed by Partner and that Participant and, if Harvard signed it, by Harvard. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
+**11.4 Entire agreement; amendment; waiver.** This Letter Agreement, including its Exhibits, is the entire agreement between Partner and each Participant about its subject matter and supersedes all prior and contemporaneous understandings between them about it. As to any Participant, it may be amended only in a writing signed by Partner and that Participant. A waiver is effective only if it is in writing, and no failure or delay in enforcing any provision is a waiver of it.
 
 **11.5 Severability.** If any provision of this Letter Agreement is held unenforceable, it will be enforced to the maximum extent permitted, and the remaining provisions remain in effect.
 
 **11.6 Assignment.** Participant may not assign or delegate this Letter Agreement. Partner may assign it, on written notice to Participant, to a successor to all or substantially all of the business to which it relates. This Letter Agreement binds and benefits the parties and their permitted successors and assigns.
 
-**11.7 No third-party beneficiaries.** Except as stated in Section 9.4, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
+**11.7 No third-party beneficiaries.** Except as stated in Section 9.3, nothing in this Letter Agreement confers any right or remedy on anyone other than the parties and their permitted successors and assigns.
 
 **11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Dropbox Sign, are as effective as handwritten signatures.
 
 **11.9 Interpretation.** Headings are for convenience only. "Including" means "including without limitation."
 
-**11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner or Harvard is authorized to do so.
+**11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner is authorized to do so.
 
 **11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily. If Participant is a student, Participant was given the opportunity to request a project in the Course that did not require entering into an agreement with a third party.
 
@@ -258,16 +258,34 @@ Each Participant signs on the line with the same number as in the list of Partic
 
 **10.** Signature: ______________________________ Date: ______________
 
-**ACKNOWLEDGED AND AGREED: HARVARD** (optional; complete only if Harvard is a party)
+## Exhibit A: Project description
 
-Check one:
+Project title: as stated in Section 2.
 
-☐ President and Fellows of Harvard College \
-☐ President and Fellows of Harvard College, acting through its Office for Technology Development \
-☐ President and Fellows of Harvard College, acting through the Harvard John A. Paulson School of Engineering and Applied Sciences
+Description of the Project, including its goals, scope and expected deliverables: \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ (attach additional pages if needed)
+
+## Exhibit B: Harvard approval of the form of this Letter Agreement
+
+[Draft for Harvard's review. Once signed, the same Exhibit B is attached to every letter agreement in this form for the courses listed below.]
+
+President and Fellows of Harvard College ("**Harvard**"), acting through the office checked below, states the following about letter agreements in the form to which this Exhibit B is attached (each, a "**Letter Agreement**") for the following course or courses: ______________________________. Capitalized terms not defined in this Exhibit B have the meanings given in the Letter Agreement.
+
+1. **Approval of the form.** Harvard approves the form of the Letter Agreement, including each of the options that may be selected in it.
+2. **Student intellectual property.** As an exception to its Statement of Policy in Regard to Intellectual Property, Harvard claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to course participants.
+3. **Course staff.** Members of a course's teaching staff who sign a Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions, and not on behalf of Harvard.
+4. **No liability.** Harvard disclaims any and all liability resulting from Partner's use of any Project materials or from any breach of a Letter Agreement by any Participant.
+
+Harvard is not a party to any Letter Agreement.
+
+Office (check one): \
+☐ Office for Technology Development \
+☐ Harvard John A. Paulson School of Engineering and Applied Sciences
 
 By: ______________________________ \
 Name: ______________________________ \
 Title: ______________________________ \
-Date: ______________________________ \
-Email: ______________________________
+Date: ______________________________
