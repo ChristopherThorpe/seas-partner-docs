@@ -63,7 +63,7 @@ Dropbox Sign only places tagged fields through its paid API, so SEAS chose **Ado
 ## Signer order
 
 - **signer1 is the Partner, and signer2, signer3, … are the Participants**, numbered per generated document with no gaps (one per Participant actually named; see #25).
-- **Harvard isn't tagged.** On the rare occasion Harvard signs, the person sending the agreement adds Harvard in Acrobat Sign **as the last recipient**, after every Participant, and places Harvard's signature field by hand. Signer numbers are positional, so adding Harvard anywhere earlier would shift the tagged fields onto the wrong people.
+- **Harvard signs only when the questionnaire's "Harvard signs" checkbox (`HARVARD_SIGNS`, unchecked by default) is checked** (#1). Otherwise its signature block is left out. In the letter agreement, the block is a generated Exhibit B that names the Partner and refers to the Letter Agreement "of even date". When Harvard signs, its tags make it the **last** signer, and the sender must add Harvard as the last recipient in Acrobat Sign. Signer numbers are positional, so adding Harvard anywhere earlier would shift the tagged fields onto the wrong people.
 
 ## Open items
 
