@@ -1,6 +1,6 @@
-# ADR 0003: Dropbox Sign text tags in generated Google Docs
+# ADR 0003: E-signature text tags in generated Google Docs
 
-- **Status:** Proposed. The API side is verified. **The Dropbox Sign web app ignores text tags** (result 9), so automatic placement needs the API. The choice between platforms is open in #22. Still pending: the Apps Script export path (see [Open items](#open-items)).
+- **Status:** Accepted for the tag-generation rules below. The Dropbox Sign API side is verified, but **the Dropbox Sign web app ignores text tags** (result 9). **Platform decision (#1): Adobe Acrobat Sign through HUIT**, pending its own upload test in [#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35). See [Platform decision](#platform-decision).
 - **Issue:** [#5](https://github.com/ChristopherThorpe/seas-partner-docs/issues/5)
 - **Date:** 2026-10-28
 
@@ -49,7 +49,19 @@ For #15 and #16:
 - **Keep the tag syntax behind one interface in code.** If SEAS chooses a different e-signature platform, only the tag builder changes, not the templates.
 - **Make manual placement easy.** Until tags are used, a person places fields in the Dropbox Sign editor. The visible cues ("Signature", rule lines) and the signer manifest (signer order, names, emails) shown on the document page are what guide them.
 
+## Platform decision
+
+Dropbox Sign only places tagged fields through its paid API, so SEAS chose **Adobe Acrobat Sign**, which HUIT already provides to Harvard faculty and staff (#1). Adobe documents its text tags as processed automatically on web upload, on all service tiers. The rules found here still apply, with Adobe's syntax:
+
+- `{{Name_es_:signerN:type:directives}}`. Signer numbers are positional and gapless, as with Dropbox Sign.
+- Field formatting comes from the tag's first `{`. White tags therefore need `:font(color=black)`, or typed values come out white.
+- `:dimension(width=…, height=…)` sets the field size exactly, so the renderer doesn't need to pad tags.
+- The `{{#x=…}}` / `{{$x}}` short form keeps tags short in narrow places.
+
+`docs/spikes/esign-tags/adobe-texttags-test.pdf` is the test file for [#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35), which is waiting on HUIT access. The tag builder in #16 keeps the platform syntax in one place, so the Dropbox Sign mapping above remains available if plans change.
+
 ## Open items
 
 - [x] **Dropbox Sign web app.** Done: no fields appeared, and AI Auto-place Fields did poorly (result 9).
+- [ ] **Adobe Acrobat Sign upload test** ([#35](https://github.com/ChristopherThorpe/seas-partner-docs/issues/35)): waiting on HUIT access.
 - [ ] **Apps Script export path.** Repeat the check with a PDF from `DriveApp.getFileById(id).getAs('application/pdf')` once the web app is deployed (#3). It's expected to use the same renderer as Drive export.
