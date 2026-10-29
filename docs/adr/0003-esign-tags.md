@@ -63,7 +63,7 @@ Dropbox Sign only places tagged fields through its paid API, so SEAS chose **Ado
 ## Signer order
 
 - **signer1 is the Partner, and signer2, signer3, … are the Participants**, numbered per generated document with no gaps (one per Participant actually named; see #25).
-- **Harvard signs only when the questionnaire's "Harvard signs" checkbox (`HARVARD_SIGNS`, unchecked by default) is checked** (#1). The answer is given only in the questionnaire. In the letter agreement, a checked box adds a customized Exhibit B naming the Partner and this specific Letter Agreement, with Harvard as the **last** signer; the sender adds Harvard as the last recipient in Acrobat Sign. Signer numbers are positional, so adding Harvard anywhere earlier would shift the tagged fields onto the wrong people. An unchecked box attaches the existing signed Exhibit B, or, if none has been uploaded, a single page headed "Exhibit B: Harvard written consent". Neither of those has tags.
+- **Harvard signs only when the questionnaire's "Harvard signs" checkbox (`HARVARD_SIGNS`, unchecked by default) is checked** (#1). The answer is given only in the questionnaire. In the letter agreement, a checked box adds a customized Exhibit B naming the Partner and this specific Letter Agreement, with Harvard as the **last** signer; the sender adds Harvard as the last recipient in Acrobat Sign. Signer numbers are positional, so adding Harvard anywhere earlier would shift the tagged fields onto the wrong people. An unchecked box attaches the existing signed Exhibit B, or, if none has been uploaded, a single page headed "Exhibit B: Approval of Letter Agreement". Neither of those has tags.
 
 ## Open items
 
