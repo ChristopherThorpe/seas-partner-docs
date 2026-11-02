@@ -345,7 +345,7 @@ Each student enrolled in the Course submits this acknowledgment, for example by 
 
 In the Course, students will work collaboratively with industry partners on applied computation projects. Some of these projects may be suitable for further development and even commercialization. To secure resources from industry partners, which may include without limitation their valuable time, data, know-how and computing resources (some of which partners are obligated to protect), the Course has adopted this policy. Students may find it helpful to bear in mind not only the IP Policy and the FAQ, which was developed with SEAS students in mind, but also the additional points below as they form teams and carry out their coursework.
 
-**Ownership of software and other innovations arising from coursework.** In applying the IP Policy, Harvard's Office for Technology Development (OTD) has created an informal exception regarding the ownership of innovations made in a student's performance of coursework. Provided that the course is not funded by, or conducted under, an agreement between Harvard and a third party (such as a funding agency, research collaborator, or provider of technology or data necessary for the course to be offered), and provided that the only Harvard-administered resources a given student uses are those provided generally to those enrolled in the course, Harvard does not claim ownership of a student's rights in the IP that results from their work. This Course is not supported by any agreement between Harvard and any outside party; therefore, students' rights in software or other inventions created in the Course are governed only by this policy and any other agreements they may make with classmates and industry partners. (See also item 8 of the FAQ.)
+**Ownership of software and other innovations arising from coursework.** In applying the IP Policy, Harvard's Office of Technology Development (OTD) has created an informal exception regarding the ownership of innovations made in a student's performance of coursework. Provided that the course is not funded by, or conducted under, an agreement between Harvard and a third party (such as a funding agency, research collaborator, or provider of technology or data necessary for the course to be offered), and provided that the only Harvard-administered resources a given student uses are those provided generally to those enrolled in the course, Harvard does not claim ownership of a student's rights in the IP that results from their work. This Course is not supported by any agreement between Harvard and any outside party; therefore, students' rights in software or other inventions created in the Course are governed only by this policy and any other agreements they may make with classmates and industry partners. (See also item 8 of the FAQ.)
 
 > **Discrepancy A-12 (Harvard's exception):**
 > - **Informal vs formal:** this describes OTD's exception as *informal*, while Exhibit C item 2 has Harvard state it formally.
@@ -371,7 +371,7 @@ On team-based activities, if more than one person authors a piece of software or
 
 For example, you would not be able to license the work to any third party for compensation, or use it in a startup company that you might found, without the explicit consent of all authors. From this perspective, keeping lines of communication among teammates open (and cordial) as you work together will help you understand each other's aims and plan together how best to move forward. This is a key reason why the Course adopts Open Science (the MIT License) as its baseline: by licensing the software openly from the outset, deadlocks among co-authors are eliminated, and all team members retain the permanent right to use the codebase.
 
-As a working engineer, you should get into the habit of reviewing the terms and conditions of licenses that cover any open-source software or tools, such as generative AI tools, that you might use. In this way, you can make informed decisions about their use, based on the extent to which they might affect your complete ownership, or at least control, of the innovations you might make through their use.
+As a working engineer, you should get into the habit of reviewing the terms and conditions of licenses that cover any open-source software or tools, such as generative AI tools, that you might use. (Terms for Claude, ChatGPT and Gemini are included in the further resources below.) In this way, you can make informed decisions about their use, based on the extent to which they might affect your complete ownership, or at least control, of the innovations you might make through their use.
 
 In the U.S., at least, a work is protected by copyright from the moment of its creation; however, you may also wish to consider registering the copyright in your code, which can provide additional protections.
 
@@ -435,7 +435,7 @@ President and Fellows of Harvard College ("**Harvard**"), acting through the off
 Harvard is not a party to any Letter Agreement.
 
 Office (check one): \
-☐ Office for Technology Development \
+☐ Office of Technology Development \
 ☐ Harvard John A. Paulson School of Engineering and Applied Sciences
 
 By: ______________________________ \
