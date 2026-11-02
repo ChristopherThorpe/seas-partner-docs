@@ -116,7 +116,7 @@ Partner and Participant agree that the option checked below applies. **Check exa
 
 ☐ **4.4 Both categories, clearly identified.** Partner may disclose both Confidential Information and Course Private Information to Participant, and shall clearly identify which is which in accordance with Section 3.2. All Partner Information that Partner does not identify as Confidential Information shall be considered Course Private Information.
 
-**4.5 Obligations under every option.** Participant shall (a) use Confidential Information and Course Private Information only for the Project and Participant's work in the Course, and as permitted by Section 8; (b) protect them with at least reasonable care; (c) not post or store them in any public forum, including public websites, public code repositories, social media, and public events; and (d) within thirty (30) days after Participant's End Date, or sooner on Partner's written request, delete or destroy all Confidential Information in Participant's possession or control, other than data or code licensed under the Enabling License.
+**4.5 Obligations under every option.** Participant shall (a) use Confidential Information and Course Private Information only for the Project and Participant's work in the Course, and as permitted by Section 8; (b) protect them with at least reasonable care; (c) not post or store them in any public forum, including public websites, public code repositories, social media, and public events; (d) within thirty (30) days after Participant's End Date, or sooner on Partner's written request, delete or destroy all Confidential Information in Participant's possession or control, other than data or code licensed under the Enabling License; and (e) use only generative AI tools approved in writing by Partner, which may include tools provided by Harvard, with Partner Information.
 
 **4.6 Partner's obligations under every option.** Partner shall not provide to Participant any information, software, or technology that is listed on the Commerce Control List of the U.S. Export Administration Regulations or the U.S. Munitions List of the International Traffic in Arms Regulations. Partner shall label any personal data, third-party data, or other data whose use or disclosure is restricted by law or contract ("**Protected Data**") as Confidential Information or Course Private Information, as applicable under the option that applies under Section 4, except that if Option 4.1 applies, Partner shall not provide any Protected Data.
 
@@ -274,8 +274,6 @@ Each Participant signs on the line with the same number as in the list of Partic
 
 [Draft. This Exhibit A.DS is based on the course's existing "Intellectual Property Policy Acknowledgment". The text is kept as written, except that course-specific names are replaced with "the Course". Each point where it differs from the Letter Agreement is called out in a **Discrepancy** note. Resolve each note, then delete it, before this Exhibit A.DS is used.]
 
-> **Discrepancy A-0 (title and dates):** the source file is named "AY26-27 Spring", but its text says "Applied Computation 297r, Fall 2026". This Exhibit A.DS uses "the Course" and the Duration from Section 2 instead.
-
 ### Student acknowledgment
 
 This acknowledgment is part of the Letter Agreement, and no separate signature is required. By signing the Letter Agreement, each Participant who is a student acknowledges, for the Course, that:
@@ -315,7 +313,7 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 
 > **Discrepancy A-5 (sharing within the Course):** under the Letter Agreement, Course Private Information may be shared within the Course Community, including other project teams and attendees at private Course events (§3.3, §5.1). Only Confidential Information is limited to Project Participants (§3.2). This policy bars sharing Partner Data or Partner Code with students on other projects at all.
 
-**Protecting partner materials.** Students agree to make all commercially reasonable efforts to protect Partner Data, Partner Code, and Course deliverables, including by (a) storing them as the applicable partner requires, in any case consistent with industry-standard information security practices, and (b) deleting any and all Partner Data and Partner Code, or online access to them, at the end of the Course, unless otherwise permitted by the applicable partner (for example, as part of the Enabling License defined below).
+**Protecting partner materials.** Students agree to make all commercially reasonable efforts to protect Partner Data, Partner Code, and Course deliverables, including by (a) storing them as the applicable partner requires, in any case consistent with industry-standard information security practices, and (b) deleting any and all Partner Data and Partner Code, or online access to them, at the end of the Course, unless otherwise permitted by the applicable partner (for example, under the Enabling License in Section 8.9 of the Letter Agreement).
 
 > **Discrepancy A-6 (deletion at the end of the Course):** the Letter Agreement requires deleting only Confidential Information, within 30 days after the Participant's End Date (§10.1), except data and code under the Enabling License (§4.5(d)). Course Private Information stays protected for five years, but doesn't have to be deleted (§10.2).
 
@@ -328,12 +326,7 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 >
 > Suggested fix: replace this paragraph with a short summary of §8.
 
-**Enabling License for demonstrations.** To enable students to demonstrate project achievements after the Course concludes (whether operating under Open Science or an alternative track), industry partners agree to make commercially reasonable efforts to grant a three-year limited license for noncommercial use to limited or simulated Partner Data and/or Partner Code (the "**Enabling License**") minimally required exclusively for the purpose of enabling demonstration for noncommercial use. For example, an AI model trained on Partner Data cannot easily be "un-trained" on that data, but students may wish to demonstrate that model to graduate schools or employers as part of their project under the Enabling License. In this example, demonstrating the trained AI model would be covered under the Enabling License, but reusing, distilling, reverse engineering, extracting, or otherwise disclosing the data used to train the AI model would not be covered. Any data or code in the Enabling License remains subject to nondisclosure for the duration of the Enabling License. A student may demonstrate the functionality of the software, but may not disclose its source code without express consent. The Enabling License does not permit commercial use, and commercial use of the Limited License may not use any of the limited or simulated Partner Data and/or Partner Code in the Enabling License. To avoid doubt, employment interviews, research discussions, and the like are not "commercial use."
-
-> **Discrepancy A-8 (Enabling License):**
-> - **Length:** the Letter Agreement sets five years after the Participant's End Date, not three (§8.9). You've confirmed five.
-> - **Grant:** the Letter Agreement grants the license directly. A Partner Contact picks the data and code it covers, and Partner uses commercially reasonable efforts to identify enough. Here, partners only promise efforts to grant it.
-> - **Live demos:** the Letter Agreement also allows live demonstrations to employers and graduate programs with Partner's identity masked (§8.8).
+**Enabling License for demonstrations.** To enable students to demonstrate their project work after the Course concludes, the Letter Agreement includes an Enabling License for limited or simulated Partner Data and Partner Code, as described in Section 8.9 of the Letter Agreement.
 
 **Video demos.** Students may make video "demo" recordings of a working project, redacting any confidential information. They may share these videos in a non-public manner (for example, on a password-protected website) to illustrate their work in the Course, with industry partners' consent, which shall not be unreasonably withheld.
 
@@ -345,9 +338,7 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 
 > **Discrepancy A-10 (negotiation):** the Letter Agreement already offers assignment to Partner (§8.3). Any other terms would need an amendment signed by Partner's authorized officer and each affected Participant (§11.3, §11.4).
 
-**Generative AI and account usage.** Students agree to use their Harvard accounts and the Harvard generative AI tools described at https://www.huit.harvard.edu/ai/tools, in order to protect students', teammates', and partners' intellectual property. Exception: partners may request that students use their own tools, at their own expense, to protect partner IP.
-
-> **Discrepancy A-11 (generative AI):** the Letter Agreement says nothing about which AI tools may be used with Partner Information. Should it add a matching duty, for example in §4.5?
+**Generative AI and account usage.** Students agree to use their Harvard accounts and the Harvard generative AI tools described at https://www.huit.harvard.edu/ai/tools, in order to protect students', teammates', and partners' intellectual property. Exception: partners may request that students use their own tools, at their own expense, to protect partner IP. With Partner Information, students use only generative AI tools that the partner has approved in writing, which may include tools provided by Harvard (Section 4.5 of the Letter Agreement).
 
 ### Section 2. Background and Harvard OTD coursework policy
 
