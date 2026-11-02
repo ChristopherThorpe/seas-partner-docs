@@ -52,7 +52,7 @@ A Participant checked as "Student" is a student enrolled in the Course. A Partic
 
 Dear Participants:
 
-This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 and described in Exhibit A (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. President and Fellows of Harvard College ("**Harvard**") is not a party to this Letter Agreement. Attached to and made part of this Letter Agreement as Exhibit B is Harvard's approval of the form of this Letter Agreement, including each of the options that may be selected in it; Harvard's exception to its intellectual property policy, under which it claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to Course participants; Harvard's clarification that members of the Course's teaching staff who sign this Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions; and Harvard's disclaimer of any and all liability resulting from Partner's use of any Project materials or from any breach of this Letter Agreement by any Participant. Partner and each Participant are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
+This letter agreement (this "**Letter Agreement**") sets out the terms on which ______________________________ (full legal name), a ______________________________ (jurisdiction and type of entity) ("**Partner**"), sponsors the project identified in Section 2 and described in Exhibit B (the "**Project**") in the course identified in Section 2 (the "**Course**") at the Harvard John A. Paulson School of Engineering and Applied Sciences ("**SEAS**"), and on which each Participant takes part in the Project. President and Fellows of Harvard College ("**Harvard**") is not a party to this Letter Agreement. Attached to and made part of this Letter Agreement as Exhibit C is Harvard's approval of the form of this Letter Agreement, including each of the options that may be selected in it; Harvard's exception to its intellectual property policy, under which it claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to Course participants; Harvard's clarification that members of the Course's teaching staff who sign this Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions; and Harvard's disclaimer of any and all liability resulting from Partner's use of any Project materials or from any breach of this Letter Agreement by any Participant. Partner and each Participant are each a "**party**." This Letter Agreement is a separate agreement between Partner and each Participant. References to "Participant" mean each Participant individually, each Participant's rights and obligations are several and not joint, and no Participant is responsible for another Participant's performance or breach.
 
 In consideration of Partner's sponsorship of the Project, each Participant's opportunity to take part in it, and the mutual promises below, the parties agree as follows.
 
@@ -64,13 +64,15 @@ In consideration of Partner's sponsorship of the Project, each Participant's opp
 
 **1.3 Teaching staff.** If Participant is a member of the Course's teaching staff, Participant signs this Letter Agreement in a personal capacity, personally agreeing to maintain the confidentiality of Partner Information as provided in this Letter Agreement, and not as an agent or representative of Harvard. Participant's signature does not bind Harvard.
 
-**1.4 Course intellectual property policy.** Exhibit C sets out the Course's intellectual property policy, which each Participant who is a student has acknowledged. If Exhibit C conflicts with this Letter Agreement, this Letter Agreement governs.
+**1.4 Course intellectual property policy.** The version of Exhibit A checked in Section 2 sets out the Course's intellectual property policy, which each Participant who is a student has acknowledged. If Exhibit A conflicts with this Letter Agreement, this Letter Agreement governs.
 
 ## 2. Project
 
 Project title: ____________________________________________
 
-Project description: see Exhibit A.
+Project description: see Exhibit B.
+
+Course intellectual property policy (check one): ☐ Exhibit A.ES ☐ Exhibit A.DS
 
 Course (number and title; a sequence of related courses in consecutive terms, such as 101a and 101b, may be listed, and together they are the Course): ______________________________
 
@@ -186,7 +188,7 @@ If an FSL license is checked, the following also apply to the software in Projec
 
 ## 9. Harvard
 
-**9.1 Harvard is not a party.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it. Exhibit B is attached to and made part of this Letter Agreement, but it does not make Harvard a party. Harvard makes no representations or warranties regarding the Project, any Participant or any Project Work Product.
+**9.1 Harvard is not a party.** Harvard is not a party to this Letter Agreement, has no obligations under it, and is not responsible for any party's performance of it. Exhibit C is attached to and made part of this Letter Agreement, but it does not make Harvard a party. Harvard makes no representations or warranties regarding the Project, any Participant or any Project Work Product.
 
 **9.2 Separate agreements and Harvard's rights.** This Letter Agreement does not amend any agreement between Harvard and Partner or any other third party concerning the Course or the Project (a "**Separate Agreement**"), and it does not affect any rights that Harvard has under such an agreement or under its policies, including without limitation rights in intellectual property arising from faculty-sponsored research. Nothing in this Letter Agreement assigns or licenses any right that Harvard owns, and Participant's rights under Section 8 are subject to those rights. As between Partner and Harvard, a Separate Agreement governs if it conflicts with this Letter Agreement.
 
@@ -260,43 +262,15 @@ Each Participant signs on the line with the same number as in the list of Partic
 
 **10.** Signature: ______________________________ Date: ______________
 
-## Exhibit A: Project description
+## Exhibit A.ES: Course intellectual property policy
 
-Project title: as stated in Section 2.
+[This exhibit intentionally left blank at this time.]
 
-Description of the Project, including its goals, scope and expected deliverables: \
-______________________________________________________________________ \
-______________________________________________________________________ \
-______________________________________________________________________ \
-______________________________________________________________________ (attach additional pages if needed)
+## Exhibit A.DS: Course intellectual property policy
 
-## Exhibit B: Approval of Letter Agreement
+[Draft. This Exhibit A.DS is based on the course's existing "Intellectual Property Policy Acknowledgment". The text is kept as written, except that course-specific names are replaced with "the Course". Each point where it differs from the Letter Agreement is called out in a **Discrepancy** note. Resolve each note, then delete it, before this Exhibit A.DS is used.]
 
-[Draft for Harvard's review. Once signed, the same Exhibit B is attached to every letter agreement in this form for the courses listed below.]
-
-President and Fellows of Harvard College ("**Harvard**"), acting through the office checked below, states the following about letter agreements in the form to which this Exhibit B is attached (each, a "**Letter Agreement**") for the following course or courses: ______________________________. Capitalized terms not defined in this Exhibit B have the meanings given in the Letter Agreement.
-
-1. **Approval of the form.** Harvard approves the form of the Letter Agreement, including each of the options that may be selected in it.
-2. **Student intellectual property.** As an exception to its Statement of Policy in Regard to Intellectual Property, Harvard claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to course participants.
-3. **Course staff.** Members of a course's teaching staff who sign a Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions, and not on behalf of Harvard.
-4. **No liability.** Harvard disclaims any and all liability resulting from Partner's use of any Project materials or from any breach of a Letter Agreement by any Participant.
-
-Harvard is not a party to any Letter Agreement.
-
-Office (check one): \
-☐ Office for Technology Development \
-☐ Harvard John A. Paulson School of Engineering and Applied Sciences
-
-By: ______________________________ \
-Name: ______________________________ \
-Title: ______________________________ \
-Date: ______________________________
-
-## Exhibit C: Course intellectual property policy
-
-[Draft. This Exhibit C is based on the course's existing "Intellectual Property Policy Acknowledgment". The text is kept as written, except that course-specific names are replaced with "the Course". Each point where it differs from the Letter Agreement is called out in a **Discrepancy** note. Resolve each note, then delete it, before this Exhibit C is used.]
-
-> **Discrepancy C-0 (title and term):** the source file is named "AY26-27 Spring", but its text says "Applied Computation 297r, Fall 2026". This Exhibit C uses "the Course" and the Course Term from Section 2 instead.
+> **Discrepancy A-0 (title and term):** the source file is named "AY26-27 Spring", but its text says "Applied Computation 297r, Fall 2026". This Exhibit A.DS uses "the Course" and the Course Term from Section 2 instead.
 
 ### Student acknowledgment
 
@@ -306,13 +280,13 @@ Each student enrolled in the Course submits this acknowledgment, for example by 
 2. I understand that these policies are well established and that by continuing to enroll in the Course I am bound by them. I may drop or withdraw from the Course if I do not wish to accept them.
 3. I understand that the baseline framework of this Course is Open Science: by default, all software and code produced in the Course will be made publicly available under a permissive open-source license (such as the MIT License or Apache 2.0), and documentation under Creative Commons, ensuring all parties have full, unencumbered rights to use and build upon the work.
 
-> **Discrepancy C-1 (default IP terms):** the course default is open source. Under the Letter Agreement, if a project has a Letter Agreement and no §8 option is checked, §8.2 applies: Participant keeps ownership and licenses Partner and the other Project Participants. Suggested fix: say that the Open Science baseline applies to projects *without* a Letter Agreement, and that §8 of the Letter Agreement controls projects *with* one. Alternatively, make §8.1 with MIT and CC BY 4.0 the Letter Agreement's default.
+> **Discrepancy A-1 (default IP terms):** the course default is open source. Under the Letter Agreement, if a project has a Letter Agreement and no §8 option is checked, §8.2 applies: Participant keeps ownership and licenses Partner and the other Project Participants. Suggested fix: say that the Open Science baseline applies to projects *without* a Letter Agreement, and that §8 of the Letter Agreement controls projects *with* one. Alternatively, make §8.1 with MIT and CC BY 4.0 the Letter Agreement's default.
 
 4. I understand that some partners may ask project participants to sign an IP agreement or non-disclosure agreement (NDA) due to contractual or legal obligations. Partners ordinarily request an IP agreement when they are providing access to valuable resources, including without limitation: real-world, confidential industry data; data that may contain information that must be contractually protected by law or other contract; partners' proprietary expertise, in-progress or confidential inventions, or other know-how pertaining to the project; or partner-funded compute to analyze restricted-access data. I understand that the choice is mine, and that if I choose to execute an IP agreement, I am doing so in part so that my project group will receive access to resources we would not otherwise be able to receive.
 5. I have been offered project options that do not deal with confidential data or third-party intellectual property and that operate entirely under the baseline Open Science framework. I understand that I am not obligated to sign any IP agreement to participate in the Course. If I am not comfortable with the terms of any agreement a partner asks me to sign to protect its intellectual property, I may, before beginning material work on my assigned project, request to be reassigned to a different project, including a project where no IP agreement or NDA will be requested.
 6. I understand that partners who ask for an IP agreement have agreed to make reasonable provisions in it for me and my teammates to talk about and demo our capstone work, and not to unreasonably withhold consent to publication of nonconfidential information about our results.
 
-> **Discrepancy C-2 (publication and demos):** this is broadly consistent with the Letter Agreement. §5.2 requires Partner not to unreasonably withhold consent to publish results that don't disclose Confidential Information. §5.4 and §8.7–8.9 cover talking about the Approved Poster and giving demos. But the Letter Agreement also adds a 30-day review, an optional Publication Hold Period, and masking of Partner's identity (§5.3), none of which item 6 mentions. Suggested fix: add a sentence pointing to §5 of the Letter Agreement. Also, the word "capstone" may not fit every course.
+> **Discrepancy A-2 (publication and demos):** this is broadly consistent with the Letter Agreement. §5.2 requires Partner not to unreasonably withhold consent to publish results that don't disclose Confidential Information. §5.4 and §8.7–8.9 cover talking about the Approved Poster and giving demos. But the Letter Agreement also adds a 30-day review, an optional Publication Hold Period, and masking of Partner's identity (§5.3), none of which item 6 mentions. Suggested fix: add a sentence pointing to §5 of the Letter Agreement. Also, the word "capstone" may not fit every course.
 
 7. I have been provided access to Harvard's "Statement of Policy in Regard to Intellectual Property" (the "**IP Policy**") at https://www.otd.harvard.edu/faculty-inventors/resources/policies-and-procedures/statement-of-policy-in-regard-to-intellectual-property/
 8. I have been provided access to the SEAS "Intellectual Property Q&A" document pertaining to the IP Policy (the "**FAQ**"), available at https://drive.google.com/file/d/1Yy_ZizJdChSgbYcyUkunSQCgjPyJ-G73/view
@@ -323,23 +297,23 @@ Each student enrolled in the Course submits this acknowledgment, for example by 
 
 **Baseline Course IP is public open source.** Unless an alternative proprietary track is explicitly designated and agreed upon in writing before project work begins, student teams and industry partners agree to make all software and code generated in the Course public under a permissive open-source license, such as the MIT License or Apache 2.0. All documentation, written reports and non-code assets shall be made available under a Creative Commons Attribution license (CC BY 4.0). Under this baseline, no party claims exclusive proprietary rights, and students, partners and the general public enjoy perpetual, royalty-free, worldwide rights to use, modify and distribute the work.
 
-> **Discrepancy C-3 (open source as an option):** under the Letter Agreement, open licensing is one option among several (§8.1). The FSL options in §8.1 aren't "permissive" and don't give the public unencumbered rights until they convert after two years. See also C-1.
+> **Discrepancy A-3 (open source as an option):** under the Letter Agreement, open licensing is one option among several (§8.1). The FSL options in §8.1 aren't "permissive" and don't give the public unencumbered rights until they convert after two years. See also A-1.
 
 **Partner Data and Partner Code.** Industry partners retain exclusive ownership of any pre-existing data and derivative data ("**Partner Data**") and code ("**Partner Code**") contributed to Course activities, unless a more permissive license has been or is expressly granted. Students shall have the right, at no cost, to the most permissive license to Partner Data and/or Partner Code available to the general public.
 
-> **Discrepancy C-4 (Partner data and code):** the Letter Agreement calls these "Partner Background IP" (§8.5). Partner keeps it, and grants a license limited to the Project and the Course Term, plus the Enabling License. Partner Background IP also includes APIs, models and other materials. Improvements to it and works derived from it (for example, a fine-tuned model) are Project Work Product under the Letter Agreement. Here, "derivative data" stays with the partner. Suggested fix: adopt the Letter Agreement's terms.
+> **Discrepancy A-4 (Partner data and code):** the Letter Agreement calls these "Partner Background IP" (§8.5). Partner keeps it, and grants a license limited to the Project and the Course Term, plus the Enabling License. Partner Background IP also includes APIs, models and other materials. Improvements to it and works derived from it (for example, a fine-tuned model) are Project Work Product under the Letter Agreement. Here, "derivative data" stays with the partner. Suggested fix: adopt the Letter Agreement's terms.
 
 **Nondisclosure.** Students agree not to disclose Partner Data or Partner Code to any other party, including students working on other projects in the Course, without the consent of the applicable partner, unless otherwise expressly permitted by consent or license terms. If the partner requests a reasonable nondisclosure agreement (NDA) governing Partner Data or Partner Code, students agree either (a) to execute such an agreement or (b) to request reassignment to a different project without an NDA, in which case course staff shall honor the reassignment request.
 
-> **Discrepancy C-5 (sharing within the Course):** under the Letter Agreement, Course Private Information may be shared within the Course Community, including other project teams and attendees at private Course events (§3.3, §5.1). Only Confidential Information is limited to Project Participants (§3.2). This policy bars sharing Partner Data or Partner Code with students on other projects at all.
+> **Discrepancy A-5 (sharing within the Course):** under the Letter Agreement, Course Private Information may be shared within the Course Community, including other project teams and attendees at private Course events (§3.3, §5.1). Only Confidential Information is limited to Project Participants (§3.2). This policy bars sharing Partner Data or Partner Code with students on other projects at all.
 
 **Protecting partner materials.** Students agree to make all commercially reasonable efforts to protect Partner Data, Partner Code and Course deliverables, including by (a) storing them as the applicable partner requires, in any case consistent with industry-standard information security practices, and (b) deleting any and all Partner Data and Partner Code, or online access to them, at the end of the Course, unless otherwise permitted by the applicable partner (for example, as part of the Enabling License defined below).
 
-> **Discrepancy C-6 (deletion at the end of the Course):** the Letter Agreement requires deleting only Confidential Information, within 30 days after the Course Term, except data and code under the Enabling License (§4.5(d)). Course Private Information stays protected for five years, but doesn't have to be deleted (§10.2).
+> **Discrepancy A-6 (deletion at the end of the Course):** the Letter Agreement requires deleting only Confidential Information, within 30 days after the Course Term, except data and code under the Enabling License (§4.5(d)). Course Private Information stays protected for five years, but doesn't have to be deleted (§10.2).
 
 **Alternative proprietary arrangements.** Where a partner cannot operate under the baseline Open Science framework and requires confidential data handling, the project may operate under a Joint IP framework. In such cases, student teams and industry partners jointly own the intellectual property produced in the Course (the "**Course IP**"). To avoid doubt, Course IP does not include Partner Data or Partner Code. In this track, industry partners and each student contributing to the Course IP receive a nonexclusive, perpetual, royalty-free, worldwide license to the Course IP (the "**Limited License**"). The Limited License is not transferable unless the industry partner (or substantially all of its assets) is acquired, in which case the Limited License is transferred to the partner's successor or assignee. This Limited License has been adopted as course policy as a material inducement to partners who participate in the Course.
 
-> **Discrepancy C-7 (Joint IP track):** the Letter Agreement has no single "Joint IP" track. Its options are:
+> **Discrepancy A-7 (Joint IP track):** the Letter Agreement has no single "Joint IP" track. Its options are:
 > - §8.1: open licenses. If an FSL license is chosen, Partner and the students jointly own the code, and no one may license it outside the FSL without amending the Letter Agreements.
 > - §8.2: each Participant keeps ownership and licenses Partner and the other Project Participants. That license is perpetual and irrevocable, can't be sublicensed without consent, and transfers only on a permitted assignment.
 > - §8.3: assignment to Partner.
@@ -348,7 +322,7 @@ Each student enrolled in the Course submits this acknowledgment, for example by 
 
 **Enabling License for demonstrations.** To enable students to demonstrate project achievements after the Course concludes (whether operating under Open Science or an alternative track), industry partners agree to make commercially reasonable efforts to grant a three-year limited license for noncommercial use to limited or simulated Partner Data and/or Partner Code (the "**Enabling License**") minimally required exclusively for the purpose of enabling demonstration for noncommercial use. For example, an AI model trained on Partner Data cannot easily be "un-trained" on that data, but students may wish to demonstrate that model to graduate schools or employers as part of their project under the Enabling License. In this example, demonstrating the trained AI model would be covered under the Enabling License, but reusing, distilling, reverse engineering, extracting or otherwise disclosing the data used to train the AI model would not be covered. Any data or code in the Enabling License remains subject to nondisclosure for the duration of the Enabling License. A student may demonstrate the functionality of the software, but may not disclose its source code without express consent. The Enabling License does not permit commercial use, and commercial use of the Limited License may not use any of the limited or simulated Partner Data and/or Partner Code in the Enabling License. To avoid doubt, employment interviews, research discussions and the like are not "commercial use."
 
-> **Discrepancy C-8 (Enabling License):**
+> **Discrepancy A-8 (Enabling License):**
 > - **Length:** the Letter Agreement sets five years after the Course Term, not three (§8.9). You've confirmed five.
 > - **Grant:** the Letter Agreement grants the license directly. A Partner Contact picks the data and code it covers, and Partner uses commercially reasonable efforts to identify enough. Here, partners only promise efforts to grant it.
 > - **Live demos:** the Letter Agreement also allows live demonstrations to employers and graduate programs with Partner's identity masked (§8.8).
@@ -357,15 +331,15 @@ Each student enrolled in the Course submits this acknowledgment, for example by 
 
 **Publication.** Students and industry partners may publish nonconfidential results with the consent of, and with credit to, the other project contributors, and each party agrees not to unreasonably withhold such consent.
 
-> **Discrepancy C-9 (publication):** under the Letter Agreement, Partner's consent is what's required (§5.2). Partner gets a 30-day review and an optional Publication Hold Period, and must not unreasonably withhold consent for results that don't disclose Confidential Information. The Letter Agreement has no rule requiring consent from, or credit to, the other student contributors.
+> **Discrepancy A-9 (publication):** under the Letter Agreement, Partner's consent is what's required (§5.2). Partner gets a 30-day review and an optional Publication Hold Period, and must not unreasonably withhold consent for results that don't disclose Confidential Information. The Letter Agreement has no rule requiring consent from, or credit to, the other student contributors.
 
 **Good-faith negotiation for alternative terms.** Students and industry partners agree to negotiate in good faith if they wish to agree on other terms regarding Course IP, such as full ownership by the industry partner, patent assignments, etc.
 
-> **Discrepancy C-10 (negotiation):** the Letter Agreement already offers assignment to Partner (§8.3). Any other terms would need an amendment signed by Partner's authorized officer and each affected Participant (§11.3, §11.4).
+> **Discrepancy A-10 (negotiation):** the Letter Agreement already offers assignment to Partner (§8.3). Any other terms would need an amendment signed by Partner's authorized officer and each affected Participant (§11.3, §11.4).
 
 **Generative AI and account usage.** Students agree to use their Harvard accounts and the Harvard generative AI tools described at https://www.huit.harvard.edu/ai/tools, in order to protect students', teammates' and partners' intellectual property. Exception: partners may request that students use their own tools, at their own expense, to protect partner IP.
 
-> **Discrepancy C-11 (generative AI):** the Letter Agreement says nothing about which AI tools may be used with Partner Information. Should it add a matching duty, for example in §4.5?
+> **Discrepancy A-11 (generative AI):** the Letter Agreement says nothing about which AI tools may be used with Partner Information. Should it add a matching duty, for example in §4.5?
 
 ### Section 2. Background and Harvard OTD coursework policy
 
@@ -373,11 +347,11 @@ In the Course, students will work collaboratively with industry partners on appl
 
 **Ownership of software and other innovations arising from coursework.** In applying the IP Policy, Harvard's Office for Technology Development (OTD) has created an informal exception regarding the ownership of innovations made in a student's performance of coursework. Provided that the course is not funded by, or conducted under, an agreement between Harvard and a third party (such as a funding agency, research collaborator, or provider of technology or data necessary for the course to be offered), and provided that the only Harvard-administered resources a given student uses are those provided generally to those enrolled in the course, Harvard does not claim ownership of a student's rights in the IP that results from their work. This Course is not supported by any agreement between Harvard and any outside party; therefore, students' rights in software or other inventions created in the Course are governed only by this policy and any other agreements they may make with classmates and industry partners. (See also item 8 of the FAQ.)
 
-> **Discrepancy C-12 (Harvard's exception):**
-> - **Informal vs formal:** this describes OTD's exception as *informal*, while Exhibit B item 2 has Harvard state it formally.
+> **Discrepancy A-12 (Harvard's exception):**
+> - **Informal vs formal:** this describes OTD's exception as *informal*, while Exhibit C item 2 has Harvard state it formally.
 > - **No outside agreement:** the sentence "This Course is not supported by any agreement between Harvard and any outside party" may not hold for every course or term. §9.2 of the Letter Agreement contemplates Harvard agreements with third parties, and rights Harvard may own (for example, from faculty-sponsored research).
 >
-> Suggested fix: make the sentence conditional, and point to Exhibit B and §9.2.
+> Suggested fix: make the sentence conditional, and point to Exhibit C and §9.2.
 
 On team-based activities, if more than one person authors a piece of software or makes an invention, it will have multiple owners, and each owner's rights must be taken into account if it is to be commercialized. Under the baseline Open Science policy, these issues are resolved up front by releasing the software under an open license (such as MIT), so that all students, industry partners and the public have unrestricted freedom to use and develop the work.
 
@@ -385,7 +359,7 @@ On team-based activities, if more than one person authors a piece of software or
 
 **Do course staff have IP rights in our projects?** Course staff, including teaching assistants, teaching fellows, course assistants and others (collectively, "**TAs**"), and the instructor are Harvard employees. Course staff advise and coordinate the project work, but have agreed not to contribute intellectual property to projects. Accordingly, course staff do not claim that their work as course staff gives them any IP ownership in, or license to, students' project work. Course staff are neutral academic evaluators and remain completely outside of any private IP or NDA agreements executed between students and industry partners.
 
-> **Discrepancy C-13 (course staff):** under the Letter Agreement, course staff may sign as Participants, in a personal capacity, solely to keep Partner Information confidential. They contribute no IP, and their evaluations, grades and feedback aren't Project Work Product (§1.3, §8.4; Exhibit B item 3). Under Options 4.3 and 4.4, anyone who grades work containing Confidential Information must sign. So course staff aren't "completely outside" these agreements. Suggested fix: say that course staff may sign the Letter Agreement only for confidentiality, never take part in its IP terms, and remain neutral evaluators.
+> **Discrepancy A-13 (course staff):** under the Letter Agreement, course staff may sign as Participants, in a personal capacity, solely to keep Partner Information confidential. They contribute no IP, and their evaluations, grades and feedback aren't Project Work Product (§1.3, §8.4; Exhibit C item 3). Under Options 4.3 and 4.4, anyone who grades work containing Confidential Information must sign. So course staff aren't "completely outside" these agreements. Suggested fix: say that course staff may sign the Letter Agreement only for confidentiality, never take part in its IP terms, and remain neutral evaluators.
 
 ### Section 4. Legal principles: copyright, patents and trade secrets
 
@@ -393,7 +367,7 @@ On team-based activities, if more than one person authors a piece of software or
 
 **(a) Copyright.** Software is a copyrightable work. A person who contributes original material to a piece of software, which could include designs, specifications or code, typically would be considered one of its "authors" under copyright law. Although individual authors enjoy certain rights, copyright law prohibits an author of a joint work from accepting money or other compensation in exchange for exercising, or allowing someone else to exercise, rights under the copyright unless they account to all of the other authors. In other words, one author must get the explicit consent of all co-authors, whether in exchange for a share of the proceeds, a reciprocal grant of consent or other mutually agreed consideration.
 
-> **Discrepancy C-14 (joint authors):** this overstates the rule. Under U.S. law, a joint author may grant non-exclusive licenses without the other authors' consent, but must account to them for profits. Consent is needed only for exclusive licenses or assignments. The Letter Agreement relies on the accurate rule. That's why §8.1(d) bars licensing outside the FSL and §8.1(e) waives the duty to account. Suggested fix: correct the description, and have counsel confirm it.
+> **Discrepancy A-14 (joint authors):** this overstates the rule. Under U.S. law, a joint author may grant non-exclusive licenses without the other authors' consent, but must account to them for profits. Consent is needed only for exclusive licenses or assignments. The Letter Agreement relies on the accurate rule. That's why §8.1(d) bars licensing outside the FSL and §8.1(e) waives the duty to account. Suggested fix: correct the description, and have counsel confirm it.
 
 For example, you would not be able to license the work to any third party for compensation, or use it in a startup company that you might found, without the explicit consent of all authors. From this perspective, keeping lines of communication among teammates open (and cordial) as you work together will help you understand each other's aims and plan together how best to move forward. This is a key reason why the Course adopts Open Science (the MIT License) as its baseline: by licensing the software openly from the outset, deadlocks among co-authors are eliminated, and all team members retain the permanent right to use the codebase.
 
@@ -409,14 +383,14 @@ Assuming that no inventor owes an assignment to Harvard, the patent would be own
 
 Finally, a "public disclosure" before a patent application is filed may affect or invalidate patent rights in the U.S. or other countries. This may include presentations at meetings; posters; abstracts; print or online publications or announcements of your invention or of results generated through its use; and pitches to potential investors, competition judges or business partners. In projects governed by the open-source baseline, publication to a public repository is a public disclosure. Where a project is on an alternative proprietary track, no student should make a public disclosure (for example, by publishing any project materials on a public-facing website that does not require users to log in, or by posting project code to a public code repository) without the consent of all teammates, including the partner. Course-related discussions of team projects are expected to be limited to a private group of course participants, including students, partners, staff, invited guests and advisors; however, because these individuals are under no obligation of nondisclosure, responsibility for protecting any patentable inventions before these discussions rests with you, your teammates and your partners. Course events, including meetings, presentations and poster sessions, are private and restricted to course participants and invited guests.
 
-> **Discrepancy C-15 (who attends Course events and what they owe):**
+> **Discrepancy A-15 (who attends Course events and what they owe):**
 > - **Attendees:** under the Letter Agreement, Private Course Events are open to the SEAS community and invited guests, not only course participants (§3.3).
 > - **Duty of confidentiality:** Participants who sign the Letter Agreement *are* bound by it, so not everyone at these discussions is free of confidentiality duties.
 > - **Patent filings:** under §8.3, delays to allow a patent filing go through Partner's §5.2 review.
 
 **(c) Trade secret.** Trade secret is a form of IP protection that applies only in limited circumstances, in which information key to a business is guarded by security measures commensurate in strength and scope with the importance of that information to the company's business interests. Because your work is being created in the context of a university class where other student groups and course staff see and respond to your work (that is, where there is an expectation of information sharing), and because of the open nature of academic research generally, we do not believe that trade secret protection is likely to apply to any IP that you create in the Course.
 
-> **Discrepancy C-16 (trade secrets):** this is about students' own work, but it could be read to contradict the Letter Agreement. The Letter Agreement protects Partner's trade secrets for as long as they remain trade secrets (§10.2), and includes the Defend Trade Secrets Act notice (§3.6). Suggested fix: add "This does not apply to Partner's confidential information, which may include trade secrets."
+> **Discrepancy A-16 (trade secrets):** this is about students' own work, but it could be read to contradict the Letter Agreement. The Letter Agreement protects Partner's trade secrets for as long as they remain trade secrets (§10.2), and includes the Defend Trade Secrets Act notice (§3.6). Suggested fix: add "This does not apply to Partner's confidential information, which may include trade secrets."
 
 ### Section 5. Startups, commercialization and licensing options
 
@@ -424,7 +398,7 @@ Finally, a "public disclosure" before a patent application is filed may affect o
 
 If your team has not opted into the baseline Open Science model, remember that, for the copyrights that cover your software, each co-author has an effective "veto" on commercialization, so an agreement among all authors is crucial. For example, you might agree that any group of one or more authors or inventors could create a startup based on the project IP, in exchange for compensation to the non-participating authors or inventors for their consent, such as cash or an equity stake. In all cases, keeping communication open early in the term prevents downstream deadlocks. The instructor can help you find appropriate resources to evaluate your options and document your decision, including local patent attorneys who have agreed to hold office hours for interested students, and the Harvard Innovation Labs, which offer students free support.
 
-> **Discrepancy C-17 (startups):** under the Letter Agreement's FSL options, students may use the code commercially themselves or through a company they found or control, without the other owners' consent (§8.1(c)). They may also move their share into a company they found during the Project (§8.1(f)). Under §8.2 each Participant keeps their own rights. So the "veto" described here doesn't apply in the same way. See also C-14.
+> **Discrepancy A-17 (startups):** under the Letter Agreement's FSL options, students may use the code commercially themselves or through a company they found or control, without the other owners' consent (§8.1(c)). They may also move their share into a company they found during the Project (§8.1(f)). Under §8.2 each Participant keeps their own rights. So the "veto" described here doesn't apply in the same way. See also A-14.
 
 ### Section 6. Further resources
 
@@ -436,4 +410,35 @@ If your team has not opted into the baseline Open Science model, remember that, 
 - **Creative Commons licenses:** https://creativecommons.org/share-your-work/cclicenses/
 - **MIT License:** https://opensource.org/license/mit
 
-> **Discrepancy C-18 (generative AI wording):** the source says "We are requesting Harvard provide you with" these tools. I've written it as already available. Confirm which is true for the Course Term.
+> **Discrepancy A-18 (generative AI wording):** the source says "We are requesting Harvard provide you with" these tools. I've written it as already available. Confirm which is true for the Course Term.
+## Exhibit B: Project description
+
+Project title: as stated in Section 2.
+
+Description of the Project, including its goals, scope and expected deliverables: \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ \
+______________________________________________________________________ (attach additional pages if needed)
+
+## Exhibit C: Approval of Letter Agreement
+
+[Draft for Harvard's review. Once signed, the same Exhibit C is attached to every letter agreement in this form for the courses listed below.]
+
+President and Fellows of Harvard College ("**Harvard**"), acting through the office checked below, states the following about letter agreements in the form to which this Exhibit C is attached (each, a "**Letter Agreement**") for the following course or courses: ______________________________. Capitalized terms not defined in this Exhibit C have the meanings given in the Letter Agreement.
+
+1. **Approval of the form.** Harvard approves the form of the Letter Agreement, including each of the options that may be selected in it, and each version of Exhibit A attached to it. Any other version of Exhibit A requires Harvard's separate written approval.
+2. **Student intellectual property.** As an exception to its Statement of Policy in Regard to Intellectual Property, Harvard claims no rights in intellectual property that students create as part of their coursework using academic resources typically available to course participants.
+3. **Course staff.** Members of a course's teaching staff who sign a Letter Agreement do so exclusively in their personal capacity with respect to its confidentiality provisions, and not on behalf of Harvard.
+4. **No liability.** Harvard disclaims any and all liability resulting from Partner's use of any Project materials or from any breach of a Letter Agreement by any Participant.
+
+Harvard is not a party to any Letter Agreement.
+
+Office (check one): \
+☐ Office for Technology Development \
+☐ Harvard John A. Paulson School of Engineering and Applied Sciences
+
+By: ______________________________ \
+Name: ______________________________ \
+Title: ______________________________ \
+Date: ______________________________
