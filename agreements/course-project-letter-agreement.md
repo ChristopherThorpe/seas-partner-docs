@@ -4,7 +4,7 @@
 
 Date: ______________________
 
-**To:** the individuals listed below (up to ten; leave unused lines blank). Each of them who signs this Letter Agreement is a "**Participant**."
+**To:** the individuals listed below (up to ten on this page; leave unused lines blank, and add pages in the same form if more join). Each of them who signs this Letter Agreement is a "**Participant**."
 
 **1.** Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
@@ -66,6 +66,8 @@ In consideration of Partner's sponsorship of the Project, each Participant's opp
 
 **1.4 Course intellectual property policy.** The version of Exhibit A checked in Section 2 sets out the Course's intellectual property policy. By signing this Letter Agreement, each Participant who is a student acknowledges that policy, including the student acknowledgment in it, and no separate acknowledgment is required. If Exhibit A conflicts with this Letter Agreement, this Letter Agreement governs.
 
+**1.5 One Letter Agreement per Project.** There is only one Letter Agreement for the Project. Every student who takes part in the Project shall sign this Letter Agreement as a Participant before beginning material work on the Project, and any member of the Course's teaching staff who is to receive the Project's Confidential Information shall sign it as a Participant checked as Course Staff. An individual who joins the Project after others have signed joins this Letter Agreement by signing an additional signature page in the same form, and no separate letter agreement is used for the Project.
+
 ## 2. Project
 
 Project title: ____________________________________________
@@ -92,7 +94,7 @@ Publication Hold Period under Section 5.2 (applies only if Partner requests revi
 
 **3.1 Partner Information.** "**Partner Information**" means all information, in any form, that Partner or anyone acting on its behalf provides or makes available to Participant in connection with the Project.
 
-**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means the Participants and each other student or member of the Course's teaching staff who has signed another letter agreement with Partner for the Project on substantially the same terms as this Letter Agreement. Members of the Course's teaching staff have no obligations of Participants on a project unless they sign that project's letter agreement expressly as a Participant. Partner and each Participant shall provide Confidential Information only to members of the Course's teaching staff who have signed that project's letter agreement expressly as a Participant, and shall NOT provide Confidential Information to any other member of the Course's teaching staff, including one who has signed only Exhibit C.
+**3.2 Confidential Information.** "**Confidential Information**" means Partner Information that Partner (a) identifies as "Confidential Information," or with a similar legend, in writing at or before the time of disclosure or, if the information is disclosed orally or visually, identifies as confidential at the time of disclosure and confirms in writing within ten (10) business days; or (b) identifies in a notice under Section 4.3. Participant shall not disclose Confidential Information to anyone other than Partner and the other Project Participants, or as Partner approves in writing. "**Project Participants**" means all of the Participants who have signed this Letter Agreement, including on any additional signature page (Section 1.5). Members of the Course's teaching staff have no obligations of Participants on a project unless they sign that project's letter agreement expressly as a Participant. Partner and each Participant shall provide Confidential Information only to members of the Course's teaching staff who have signed that project's letter agreement expressly as a Participant, and shall NOT provide Confidential Information to any other member of the Course's teaching staff, including one who has signed only Exhibit C.
 
 **3.3 Course Private Information.** "**Course Private Information**" means Partner Information that is Course Private Information under the option that applies under Section 4. Participant shall not disclose Course Private Information to anyone other than Partner and members of the Course Community, or as Partner approves in writing. The "**Course Community**" means (a) students enrolled in the Course during the Duration; (b) the Course's teaching staff; (c) Harvard faculty and staff who support the administration of the Course; and (d) members of the SEAS community and invited guests attending a Private Course Event, solely while attending that event. A "**Private Course Event**" is a class session, presentation, poster session (including the Course's final poster session), video showcase, project review, or similar event of the Course that is not open to the public and is restricted to members of the SEAS community and invited guests. The "**SEAS community**" means the students, faculty, and staff of SEAS.
 
@@ -168,7 +170,7 @@ If this Section 5.2 applies and Participant seeks otherwise to publish findings,
 
 ## 8. Intellectual property
 
-Partner and Participant agree that the option checked below applies to Participant's rights in Project Work Product. **Check exactly one.** If no option is checked, or more than one is checked, Option 8.1 applies, with the MIT License for software and CC BY 4.0 for all other Project Work Product. Partner shall ensure that the same option applies under the letter agreement of every student Project Participant.
+Partner and Participant agree that the option checked below applies to Participant's rights in Project Work Product. **Check exactly one.** If no option is checked, or more than one is checked, Option 8.1 applies, with the MIT License for software and CC BY 4.0 for all other Project Work Product. Under Section 1.5, the option checked applies to every student Project Participant.
 
 ☐ **8.1 Open licenses.** Participant hereby licenses Participant's rights in Project Work Product to Partner, the other Project Participants, and everyone else who receives a copy of it, under the licenses checked below. Check one license for software and one for all other Project Work Product. If more than one license is checked for a category, each recipient may choose among them, except that if either Functional Source License option below (an "**FSL license**") is checked, no other software license applies. If none is checked for a category, the MIT License applies to software and CC BY 4.0 applies to all other Project Work Product. Any public release of Project Work Product remains subject to Sections 3 through 5.
 
@@ -258,7 +260,7 @@ Email: ______________________________
 
 **ACCEPTED AND AGREED: PARTICIPANTS**
 
-Each Participant signs on the line with the same number as in the list of Participants above.
+Each Participant signs on the line with the same number as in the list of Participants above. Individuals who join later sign an additional signature page in the same form (Section 1.5).
 
 **1.** Signature: ______________________________ Date: ______________
 
