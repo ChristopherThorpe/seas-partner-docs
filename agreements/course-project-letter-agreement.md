@@ -64,7 +64,7 @@ In consideration of Partner's sponsorship of the Project, each Participant's opp
 
 **1.3 Teaching staff.** If Participant is a member of the Course's teaching staff, Participant signs this Letter Agreement in a personal capacity, personally agreeing to maintain the confidentiality of Partner Information as provided in this Letter Agreement and of Other Partner Information under Section 3.7, and not as an agent or representative of Harvard. Participant's signature does not bind Harvard.
 
-**1.4 Course intellectual property policy.** The version of Exhibit A checked in Section 2 sets out the Course's intellectual property policy, which each Participant who is a student has acknowledged. If Exhibit A conflicts with this Letter Agreement, this Letter Agreement governs.
+**1.4 Course intellectual property policy.** The version of Exhibit A checked in Section 2 sets out the Course's intellectual property policy. By signing this Letter Agreement, each Participant who is a student acknowledges that policy, including the student acknowledgment in it, and no separate acknowledgment is required. If Exhibit A conflicts with this Letter Agreement, this Letter Agreement governs.
 
 ## 2. Project
 
