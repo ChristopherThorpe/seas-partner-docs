@@ -158,7 +158,7 @@ If this Section 5.2 applies and Participant seeks otherwise to publish findings,
 
 **7.1 Participant.** Except as stated in Section 11.10, Participant makes no representations or warranties with respect to Participant's ability to undertake work on the Project, or to the quality or suitability of the Project or any Project Work Product for any purpose whatsoever.
 
-**7.2 As-is acceptance.** Partner acknowledges that the Project work, including all Project Work Product, is accepted on an as-is basis, and agrees that its use of any Project Work Product, and of any intellectual property in it, is at Partner's own risk. Participant has no liability to Partner arising out of any such use.
+**7.2 As-is acceptance.** Partner acknowledges that the Project work, including all Project Work Product, is accepted on an as-is basis, and agrees that its use of any Project Work Product, and of any intellectual property in it, is at Partner's own risk. No Participant has any liability to Partner arising out of any such use.
 
 **7.3 Disclaimer.** TO THE FULLEST EXTENT PERMITTED BY LAW, PARTICIPANT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE PROJECT AND ALL PROJECT WORK PRODUCT, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.
 
