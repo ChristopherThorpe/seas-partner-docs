@@ -299,13 +299,9 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 
 **Freedom of ideas.** Students and industry partners acknowledge that the success of academic scholarship requires the freedom of ideas. They agree to classify data or code as "confidential" or "proprietary" only to the minimal extent necessary to comply with bona fide business requirements, such as contractual agreements and applicable law.
 
-**Baseline Course IP is public open source.** Unless an alternative proprietary track is explicitly designated and agreed upon in writing before project work begins, student teams and industry partners agree to make all software and code generated in the Course public under a permissive open-source license, such as the MIT License or Apache 2.0. All documentation, written reports, and non-code assets shall be made available under a Creative Commons Attribution license (CC BY 4.0). Under this baseline, no party claims exclusive proprietary rights, and students, partners, and the general public enjoy perpetual, royalty-free, worldwide rights to use, modify, and distribute the work.
+**Baseline Course IP is public open source.** Unless an alternative proprietary track is explicitly designated and agreed upon in writing before project work begins, student teams and industry partners agree to make all software and code generated in the Course public under a permissive open-source license, such as the MIT License or Apache 2.0. All documentation, written reports, and non-code assets shall be made available under a Creative Commons Attribution license (CC BY 4.0). Under this baseline, no party claims exclusive proprietary rights, and students, partners, and the general public enjoy perpetual, royalty-free, worldwide rights to use, modify, and distribute the work. The alternatives to this baseline are the intellectual property options in Section 8 of the Letter Agreement.
 
-> **Discrepancy A-3 (alternative tracks):** the Letter Agreement now uses this baseline as its default: §8.1 with MIT and CC BY 4.0 applies if no option is checked. Its alternatives to the baseline are the FSL licenses in §8.1, §8.2 (Participant keeps ownership and licenses Partner) and §8.3 (assignment to Partner). The FSL licenses aren't "permissive" and don't give the public unencumbered rights until they convert after two years. Suggested fix: say that the alternative tracks are the options in §8 of the Letter Agreement.
-
-**Partner Data and Partner Code.** Industry partners retain exclusive ownership of any pre-existing data and derivative data ("**Partner Data**") and code ("**Partner Code**") contributed to Course activities, unless a more permissive license has been or is expressly granted. Students shall have the right, at no cost, to the most permissive license to Partner Data and/or Partner Code available to the general public.
-
-> **Discrepancy A-4 (Partner data and code):** the Letter Agreement calls these "Partner Background IP" (§8.5). Partner keeps it, and grants a license limited to the Project and the Duration, plus the Enabling License. Partner Background IP also includes APIs, models, and other materials. Improvements to it and works derived from it (for example, a fine-tuned model) are Project Work Product under the Letter Agreement. Here, "derivative data" stays with the partner. Suggested fix: adopt the Letter Agreement's terms.
+**Partner Data and Partner Code.** Partners keep their pre-existing data ("**Partner Data**"), code ("**Partner Code**"), and other materials, as described in Section 8.5 of the Letter Agreement.
 
 **Nondisclosure.** Students agree not to disclose Partner Data or Partner Code to any other party, including students working on other projects in the Course, without the consent of the applicable partner, unless otherwise expressly permitted by consent or license terms. If the partner requests a reasonable nondisclosure agreement (NDA) governing Partner Data or Partner Code, students agree either (a) to execute such an agreement or (b) to request reassignment to a different project without an NDA, in which case course staff shall honor the reassignment request.
 
@@ -317,14 +313,7 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 
 > **Discrepancy A-6 (deletion at the end of the Course):** the Letter Agreement requires deleting only Confidential Information, within 30 days after the Participant's End Date (§10.1), except data and code under the Enabling License (§4.5(d)). Course Private Information stays protected for five years, but doesn't have to be deleted (§10.2).
 
-**Alternative proprietary arrangements.** Where a partner cannot operate under the baseline Open Science framework and requires confidential data handling, the project may operate under a Joint IP framework. In such cases, student teams and industry partners jointly own the intellectual property produced in the Course (the "**Course IP**"). To avoid doubt, Course IP does not include Partner Data or Partner Code. In this track, industry partners and each student contributing to the Course IP receive a nonexclusive, perpetual, royalty-free, worldwide license to the Course IP (the "**Limited License**"). The Limited License is not transferable unless the industry partner (or substantially all of its assets) is acquired, in which case the Limited License is transferred to the partner's successor or assignee. This Limited License has been adopted as course policy as a material inducement to partners who participate in the Course.
-
-> **Discrepancy A-7 (Joint IP track):** the Letter Agreement has no single "Joint IP" track. Its options are:
-> - §8.1: open licenses. If an FSL license is chosen, Partner and the students jointly own the code, and no one may license it outside the FSL without amending the Letter Agreements.
-> - §8.2: each Participant keeps ownership and licenses Partner and the other Project Participants. That license is perpetual and irrevocable, can't be sublicensed without consent, and transfers only on a permitted assignment.
-> - §8.3: assignment to Partner.
->
-> Suggested fix: replace this paragraph with a short summary of §8.
+**Alternative proprietary arrangements.** Where a partner cannot operate under the baseline Open Science framework, the project uses one of the other intellectual property options in Sections 8.1 through 8.3 of the Letter Agreement.
 
 **Enabling License for demonstrations.** To enable students to demonstrate their project work after the Course concludes, the Letter Agreement includes an Enabling License for limited or simulated Partner Data and Partner Code, as described in Section 8.9 of the Letter Agreement.
 
@@ -334,7 +323,7 @@ This acknowledgment is part of the Letter Agreement, and no separate signature i
 
 > **Discrepancy A-9 (publication):** under the Letter Agreement, Partner's consent is what's required (§5.2). Partner gets a 30-day review and an optional Publication Hold Period, and must not unreasonably withhold consent for results that don't disclose Confidential Information. The Letter Agreement has no rule requiring consent from, or credit to, the other student contributors.
 
-**Good-faith negotiation for alternative terms.** Students and industry partners agree to negotiate in good faith if they wish to agree on other terms regarding Course IP, such as full ownership by the industry partner, patent assignments, etc.
+**Good-faith negotiation for alternative terms.** Students and industry partners agree to negotiate in good faith if they wish to agree on other terms regarding Project Work Product, such as full ownership by the industry partner, patent assignments, etc.
 
 > **Discrepancy A-10 (negotiation):** the Letter Agreement already offers assignment to Partner (§8.3). Any other terms would need an amendment signed by Partner's authorized officer and each affected Participant (§11.3, §11.4).
 
