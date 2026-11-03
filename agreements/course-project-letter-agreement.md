@@ -112,7 +112,7 @@ Publication Hold Period under Section 5.2 (leave blank for no time limit): _____
 
 ## 4. Nondisclosure option
 
-Partner and Participant agree that the option checked below applies. **Check exactly one.** If no option is checked, or more than one is checked, Option 4.2 applies.
+Partner and Participant agree that the option checked below applies. **Check exactly one.** If no option is checked, or more than one is checked, Option 4.1 applies.
 
 ☐ **4.1 No restricted information.** Partner shall not provide any Confidential Information or Course Private Information in the course of sponsoring the Project. Accordingly, no Partner Information is Confidential Information or Course Private Information. Section 5 continues to apply.
 
