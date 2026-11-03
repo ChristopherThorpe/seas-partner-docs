@@ -175,8 +175,8 @@ Partner and Participant agree that the option checked below applies to Participa
 ☐ **8.1 Open licenses.** Participant hereby licenses Participant's rights in Project Work Product to Partner, the other Project Participants, and everyone else who receives a copy of it, under the licenses checked below. Check one license for software and one for all other Project Work Product. If more than one license is checked for a category, each recipient may choose among them, except that if either Functional Source License option below (an "**FSL license**") is checked, no other software license applies. If none is checked for a category, the MIT License applies to software and CC BY 4.0 applies to all other Project Work Product. Any public release of Project Work Product remains subject to Sections 3 through 5.
 
 Software: \
-☐ Functional Source License, Version 1.1, with the Apache License 2.0 as its future license (FSL-1.1-ALv2) \
 ☐ Functional Source License, Version 1.1, with the MIT License as its future license (FSL-1.1-MIT) \
+☐ Functional Source License, Version 1.1, with the Apache License 2.0 as its future license (FSL-1.1-ALv2) \
 ☐ MIT License \
 ☐ Apache License 2.0 \
 ☐ Other: ______________________________
