@@ -66,7 +66,7 @@ In consideration of Partner's sponsorship of the Project, each Participant's opp
 
 **1.4 Course intellectual property policy.** The version of Exhibit A checked in Section 2 sets out the Course's intellectual property policy. By signing this Letter Agreement, each Participant who is a student acknowledges that policy, including the student acknowledgment in it, and no separate acknowledgment is required. If Exhibit A conflicts with this Letter Agreement, this Letter Agreement governs.
 
-**1.5 One Letter Agreement per Project.** There is only one Letter Agreement for the Project. Every student who takes part in the Project shall sign this Letter Agreement as a Participant before beginning material work on the Project, and any member of the Course Staff who is to receive the Project's Confidential Information shall sign it as a Participant checked as Course Staff. An individual who joins the Project after others have signed joins this Letter Agreement by signing the Additional Participant Signature Page, and joining in that way is not an amendment of this Letter Agreement. No separate letter agreement is used for the Project. A student whose Course project has no partner, such as an individual project, does not sign a Letter Agreement and instead signs the Solo Student Statement in Exhibit D.
+**1.5 One Letter Agreement per Project.** There is only one Letter Agreement for the Project. Every student who takes part in the Project shall sign this Letter Agreement as a Participant before beginning material work on the Project, and any member of the Course Staff who is to receive the Project's Confidential Information shall sign it as a Participant checked as Course Staff. An individual who joins the Project after others have signed joins this Letter Agreement by signing the Additional Participant Signature Page, and joining in that way is not an amendment of this Letter Agreement. No separate letter agreement is used for the Project. Students whose Course project has no partner, whether an individual or a team project, do not sign a Letter Agreement and instead sign the Project Statement (No Partner) in Exhibit D.
 
 ## 2. Project
 
@@ -156,7 +156,7 @@ If this Section 5.2 applies and Participant seeks otherwise to publish findings,
 
 **6.2 Student records.** If Participant is a member of the Course Staff, Participant shall not share with Partner any grades or other education records of students, as defined in the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g ("**FERPA Information**"). Partner shall not request FERPA Information. If Partner receives any FERPA Information, Partner shall disregard it and promptly delete or destroy it. This Section 6.2 does not restrict a student from sharing the student's own work with Partner, including copies provided under Section 5.3.
 
-## 7. No warranties; hold harmless
+## 7. No warranties; release
 
 **7.1 Participant.** Except as stated in Section 11.10, Participant makes no representations or warranties with respect to Participant's ability to undertake work on the Project, or to the quality or suitability of the Project or any Project Work Product for any purpose whatsoever.
 
@@ -164,7 +164,7 @@ If this Section 5.2 applies and Participant seeks otherwise to publish findings,
 
 **7.3 Disclaimer.** TO THE FULLEST EXTENT PERMITTED BY LAW, PARTICIPANT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE PROJECT AND ALL PROJECT WORK PRODUCT, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.
 
-**7.4 Hold harmless.** If Participant is a student, Partner shall hold Participant harmless from any claim, loss, liability, damage, or expense arising out of or relating to the Project, Participant's participation in it, or any use of Project Work Product, except to the extent arising from Participant's breach of this Letter Agreement.
+**7.4 Release.** If Participant is a student, Partner releases Participant from, and shall not assert against Participant, any claim, loss, liability, damage, or expense arising out of or relating to the Project, Participant's participation in it, or any use of Project Work Product, except to the extent arising from Participant's breach of this Letter Agreement. This Section 7.4 covers only Partner's own claims. It does not require Partner to defend or indemnify Participant against claims by others, or to pay Participant's legal fees or costs.
 
 **7.5 Limitation of liability.** [Placeholder for discussion.] To the fullest extent permitted by law, neither Partner nor any Participant shall have any liability to the other, or to any Other Partner, for any claim, loss, or damage arising out of or relating to this Letter Agreement, the Project, or the Course, whether direct, indirect, consequential, or otherwise, except for liability resulting from that party's [gross negligence, willful misconduct, or worse]. This Section 7.5 does not limit equitable relief under Section 11.2 or Partner's obligations under Section 7.4. [To decide: whether this should also except ordinary breaches of Sections 3 and 4 (confidentiality), which otherwise could be enforced only by equitable relief.]
 
@@ -238,11 +238,11 @@ All other Project Work Product: \
 
 **11.8 Counterparts; electronic signatures.** This Letter Agreement may be signed in counterparts, each of which is an original and all of which together are one instrument. Signatures delivered electronically, including through an electronic signature service such as Adobe Acrobat Sign, are as effective as handwritten signatures.
 
-**11.9 Interpretation.** Headings are for convenience only. "Including" means "including without limitation." "Reasonable care" and "reasonable effort" shall be judged by an ordinary reasonableness standard as determined by Harvard's Office of the General Counsel.
+**11.9 Interpretation.** Headings are for convenience only. "Including" means "including without limitation." "Reasonable care" and "reasonable effort" mean what a reasonable person in the recipient's position would do under the circumstances, considering the recipient's role in the Course, the nature of the information, and when the recipient learned it was not meant for them. A recipient who promptly takes the steps in Section 3.7(a) through (c) after learning of an Inadvertent Disclosure has used reasonable care under Section 3.7.
 
 **11.10 Authority and capacity.** Each party represents and warrants that it is legally permitted to enter into and perform this Letter Agreement, including, without limitation, that any party who is an individual has reached the age of majority, and that any individual signing on behalf of Partner is authorized to do so.
 
-**11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily. If Participant is a student, Participant had the opportunity to request being assigned to an Open Science project (as defined in Section 8), or to undertake an individual project under Exhibit D, neither of which requires entering into an IP assignment to a third party. If Participant is a student and has asked to be reassigned from another project in the Course (a "**first project**") for any reason, including not wishing to sign the letter agreement for the first project, Participant acknowledges having been instructed not to contribute material work to the first project before signing its letter agreement. Any work product that Participant contributed to the first project before asking to be reassigned is treated as if Participant had signed the first project's letter agreement on the same terms as its other student participants, and Participant hereby assigns or licenses it as that letter agreement's intellectual property option provides. Participant shall keep confidential, as Course Private Information, any information that the first project's sponsor provided to Participant.
+**11.11 Participant acknowledgment.** Participant has read and understands this Letter Agreement, has had the opportunity to ask questions about it and to consult advisors of Participant's choosing, and signs it voluntarily. If Participant is a student, Participant had the opportunity to request being assigned to an Open Science project (as defined in Section 8), or to undertake a project without a partner under Exhibit D, neither of which requires entering into an IP assignment to a third party. If Participant is a student and has asked to be reassigned from another project in the Course (a "**first project**") for any reason, including not wishing to sign the letter agreement for the first project, Participant acknowledges having been instructed not to contribute material work to the first project before signing its letter agreement. Any work product that Participant contributed to the first project before asking to be reassigned is treated as if Participant had signed the first project's letter agreement on the same terms as its other student participants, and Participant hereby assigns or licenses it as that letter agreement's intellectual property option provides. Participant shall keep confidential, as Course Private Information, any information that the first project's sponsor provided to Participant.
 
 If these terms are acceptable, please sign below.
 
@@ -324,15 +324,15 @@ This acknowledgment is made part of the Letter Agreement, so no separate signatu
 
 1. I have received, read, and executed the Letter Agreement (including all of its Exhibits) relating to intellectual property ("IP") in my Course coursework, and I have been given an opportunity to review the Letter Agreement with advisors and/or legal counsel prior to executing it.
 
-2. I understand that these policies are well established and that by continuing to enroll in the Course and executing the Letter Agreement I am bound by them. If I do not wish to accept them, I may undertake an individual Course project (with instructor consent), signing only the Solo Student Statement in Exhibit D, or I may drop or withdraw from the Course.
+2. I understand that these policies are well established and that by continuing to enroll in the Course and executing the Letter Agreement I am bound by them. If I do not wish to accept them, I may undertake a Course project without a partner (with instructor consent), signing only the Project Statement (No Partner) in Exhibit D, or I may drop or withdraw from the Course.
 
 3. I understand that the baseline framework of this Course is Open Science (as defined in Section 8 of the Letter Agreement): by default, all software and code produced in the Course is licensed under the MIT License or the Apache License 2.0, and other materials under CC BY 4.0 or CC BY-SA 4.0, promoting academic research and giving everyone who receives the work broad rights to use, adapt, and share it.
 
-4. I understand that every student working on a project with a partner must sign the Letter Agreement for that project, whether to share IP in an Open Science project or to protect IP in another project, and that a student whose project has no partner, such as an individual project, signs the Solo Student Statement in Exhibit D instead. Every student may choose whether to work on a project whose partner needs IP terms beyond the Open Science default. When Partners are unable to accept Open Science terms, typically for contractual, legal, or compelling business reasons, they may ask for nondisclosure (also referred to as "NDA") and/or IP assignment terms in the Letter Agreement. Examples include when Partners are providing access to valuable resources, including without limitation: real-world, confidential industry data; data that may contain information that must be contractually protected by law or other contract; partners' proprietary expertise, in-progress or confidential inventions, or other know-how pertaining to the project; or partner-funded compute to analyze restricted-access data. If I choose to work on such a project, I am agreeing to its IP terms in part so that my project group will receive access to resources we would not otherwise be able to receive and work on topics we would not otherwise be able to explore.
+4. I understand that every student working on a project with a partner must sign the Letter Agreement for that project, whether to share IP in an Open Science project or to protect IP in another project, and that a student whose project has no partner, whether an individual or a team project, signs the Project Statement (No Partner) in Exhibit D instead. Every student may choose whether to work on a project whose partner needs IP terms beyond the Open Science default. When Partners are unable to accept Open Science terms, typically for contractual, legal, or compelling business reasons, they may ask for nondisclosure (also referred to as "NDA") and/or IP assignment terms in the Letter Agreement. Examples include when Partners are providing access to valuable resources, including without limitation: real-world, confidential industry data; data that may contain information that must be contractually protected by law or other contract; partners' proprietary expertise, in-progress or confidential inventions, or other know-how pertaining to the project; or partner-funded compute to analyze restricted-access data. If I choose to work on such a project, I am agreeing to its IP terms in part so that my project group will receive access to resources we would not otherwise be able to receive and work on topics we would not otherwise be able to explore.
 
-5. I agree that I must accept a project's IP terms before being assigned to that project and receiving any partner information or beginning any work on that project. If I am tentatively assigned to a project and choose not to accept its IP terms, I may request reassignment to a different project whose IP terms I am willing to accept, including an Open Science project or an individual project (Exhibit D), neither of which requires an IP assignment to a partner or confidentiality obligations beyond those for Inadvertent Disclosures, and Course Staff shall honor this request.
+5. I agree that I must accept a project's IP terms before being assigned to that project and receiving any partner information or beginning any work on that project. If I am tentatively assigned to a project and choose not to accept its IP terms, I may request reassignment to a different project whose IP terms I am willing to accept, including an Open Science project or a project without a partner (Exhibit D), neither of which requires an IP assignment to a partner or confidentiality obligations beyond those for Inadvertent Disclosures, and Course Staff shall honor this request.
 
-6. I understand that, if the Course is a capstone in partial fulfillment of requirements for my degree program, I could have declined to sign this Letter Agreement, because I was given the opportunity either (a) to prepare and submit a thesis instead of taking the Course, without entering into any such agreement, or (b) to undertake an individual Course project, signing only the Solo Student Statement in Exhibit D.
+6. I understand that, if the Course is a capstone in partial fulfillment of requirements for my degree program, I could have declined to sign this Letter Agreement, because I was given the opportunity either (a) to prepare and submit a thesis instead of taking the Course, without entering into any such agreement, or (b) to undertake a Course project without a partner, signing only the Project Statement (No Partner) in Exhibit D.
    
 7. I understand that partners who ask for an IP agreement have agreed to make reasonable provisions for my teammates and me to discuss and demo our Project Work Product, and not to unreasonably withhold consent to publication of nonconfidential information about our results. These provisions are in Section 5 (publication, the Approved Poster and/or Video, and Partner's review) and Sections 8.7 through 8.9 (continued use, demonstrations, and the Enabling License) of the Letter Agreement.
 
@@ -495,24 +495,59 @@ Date: ______________________________
 
 **5.** Name: ______________________________ Signature: ______________________________ Date: ______________
 
-## Exhibit D: Solo Student Statement
+## Exhibit D: Project Statement (No Partner)
 
-[For a student whose Course project has no partner, such as an individual project. The student signs this statement instead of a Letter Agreement.]
+[For a Course project that has no partner, whether an individual project or a team project. Every student on the project signs this statement instead of a Letter Agreement. Capitalized terms have the meanings given in the Course's form of Letter Agreement, to which this Exhibit D is attached.]
 
+Project title: ______________________________ \
 Course (number and title): ______________________________ \
 Duration: ______________________ \
-Course intellectual property policy (check one): ☐ Exhibit A.ES ☐ Exhibit A.DS
+Course intellectual property policy (check one): ☐ Exhibit A.ES ☐ Exhibit A.DS \
+Project type (check one): ☐ Individual project ☐ Team project
 
-I am a student enrolled in the Course named above, working on a Course project that has no partner. Capitalized terms in this statement have the meanings given in the Course's form of Letter Agreement, to which this Exhibit D is attached. For the benefit of each partner sponsoring a project in the Course (each, a "**Course Partner**"), Harvard, and the Course Staff, I agree as follows:
+Each student who signs this statement is a "**Project Student**". "**Project Work Product**" here means work product that any Project Student creates in the course of the project. For the benefit of each partner sponsoring a project in the Course (each, a "**Course Partner**"), Harvard, the Course Staff, and each other Project Student, each Project Student agrees as follows.
 
-1. **Inadvertent Disclosures.** I am bound by Section 3.7 (Inadvertent Disclosures) of the Letter Agreement as if I were a Participant. If I receive confidential information that I am not entitled to receive, I will use reasonable care to orally inform the party who made the disclosure; not copy, save, forward, use, or retransmit it; and permanently delete or destroy any copies I have.
-2. **Other projects' Course Private Information.** I will keep confidential any Course Private Information of other projects that I see or hear in the Course, and I won't disclose it to anyone outside the Course Community (Section 3.3 of the Letter Agreement).
-3. **Course IP policy.** I have received and read the Course IP policy checked above, and I acknowledge it as it applies to a project without a partner.
-4. **My IP.** No partner has any rights in my project work. Subject to Harvard's conditional informal exception and Section 9.2 of the Letter Agreement, I keep all rights in the IP I create in my project.
-5. **Liability.** I have no liability for merely receiving an Inadvertent Disclosure (Section 3.7), and I won't assert any claim against Harvard or the Course Staff that Section 9.3 of the Letter Agreement excludes.
-6. **General.** Each Course Partner may enforce items 1 and 2 as a third-party beneficiary, and Harvard and the Course Staff may enforce item 5. Sections 3.5, 3.6, 11.1, 11.5, 11.8, 11.9, and 11.10 of the Letter Agreement apply to this statement.
+**D1. Intellectual property.** Check exactly one option. If no option is checked, or more than one is checked, Option D1.1 applies, with the MIT License and CC BY 4.0. Any option other than D1.1 requires the Course instructor's written approval below. Whatever the option, each Project Student's rights are subject to Harvard's conditional informal exception and Section 9.2 of the Letter Agreement.
 
-Name: ______________________________ \
-Email (ending in harvard.edu): ______________________________ \
-Signature: ______________________________ \
-Date: ______________________________
+☐ **D1.1 Open Science (default).** Each Project Student hereby licenses that student's rights in the Project Work Product, as described in Section 8.1 of the Letter Agreement, under: \
+Software (check one): ☐ MIT License ☐ Apache License 2.0 \
+All other Project Work Product (check one): ☐ CC BY 4.0 ☐ CC BY-SA 4.0 \
+If no license is checked for a category, the MIT License applies to software and CC BY 4.0 to all other Project Work Product.
+
+☐ **D1.2 Keep all rights (individual projects only).** The Project Student keeps all rights in the Project Work Product and grants no license under this statement.
+
+☐ **D1.3 Licenses among teammates (team projects only).** Each Project Student keeps that student's rights in the Project Work Product and grants each other Project Student the license described in Section 8.2 of the Letter Agreement, as if there were no Partner.
+
+☐ **D1.4 Functional Source License (team projects only).** The software in the Project Work Product is licensed under (check one) ☐ FSL-1.1-MIT ☐ FSL-1.1-ALv2, and all other Project Work Product under (check one) ☐ CC BY 4.0 ☐ CC BY-SA 4.0. Section 8.1.1 of the Letter Agreement applies as if there were no Partner: the Project Students own the Project Software jointly and together are its licensor. A majority of the Project Students may, by written notice to all of them, designate or replace one Project Student or one Student Company as the "**FSL Representative**", who manages releases of the Project Software and any enforcement of the FSL license on the Project Students' behalf.
+
+**D2. Confidentiality.** Check one. If neither or both are checked, Option D2.1 applies. Option D2.2 requires the Course instructor's written approval below.
+
+☐ **D2.1 Open Science (default).** Information that the Project Students share about the project with the Course Staff and classmates is not restricted.
+
+☐ **D2.2 Course Private Information.** Information that the Project Students share about the project with the Course Staff and classmates is Course Private Information, to be kept within the Course Community (Section 3.3 of the Letter Agreement).
+
+Under either option, each Project Student (a) shall not disclose to the Course Staff or classmates any confidential information of anyone else, such as an employer, that the student isn't authorized to share; (b) is bound by Section 3.7 (Inadvertent Disclosures) of the Letter Agreement as if the student were a Participant; and (c) shall keep any Course Private Information of other projects within the Course Community.
+
+**D3. Other terms.** The following sections of the Letter Agreement apply as if each Project Student were a Participant and there were no Partner: 3.5 and 3.6 (required and protected disclosures); 4.7 (making sure every Project Student receives the Project Work Product before Course computing resources are shut down); 5.6(b) through (d) (credit and review among teammates); 8.6 (third-party materials); 8.7 (continued use); 9.1 through 9.3 (Harvard); 10.2 (survival); and 11.1, 11.5, 11.8, 11.9, 11.10, and 11.11 (general terms, including reassignment). By signing, each Project Student acknowledges the Course IP policy checked above, including the student acknowledgment in it, as it applies to a project without a partner.
+
+**D4. Enforcement and changes.** Each Course Partner may enforce D2(b) and D2(c) as a third-party beneficiary, and Harvard and each member of the Course Staff may enforce Section 9.3 as applied by D3. Project Students may enforce this statement against each other. The options checked in D1 and D2 may be changed only in a writing signed by all of the Project Students, with the Course instructor's written approval for any option other than D1.1 and D2.1. A student who joins the project later joins this statement by signing below.
+
+**Project Students** (add pages in the same form if more join):
+
+**1.** Name: ______________________________ Email (ending in harvard.edu): ______________________________ \
+Signature: ______________________________ Date: ______________
+
+**2.** Name: ______________________________ Email (ending in harvard.edu): ______________________________ \
+Signature: ______________________________ Date: ______________
+
+**3.** Name: ______________________________ Email (ending in harvard.edu): ______________________________ \
+Signature: ______________________________ Date: ______________
+
+**4.** Name: ______________________________ Email (ending in harvard.edu): ______________________________ \
+Signature: ______________________________ Date: ______________
+
+**5.** Name: ______________________________ Email (ending in harvard.edu): ______________________________ \
+Signature: ______________________________ Date: ______________
+
+**Course instructor approval** (required for any option other than D1.1 and D2.1): \
+Name: ______________________________ Signature: ______________________________ Date: ______________
