@@ -1,4 +1,4 @@
-> **Working draft v0.4: core terms (pass 1) and intellectual property (pass 2).** Not yet reviewed by counsel; not for signature. Blanks are completed for each signed copy. [Bracketed text] marks a drafting choice still to be confirmed. Remove this note before use.
+> **Draft v0.5 for counsel review.** Not for signature. Blanks are completed for each signed copy. [Bracketed text] marks a drafting choice still to be confirmed, and review notes R-2 and R-4 through R-8 are questions for counsel. Remove this note and the review notes before use.
 
 [PARTNER LETTERHEAD]
 
