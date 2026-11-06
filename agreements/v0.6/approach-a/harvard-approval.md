@@ -1,4 +1,4 @@
-> **Draft v0.6 (approach A) for Harvard's review.** Not for signature. Brackets mark a placeholder for counsel. Remove this note and the note for counsel before use.
+> **Draft v0.6 (approach A) for Harvard's review.** Not for signature. Remove this note before use.
 
 **HARVARD APPROVAL OF COURSE PROJECT AGREEMENTS**
 
@@ -25,15 +25,7 @@ Course 5: ______________________________
 
 ## Harvard's position
 
-In giving this approval, Harvard acknowledges the terms of the templates that concern it:
-
-- Harvard is not a party to any Course Agreement, Project Agreement, or Project Election, and has no obligations under them (Course Agreement Section 7.1).
-- Members of the Course Staff sign the Course Agreement, and any Project Agreement, in a personal capacity, not for Harvard (Course Agreement Section 1.1).
-- Harvard's rights under its policies, under any agreement between Harvard and a partner or other third party, and from faculty-sponsored research come first, and the templates do not assign or license them (Course Agreement Section 7.2).
-- Under its conditional informal exception to the Statement of Policy in Regard to Intellectual Property, Harvard claims no ownership of what students create as coursework using only the Harvard-administered resources provided generally to students in the course, unless the course is funded by, or conducted under, an agreement between Harvard and a third party, or Harvard otherwise has rights in students' work (Course Agreement Section 7.3).
-- To the fullest extent the law allows, Harvard and the Course Staff have no liability arising out of the courses, their projects, or these agreements, [except for liability resulting from their own gross negligence or willful misconduct,] and Harvard may enforce that protection (Course Agreement Sections 7.4 and 8.3, and Project Agreement Section 5.5).
-
-> **Note for counsel (review notes R-5 and R-6):** The bracketed exception matches the placeholder in Course Agreement Section 7.4. Keep the two consistent.
+In giving this approval, Harvard acknowledges the terms of the templates that concern it: Course Agreement Sections 1.1 (Course Staff sign in a personal capacity), 7.1 (Harvard is not a party), 7.2 (Harvard's rights come first), 7.3 (the conditional informal exception), and 7.4 (no liability of Harvard or the Course Staff). Partner agrees to Course Agreement Sections 7.2 and 7.4 in Project Agreement Section 1.2. Harvard may enforce Course Agreement Sections 7.2 and 7.4 under Course Agreement Section 8.3 and Project Agreement Section 1.2.
 
 ## Signature
 

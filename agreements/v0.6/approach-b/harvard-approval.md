@@ -15,7 +15,14 @@ Courses (number and title; list each course in a sequence, such as 101a and 101b
 
 ## 1. What this approval covers
 
-This approval covers every choice and blank in the templates. Completing them needs no further approval. Any other change to a template's terms needs Harvard's separate written approval. The Student Guide is not binding and is not part of this approval.
+This approval covers every choice and blank in the templates. Completing them needs no further approval. Any other change to a template's terms needs Harvard's separate written approval. The Student Guide to Course Project Agreements is not binding and is not part of this approval.
+
+This approval covers an electronic acknowledgment of the Course Rules only if:
+
+- the person sees the full text of the Course Rules;
+- they take an affirmative step, such as clicking "I agree" or typing their name, after a Harvard login;
+- the Course records who agreed, to which version, and when, and gives them a copy; and
+- a student acknowledges before choosing a Project.
 
 ## 2. Where it is kept
 
@@ -33,7 +40,7 @@ Harvard confirms the statements about it in Course Rules Section 6. In particula
 
 This approval applies to each offering of a listed course that begins before Harvard withdraws it by written notice to the course heads. A withdrawal does not affect documents already signed.
 
-> **Note for counsel:** Harvard relies on Course Rules Section 6.3 as a third-party beneficiary: of the Course Rules, which every student and member of the Course Staff signs, and of each Open Science Project Agreement, in which the partner agrees to that section. Please confirm that this protects Harvard as well as attaching an approval to each agreement did in v0.5.
+> **Note for counsel:** Harvard relies on Course Rules Section 6.3 as a third-party beneficiary of the Course Rules (Section 1.3), which every student and member of the Course Staff acknowledges, and of each Open Science Project Agreement (Section 1.4), which binds the partner to that section and lets Harvard enforce it. Please confirm that this protects Harvard as well as attaching an approval to each agreement did in v0.5.
 
 Office (check one): \
 ☐ Harvard Office of Technology Development \

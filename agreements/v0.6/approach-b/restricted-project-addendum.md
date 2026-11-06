@@ -7,7 +7,7 @@ This addendum is part of the Open Science Project Agreement for the Project name
 Project title: ______________________________ \
 Partner's full legal name: ______________________________ \
 Effective Date of the Short Form: ______________________________ \
-Date this addendum takes effect (the "**Addendum Date**"; leave blank to use the Short Form's Effective Date): ______________________________ \
+Date this addendum takes effect (the "**Addendum Date**"; if blank, the date the last party signs this addendum, or the Short Form's Effective Date if both are signed together): ______________________________ \
 Earlier Partner Information that becomes restricted on the Addendum Date (Section 1.3; leave blank for none): ______________________________
 
 **A. Information** (check one): \
@@ -17,7 +17,7 @@ Earlier Partner Information that becomes restricted on the Addendum Date (Sectio
 
 **B. Ownership** (check one): \
 ☐ Students own (default; Section 4.1) \
-☐ Students and Partner jointly own the software (Section 4.2), under (check one): ☐ FSL-1.1-MIT (default) ☐ FSL-1.1-ALv2 \
+☐ Students and Partner jointly own the software (Section 4.2), under (check one): ☐ FSL-1.1-MIT, the FSL with the MIT License as its future license (default) ☐ FSL-1.1-ALv2, the FSL with Apache 2.0 as its future license \
 ☐ Partner owns (Section 4.3)
 
 **C. Public licenses for work the Students own** (check one on each line): \
@@ -34,7 +34,7 @@ Date of the written or email approval: ______________________________
 
 ## 1. How this addendum works
 
-**1.1 Precedence and defaults.** This addendum changes the Short Form only where it says so, and governs where the two differ. If a choice is left blank, or more than one box is checked on a line, the default applies. If every choice is its default, the Project stays Open Science and this addendum has no effect.
+**1.1 Precedence and defaults.** This addendum governs where it differs from the Short Form. If a box (A to D) is left blank, or more than one option is checked in it, that box's default applies. Each line of box C is a separate choice. If joint ownership is checked with neither or both FSL variants, FSL-1.1-MIT applies. If every choice is its default, the Project stays Open Science and this addendum has no effect.
 
 **1.2 Instructor approval.** Partner certifies that the Course instructor approved the choices in this addendum in writing or by email, as shown in box E. The instructor does not sign. Any later change to these choices needs a new approval, which Partner certifies in the writing that makes the change.
 
@@ -44,42 +44,44 @@ Date of the written or email approval: ______________________________
 - the ownership and license choices cover all Project Work Product, including earlier work, as between Partner and the Students, but public licenses that others already hold in copies they received before the Addendum Date continue; and
 - a Student who does not accept the change may ask to be reassigned under Course Rules Section 4.3, and their earlier work stays under the earlier terms.
 
+A later addendum replaces any earlier one from its Addendum Date.
+
 > **Note for counsel:** an open license cannot be withdrawn from people who already hold copies. Please confirm that a later change can bind the parties' own earlier work as between them, and that earlier non-public information can become restricted from the Addendum Date.
 
 ## 2. Restricted information
 
-This Section 2 applies if box A is Course Private, or Course Private and Confidential. It replaces Short Form Section 2.1, except its definition of Protected Data.
+This Section 2 applies if box A is Course Private, or Course Private and Confidential. It replaces Short Form Section 2.1, except its definition of Protected Data. In it, a "**Recipient**" is a Student (including one who joins later) or a member of the Course Staff who signs this addendum.
 
 **2.1 Course Private Information.** All Partner Information is Course Private Information, except Confidential Information. Students may disclose it only to Partner and the Course Community, as Short Form Sections 4.2 and 4.4 allow, or as Partner approves in writing. They may share it with other teams, including at Private Course Events, but never in a public forum without the written consent of Partner and every Student.
 
-**2.2 Mistakes under Course Private.** If box A is Course Private, Partner must not give Confidential Information. If Partner gives something by mistake that it identifies as confidential, each Student must delete it and stop using it once Partner asks in writing, or once they notice that it is marked confidential, if sooner. They must also make reasonable efforts to have it removed from submitted coursework. Uses before then that were allowed for Course Private Information are not a breach.
+**2.2 Mistakes under Course Private.** If box A is Course Private, Partner must not give anything that it needs kept more confidential than Course Private Information. If Partner gives something by mistake that it identifies as confidential, each Student must delete it and stop using it once Partner asks in writing, or once they notice that it is marked confidential, if sooner. They must also make reasonable efforts to have it removed from submitted coursework. Uses before then that were allowed for Course Private Information are not a breach.
 
-**2.3 Confidential Information.** If box A is Course Private and Confidential, Partner may make Partner Information Confidential Information by marking it so in writing when it is given. For an oral or visual disclosure, Partner must say so at the time and confirm it in writing within ten business days. Partner may give Confidential Information only to the signers of this addendum: the Students and any Course Staff who sign it. A signer may disclose Confidential Information only to Partner and other signers, or as Partner approves in writing. Nothing else in this agreement allows any other disclosure of it, apart from Course Rules Section 2.5.
+**2.3 Confidential Information.** If box A is Course Private and Confidential, Partner may make Partner Information Confidential Information by marking it so in writing when it is given. For an oral or visual disclosure, Partner must say so at the time and confirm it in writing within ten business days. Partner may give Confidential Information only to Recipients. A Recipient may disclose Confidential Information only to Partner and other Recipients, or as Partner approves in writing. Nothing else in this agreement allows any other disclosure of it, apart from Course Rules Section 2.5.
 
-**2.4 Protecting Restricted Information.** "**Restricted Information**" means Course Private Information and Confidential Information. Each signer must:
+**2.4 Protecting Restricted Information.** "**Restricted Information**" means Course Private Information and Confidential Information. Each Recipient must:
 
 - use Restricted Information only for the Project and the Course, and as this agreement allows for demonstrations;
 - protect it with at least reasonable care;
 - keep it off public websites, public code repositories, social media, and other public forums, and out of public events; and
 - use it with generative AI tools only as Course Rules Section 2.4 allows.
 
-These duties last for the Confidentiality Period. Partner must label any Protected Data that it gives as Course Private Information or Confidential Information.
+Partner must label any Protected Data that it gives as Course Private Information or Confidential Information.
 
 **2.5 Poster and video.** Short Form Section 4.2 applies, except that the Students may not publish the Approved Poster and Video, or share copies of or links to them, without Partner's written consent.
 
-**2.6 End of the Project.** Within 30 days after their End Date, or sooner if Partner asks in writing, each signer must:
+**2.6 End of the Project.** Within 30 days after their End Date, or sooner if Partner asks in writing, each Recipient must:
 
 - delete or destroy all Confidential Information that they hold, including on personal devices, in cloud accounts, and in generative AI tool histories, except data or code under the Enabling License;
 - keep any Course Private Information that they retain within the Course Community; and
 - if Partner asks, confirm in writing that these steps are done.
 
-A Partner Contact may let a signer keep more, by email, without an amendment.
+A Partner Contact may let a Recipient keep more, by email, without an amendment.
 
 ## 3. Publication review
 
 **3.1 When it applies.** Publication review applies if box D is checked, or if Partner owns the Project Work Product. It never applies if information is Open. If information is Open and Partner owns, Section 4.3(c) applies instead.
 
-**3.2 How it works.** At least 30 days before submitting any publication, presentation, or other public disclosure about the Project, a Student must give Partner a copy, or a written summary of an oral disclosure. The Student must not make the disclosure until Partner consents in writing or the Publication Hold Period ends. The "**Publication Hold Period**" begins when Partner receives the copy and lasts for the period in box D. If no period is given, it lasts until Partner consents. Partner must not unreasonably withhold consent for results that contain no Confidential Information. Any delay to let Partner file a patent application is handled within this review and does not extend the Publication Hold Period. Review does not apply to the uses that Short Form Sections 4.1, 4.2, and 4.4 allow. The end of a Publication Hold Period does not end any confidentiality duty.
+**3.2 How it works.** Review covers any publication, presentation, or other public disclosure that relates to Partner Information or, if Partner owns the Project Work Product, to Project Work Product. At least 30 days before submitting one, a Student must give Partner a copy, or a written summary of an oral disclosure. The Student must not make the disclosure until Partner consents in writing or the Publication Hold Period ends. The "**Publication Hold Period**" begins when Partner receives the copy and lasts for the period in box D. If no period is given, it lasts until Partner consents. Partner must not unreasonably withhold consent for results that contain no Confidential Information. Any delay to let Partner file a patent application is handled within this review and does not extend the Publication Hold Period. Review does not apply to the uses that Short Form Sections 4.1, 4.2, and 4.4 allow. The end of a Publication Hold Period does not end any confidentiality duty.
 
 ## 4. Ownership and licenses
 
@@ -97,11 +99,11 @@ A Partner Contact may let a signer keep more, by email, without an amendment.
 
 (e) No joint owner owes another an accounting of profits.
 
-(f) Each released copy carries a notice reading "Copyright", followed by the year of first release, Partner's full legal name, and the full names of the Students. One or more Students may assign their interests to their Student Company without the other owners' consent, and name it in the notice instead. The company must first agree in writing to be bound by this agreement as those Students.
+(f) Each released copy must carry a notice reading "Copyright", followed by the year of first release, Partner's full legal name, and the full names of the Students. One or more Students may assign their interests to their Student Company without the other owners' consent, and name it in the notice instead. The company must first agree in writing to be bound by this agreement as those Students.
 
 The Students own the rest of the Project Work Product, licensed as box C provides.
 
-> **Note for counsel (R-7):** these terms assume the U.S. rule that a copyright co-owner may use the work and grant non-exclusive licenses without the others' consent, but must account for profits, which (e) waives. Please confirm.
+> **Note for counsel:** (R-7) these terms assume the U.S. rule that a copyright co-owner may use the work and grant non-exclusive licenses without the others' consent, but must account for profits, which (e) waives. Please confirm.
 
 **4.3 Partner owns.** If box B is Partner owns:
 

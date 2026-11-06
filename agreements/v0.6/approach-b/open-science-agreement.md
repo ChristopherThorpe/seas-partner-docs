@@ -4,33 +4,40 @@
 
 Project title: ______________________________ \
 Course (number, title, and terms): ______________________________ \
-Effective Date: ______________________________
+Date this agreement takes effect (the "**Effective Date**"): ______________________________
 
 Project description (goals, scope, and deliverables; attach pages if needed): ______________________________
 
 Partner's full legal name: ______________________________ \
 Partner's jurisdiction and type of entity: ______________________________
 
-Partner Contacts (Section 7.1): \
+Individuals who act for Partner on the Project (the "**Partner Contacts**"; Section 7.1): \
 Name: ______________________________ Email: ______________________________ \
 Name: ______________________________ Email: ______________________________ \
 Name: ______________________________ Email: ______________________________
 
 Public licenses (Section 3.2): \
-Software (check one or both): ☐ MIT License (default) ☐ Apache License 2.0 \
+Software (check one or both): ☐ MIT License (default) ☐ Apache 2.0 \
 Everything else (check one): ☐ CC BY 4.0 (default) ☐ CC BY-SA 4.0
 
-This agreement is between the company named above ("**Partner**") and each student who signs it (each, a "**Student**"), for the Project named above. The Project is Open Science. If Partner and the Students sign a Restricted Project Addendum, it becomes part of this agreement and governs where the two differ.
+This agreement is between the company named above ("**Partner**") and each student who signs it (each, a "**Student**"), for the Project named above. The Project is Open Science unless Partner and the Students sign a Restricted Project Addendum, which then becomes part of this agreement and governs where the two differ.
 
 ## 1. The Project and the parties
 
-**1.1 Parties.** Partner and every Student are parties to this agreement with each other, and the Students are parties with each other. It is the only agreement for the Project. Each party's obligations are its own, and no one answers for another's breach. Harvard and SEAS are not parties, and this agreement does not change any agreement between Harvard and Partner.
+**1.1 Parties.** Partner and every Student are parties to this agreement with each other, and the Students are parties with each other. Together with the Course Rules, it is the only agreement for the Project. Each party's obligations are its own, and no one answers for another's breach. Harvard and SEAS are not parties, and this agreement does not change any agreement between Harvard and Partner.
 
 **1.2 Coursework.** The Project is an educational activity of the Course. The Course Staff alone set its requirements, supervise it, and evaluate and grade it. Partner may benefit from the results. Partner's sponsorship and each Student's chance to take part are the consideration for this agreement. No Student is Partner's employee, contractor, or agent, or receives pay or benefits from Partner. Neither Partner nor any Student must offer or accept a job.
 
 **1.3 Signing and joining.** Each Student must sign before receiving any information from Partner or anyone acting for it ("**Partner Information**") or doing material work on the Project. A student who joins later signs the joinder page and is bound as of the Effective Date. Joining is not an amendment. The choices in this agreement apply to every Student.
 
-**1.4 Course Rules.** Every Student has agreed to the Course Rules for the Course, and Partner has received a copy. Terms defined in the Course Rules have the same meaning here. Course Rules Sections 2.1 (inadvertent disclosures), 2.5 (exclusions), and 6.3 (no liability of Harvard or the Course Staff) bind Partner as if it had signed the Course Rules. Partner may enforce the Course Rules that protect its information.
+**1.4 Course Rules.** Every Student has agreed, and by signing this agreement agrees again, to the Course Rules for the Course. Terms defined in the Course Rules have the same meaning here. Partner has received a copy, and relies on these parts of it:
+
+- the header and Section 1.2, which define Duration, Project Work Product, Course Community, Course Private Information, Confidential Information, and End Date, and say that this agreement governs among its signers if the two conflict;
+- Section 4.1, which defines Open Science and names the public licenses;
+- Section 7.1, which sets the Confidentiality Period; and
+- Sections 2.1 (inadvertent disclosures), 2.2 (other Projects' information, as it applies to information Partner receives through the Course), 2.5 (exclusions), and 6.3 (no liability of Harvard or the Course Staff), which bind Partner as if it had signed the Course Rules.
+
+The partner and students of each other Project may enforce Course Rules Sections 2.1 and 2.2 against Partner as they protect that Project's information. Harvard and each member of the Course Staff may enforce Course Rules Section 6.3 against Partner. Partner may enforce the Course Rules that protect its information.
 
 ## 2. Information
 
@@ -39,8 +46,8 @@ This agreement is between the company named above ("**Partner**") and each stude
 **2.2 Partner's other duties.** Partner must not:
 
 - give the Students anything listed on the Commerce Control List of the Export Administration Regulations or the U.S. Munitions List of the International Traffic in Arms Regulations;
-- ask any Student for another Project's Course Private Information or Confidential Information, unless that Project's partner and students consent in writing; or
-- ask for any student's grades or other education records, other than work that the Students give it under this agreement. Partner must disregard and delete any that it receives.
+- ask any Student for another Project's Course Private Information or Confidential Information, unless that Project's partner and students (or, without a partner, its students) consent in writing; or
+- ask for any student's grades or other education records. If Partner receives any, other than work that the Students give it under this agreement, it must disregard and delete them.
 
 ## 3. Intellectual property
 
@@ -60,7 +67,7 @@ This agreement is between the company named above ("**Partner**") and each stude
 
 **4.2 Final poster and video.** The "**Approved Poster and Video**" is the final poster, final video, or both, that the Students submit to the Course, once they have made the edits Partner requested under Section 4.1. Students may show, play, and discuss them with potential employers, graduate programs, and similar audiences. They may also publish them, including by sharing copies or links, as long as Partner and every Partner Affiliate stay masked unless Partner agrees otherwise in writing.
 
-**4.3 Credit.** Course Rules Section 5.4 on co-authorship and review also applies when Partner submits material about Project Work Product for publication, with every Student treated as Partner's teammate. Partner's employees who contributed to the Project are offered credit as if they were teammates. During the Duration, a Partner Contact and all the Students may change this process by email.
+**4.3 Credit.** When Partner publishes about Project Work Product, it must follow Course Rules Section 5.4 as if every Student were its teammate. When a Student publishes, Partner's employees who contributed are offered credit as teammates are. During the Duration, a Partner Contact and all the Students may change this process by email.
 
 **4.4 Demonstrations.** A Student may demonstrate working Project Work Product live to potential employers, graduate programs, and similar audiences, if they mask Partner and every Partner Affiliate as Section 4.1 requires. This section does not allow giving anyone copies of Project Work Product or of anything licensed under Section 4.5. A Student may also record video demonstrations and, with Partner's consent, which Partner must not unreasonably withhold, share them privately, for example on a password-protected website.
 
@@ -76,9 +83,9 @@ Before their End Date, and before Course computing resources shut down, each Stu
 
 **6.2 Release.** Partner releases each Student from any claim, loss, liability, damage, or expense arising out of the Project, their part in it, or any use of Project Work Product, and must not assert any such claim against them. This does not cover loss caused by that Student's breach of this agreement. It covers only Partner's own claims: Partner need not defend or indemnify any Student, or pay their legal fees or costs.
 
-**6.3 Limit on liability.** [Placeholder for discussion: To the fullest extent the law allows, neither Partner nor any Student is liable to the other, or to any other partner in the Course, for any claim, loss, or damage arising out of this agreement, the Project, or the Course, whether direct, indirect, consequential, or otherwise. This does not cover liability resulting from that party's [gross negligence, willful misconduct, or worse]. This section does not limit Section 6.2 or relief under Section 6.4.] [To decide: whether ordinary breaches of confidentiality are also excepted, since otherwise they could be enforced only by an injunction.]
+**6.3 Limit on liability.** [Placeholder for discussion: To the fullest extent the law allows, neither Partner nor any Student is liable to any other party, or to any other partner in the Course, for any claim, loss, or damage arising out of this agreement or the Project, whether direct, indirect, consequential, or otherwise. This does not cover liability resulting from that party's [gross negligence, willful misconduct, or worse]. This section does not limit Section 6.2 or relief under Section 6.4, and does not apply to claims between Students under the Course Rules.] [To decide: whether ordinary breaches of confidentiality are also excepted, since otherwise they could be enforced only by an injunction; and, because the Students are parties to each other, whether claims between Students under this agreement (such as the joint-ownership terms of a Restricted Project Addendum) should be limited at all.]
 
-**6.4 Injunctions.** A breach of the confidentiality or intellectual property terms of this agreement may cause Partner irreparable harm. Partner may seek an injunction or other equitable relief for it, in addition to any other remedy.
+**6.4 Injunctions.** A breach of the confidentiality terms of this agreement may cause Partner irreparable harm, and a breach of its intellectual property terms may cause any party irreparable harm. The harmed party may seek an injunction or other equitable relief, in addition to any other remedy.
 
 ## 7. General
 
@@ -88,7 +95,7 @@ Before their End Date, and before Course computing resources shut down, each Stu
 
 **7.3 Assignment.** Students may not assign or delegate this agreement. Partner may assign it, on notice to the Students, to a successor to all or substantially all of the business to which it relates. This agreement binds and benefits the parties' permitted successors.
 
-**7.4 Other terms.** Massachusetts law governs this agreement, and only Massachusetts state and federal courts have jurisdiction. It may be signed in counterparts and electronically, including through Adobe Acrobat Sign. Each party confirms that it may enter into this agreement, each individual that they are of the age of majority, and Partner's signer that they are authorized. Each Student confirms that they have read this agreement, could ask questions and consult advisors, and sign voluntarily. This agreement, with any Restricted Project Addendum, is the entire agreement between the parties about the Project. An unenforceable term does not affect the rest. "Including" means "including without limitation." This agreement continues after the Duration and after each Student's End Date. Sections 4.1 and 4.2 have no time limit.
+**7.4 Other terms.** Massachusetts law governs this agreement, and only Massachusetts state and federal courts have jurisdiction. It may be signed in counterparts and electronically, including through Adobe Acrobat Sign. Each party confirms that it may enter into this agreement, each individual that they are of the age of majority, and Partner's signer that they are authorized. Each Student confirms that they have read this agreement, could ask questions and consult advisors, and sign voluntarily. This agreement, with any Restricted Project Addendum and the Course Rules, is the entire agreement between the parties about the Project. The Course Rules continue to apply among the Students. An unenforceable term does not affect the rest. "Including" means "including without limitation." This agreement continues after the Duration and after each Student's End Date. Sections 4.1 and 4.2 have no time limit.
 
 ## Signatures
 
