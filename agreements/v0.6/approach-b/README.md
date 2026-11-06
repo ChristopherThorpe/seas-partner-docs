@@ -10,11 +10,11 @@ Abbreviations used below: **CR** (Course Rules), **SF** (Open Science Project Ag
 
 | Document | File | Words (approx.) | Notes |
 | --- | --- | --- | --- |
-| Course Rules | `course-rules.md` | 1,900 (1,750 without the header, acknowledgment block, and notes for counsel) | Over the 1,000 to 1,500 target; see Weaknesses. |
-| Open Science Project Agreement | `open-science-agreement.md` | 2,100, including about 300 words of cover page, signature blocks, and joinder page | Target was 1,500 to 2,000. |
-| Restricted Project Addendum | `restricted-project-addendum.md` | 1,900 (1,800 without notes) | Used only when a partner leaves Open Science. |
+| Course Rules | `course-rules.md` | 1,900, of which 1,820 is rules text and the rest the header and acknowledgment block; notes for counsel add 175 | Over the 1,000 to 1,500 target; see Weaknesses. |
+| Open Science Project Agreement | `open-science-agreement.md` | 2,100, of which 1,850 is terms and 255 the cover page, signature blocks, and joinder page | Target was 1,500 to 2,000. |
+| Restricted Project Addendum | `restricted-project-addendum.md` | 1,900, of which 1,590 is terms and 330 the choice boxes and signature blocks; notes for counsel add 100 | Used only when a partner leaves Open Science. |
 | Team Project Form (No Partner) | `team-project-form.md` | 770 | |
-| Harvard Approval | `harvard-approval.md` | 300 (400 with the note) | Signed once, kept on file. |
+| Harvard Approval | `harvard-approval.md` | 300; the note for counsel adds 85 | Signed once, kept on file. |
 
 A partner in the common case reads about 2,100 words (the SF) plus the CR it receives for reference. A partner that restricts information or takes ownership reads about 4,000.
 
@@ -73,7 +73,7 @@ A notice in the syllabus, or "by enrolling you agree", is not enough. The CR con
 | 11 | Reassignment | The Course Staff must move the student to an Open Science Project (CR §4.3). The two weeks of work stay under the first Project Agreement as if the student had signed it, and the first partner's information stays confidential (CR §4.3). The first partner may enforce this (CR §1.3). The student should not have done material work before signing (CR §4.2). |
 | 12 | Change of mind | See "Moving from the Short Form to the addendum mid-course" above (SF §7.2, RA §1.2, RA §1.3, CR §4.3). With Partner owning and information Course Private, review then applies automatically (RA §3.1). |
 | 13 | New Partner Contact; partner acquired | Partner changes a Partner Contact by email notice; no amendment is needed (SF §7.1). On an acquisition of the business, Partner may assign the SF to the successor on notice, and its license goes with it (SF §7.3, §3.3). On a share purchase or merger, Partner stays the party. |
-| 14 | Demonstrations after the Course | The sample is usable only if a Partner Contact identified it under the Enabling License. Use must be noncommercial, masked, and live, with no copies given, within five years of the End Date (SF §4.4, §4.5; CR §7.1). Restricted data stays restricted (SF §4.5, RA §2.4) but need not be deleted (RA §2.6). |
+| 14 | Demonstrations after the Course | The sample is usable only if a Partner Contact identified it under the Enabling License. Use must be noncommercial and masked, either live or by a privately shared video that Partner consents to, with no copies given, within five years of the End Date (SF §4.4, §4.5; CR §7.1). Restricted data stays restricted (SF §4.5, RA §2.4) but need not be deleted (RA §2.6). |
 | 15 | Generative AI | Not allowed unless Partner has approved that tool in writing or by email; the approval requirement covers Harvard's tools too (CR §2.4, RA §2.4). |
 | 16 | Individual project, keep all rights | TPF: Individual, A None, B None, with the instructor's approval certified in box D (TPF §2, §5). The CR still apply; Harvard's rights still come first (TPF §2, CR §6.2). |
 | 17 | Team project with FSL | TPF A FSL-1.1-ALv2. The students jointly own and license the software, and a majority names the FSL Representative (TPF §3(a), (f)). Approval is certified in box D (TPF §5). No buyout applies (CR §5.3). |
@@ -114,7 +114,7 @@ A notice in the syllabus, or "by enrolling you agree", is not enough. The CR con
 ## Weaknesses
 
 - **Three documents cross-reference each other.** A partner with an RA reads the SF, the RA, and parts of the CR. Renumbering any of them breaks citations, so the templates must be versioned together (HA §1).
-- **The Course Rules are over target.** At about 1,750 words of rules, they exceed the 1,000 to 1,500 aim. The buyout (about 190 words), the exclusions, and Harvard's position account for most of it; none could move without splitting a decision.
+- **The Course Rules are over target.** At about 1,820 words of rules text, they exceed the 1,000 to 1,500 aim. The buyout (about 190 words), the exclusions, and Harvard's position account for most of it; none could move without splitting a decision.
 - **The name "Open Science Project Agreement" misleads once an RA is attached.** The SF says the RA governs, but a reader skimming titles may not notice.
 - **Partner is not a party to the CR.** It is bound to CR §2.1, §2.5, and §6.3 by incorporation (SF §1.4), and enforces the rest as a third-party beneficiary (CR §1.3).
 - **Confidentiality is in two places:** other projects' information in the CR, and a partner's own information in the RA.
