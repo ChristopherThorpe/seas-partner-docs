@@ -7,6 +7,23 @@ Mark each item ✅ (confirm) or ✏️ (change, with your note).
 ## Owner's responses
 
 - **A5 ✏️:** Partner's protection from Harvard's claims becomes a question for counsel. Harvard's inclusion is bracketed in CA 7.1, CA 7.5, and Exhibit A, and the note after CA 7.5 asks counsel whether Partners should be protected from Harvard's claims and, if so, how Harvard would be bound. This also settles C2.
+- **Confirmed:** every item not listed here (A1 to A4; B1 and B2; C3, C4, C8, C9, and C11 to C16).
+- **C1 ✏️:** too much text; this needs discussion with counsel. Keep CA 7.5 and PA 5.3 short: Partner's own breach is excepted, with the bracketed gross-negligence exception and a bracket for further exceptions. Move the list of candidate exceptions into a note for counsel. The candidates are claims under a Separate Agreement; infringement or misappropriation, including use of IP beyond the rights granted; and bodily injury, property damage, harassment, discrimination, or misuse of personal information. The note also covers whether releases bind students who must sign to take the Course, including students under 18. The one-clause change to CA 7.2 (a Separate Agreement also governs over the Course Agreement) stays.
+- **C5 ✏️ Notices. Owner's text:** "individuals need to provide harvard.edu email, personal email, and a personal telephone number (mobile preferred). Where notice is required, it needs to go to both emails and a text or voicemail to the telephone number including a request for acknowledgment. Notice will be deemed given, if notices are repeated around 14 days apart until a notice is acknowledged, OR the notice period expires. All parties need an obligation to notify the other parties of their updated personal email address or phone number." The owner's answers to two questions:
+    - **When notice counts:** a notice counts from the date it is first sent, if the sender repeats it about every [14] days until it is acknowledged or the notice period ends.
+    - **Who must be told of a change:** the Course Staff, and the other Signers of their own project's terms, including its Partner. If the Course provides an automated system for managing the agreements, the change must also be submitted there. Partners update their own contacts by notice to their project's Signers.
+    - **Generator:** a GitHub issue tracks keeping the parties' addresses for signed agreements.
+- **B3, C6, C7 ✏️ The buyback from Partner, replaced with a simpler right to purchase. Owner's text:**
+
+  > Buyback timing: "At any time from [2] years after the end of the Duration ... if neither the Partner nor its licensees is then using the work commercially or pursuing a patent on it, a Student Company, or a group of 1 or more students who prospectively would found a Student Company, have the right to purchase [the IP] from Partner. They must notify the Partner and all other students they intend to exercise this right, and any other students have 30 days to indicate they also wish to purchase [the IP] from Partner.
+  >
+  > In the event other students on the project also notify Partner they intend to repurchase [the IP] after receiving the notice, Partner shall solicit proposals from the teams about how they intend to use the IP and the compensation they intend to provide Partner, and, based in part on those proposals, the Partner shall select the successful team in its sole discretion. The successful team shall grant any unsuccessful team(s) the same amount of advisor equity it grants Partner.
+  >
+  > The only conditions to the proposals are that the Student Company receives ownership of [the IP], the Partner retains a PNERF license to [the IP], and, the team agrees to (a) pay Partner at least its actual costs (including for example legal services preparing patents) within a reasonable timeframe and (b) offer Partner an amount of equity not less than the amount of equity typically granted to advisors to the Student Company.
+
+  C3 (a later owner of the work is bound) is confirmed and still applies.
+- **C10 ✏️:** the C10 rule is good; this also creates an academic conflict of interest. However, a TA may be or control a Partner, provided that the TA recuses themselves from evaluating any of that project's work. An instructor may not be or control a Partner without Harvard's consent.
+- **C11 ✅.**
 
 ## A. The drafter's choices while applying your edits
 
