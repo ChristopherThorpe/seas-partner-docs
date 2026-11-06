@@ -66,7 +66,7 @@ Each decision appears once below, in plain words, with the v0.5 sections that ca
 | C5 | Standard exclusions (public, already known, from a third party, independently developed); disclosures required by law; whistleblower protection (DTSA notice). | §3.4 to §3.6 |
 | C6 | Inadvertent Disclosures: anyone who receives information not meant for them uses reasonable care to tell the sender, not copy or use it, and delete it. No liability for receipt alone. Prompt action is a safe harbor. | §3.7, §11.9 |
 | C7 | Students keep other projects' Course Private Information within the Course Community, unless that project's partner and students consent, it becomes public, or a standard exclusion applies. | §3.8, §4.7(b) |
-| C8 | No one shares or uses in the Project anyone else's confidential information, such as a former employer's. | §3.9 |
+| C8 | No one shares or uses in the Project anyone else's confidential information, such as a current or former employer's. | §3.9 ("a (former) employer") |
 | C9 | Students don't pass other projects' information to Partner without that project's partner and students consenting, and Partner doesn't ask. | §6.1 |
 | C10 | Course Staff don't share grades or other education records with Partner. | §6.2 |
 | C11 | Restricted information is used only for the Project and the Course, protected with reasonable care, kept off public forums, and used only with generative AI tools Partner approves (which may be Harvard's). | §4.5, Exhibit A.DS |
