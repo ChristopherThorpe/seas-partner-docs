@@ -166,3 +166,10 @@ Decisions marked *(owner)* were confirmed by the owner after the independent rev
 25. **The TPF repeats the FSL mechanics in short form** rather than citing the RA *(owner)*. *Reason:* TPF readers should not need the RA.
 26. **The CR change only by a new version for a later offering** (CR §7.2). *Reason:* every student and staff member is a party, so a mid-course amendment is impractical.
 27. **Copyright notice fill-ins are described in words, not brackets.** *Reason:* the brief reserves brackets for drafting choices and counsel placeholders.
+
+## Final consistency pass
+
+After all three approaches were reviewed, these changes brought B into line with the fixes the other reviews found:
+
+- **Buyout (CR §5.3(g)):** if more than one Student Company gives notice, the first notice the teammate receives governs.
+- **Individual projects:** the Course Rules (§4.1) say every individual Project needs the instructor's approval, and the Short Form has a box for Partner to certify it.

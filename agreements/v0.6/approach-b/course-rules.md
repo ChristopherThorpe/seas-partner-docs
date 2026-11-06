@@ -88,6 +88,8 @@ Anyone may disclose information as law or a court requires, after prompt notice 
 
 (f) Before the assignment takes effect, the company must agree in writing to be bound by the Project Agreement as the teammate was.
 
+(g) If more than one Student Company gives notice to the same teammate, the first notice the teammate receives governs.
+
 > **Note for counsel:** choose one price alternative before use, then split (c) and (d) into shorter sentences. Please also confirm (1) that this conditional, self-executing assignment binds a teammate who refuses to sign, including under 17 U.S.C. § 204(a) when these rules are acknowledged electronically; (2) that "the same terms as its other student founders" is definite enough; (3) securities law, where the price or joining involves equity for a non-founder; (4) the tax treatment of equity or deferred sale proceeds; (5) whether a forced transfer at this price, in rules that every student must accept, is unconscionable; (6) whether "actively developing" and "using it commercially" are definite enough; and (7) the power of attorney and the cash alternative.
 
 **5.4 Copies and credit.** Before their End Date, and before Course computing resources shut down, each student must make reasonable efforts to give each teammate copies of the Project Work Product. Anyone submitting material about Project Work Product for publication must:

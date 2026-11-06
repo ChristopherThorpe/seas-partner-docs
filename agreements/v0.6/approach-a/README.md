@@ -152,3 +152,11 @@ All 25 findings were checked against the text, and each described the draft accu
 - **Finding 11:** written as "must not assert", since the brief reserves "will" for future facts.
 - **Finding 18:** the intro now says "among", but the statement that students agree with each other stays only in PA 1.1, to avoid repeating it.
 - **Finding 23:** CA 3.2 was kept as drafted, as the coordinator decided.
+
+## Final consistency pass
+
+After all three approaches were reviewed, these changes brought A into line with the fixes the other reviews found:
+
+- **Buyout (CA 5.5(d)):** the company must first agree in writing to be bound by Section 5 and the work's Project Terms. If the teammate does not accept equity within 30 days, the company may pay its fair market value in cash.
+- **Partners and other projects' information (PA 1.2):** Partner agrees to Course Agreement Section 3.2, for information it receives through the Course, such as at poster sessions.
+- **Individual projects:** on the cover page, Partner certifies the instructor's approval of an individual project.
