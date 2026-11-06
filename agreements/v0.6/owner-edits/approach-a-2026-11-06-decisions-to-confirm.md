@@ -4,6 +4,10 @@ The owner was away and asked for each decision to be logged, decided with a best
 
 Mark each item ✅ (confirm) or ✏️ (change, with your note).
 
+## Owner's responses
+
+- **A5 ✏️:** Partner's protection from Harvard's claims becomes a question for counsel. Harvard's inclusion is bracketed in CA 7.1, CA 7.5, and Exhibit A, and the note after CA 7.5 asks counsel whether Partners should be protected from Harvard's claims and, if so, how Harvard would be bound. This also settles C2.
+
 ## A. The drafter's choices while applying your edits
 
 | # | Decision | Why |

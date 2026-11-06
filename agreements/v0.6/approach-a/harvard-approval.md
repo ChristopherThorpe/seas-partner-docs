@@ -25,7 +25,7 @@ Course 5: ______________________________
 
 ## Harvard's position
 
-In giving this approval, Harvard acknowledges the terms of the templates that concern it: Course Agreement Sections 1.1 (Course Staff sign in a personal capacity), 7.1 (Harvard is not a party), 7.2 (Harvard's rights come first), 7.3 (the conditional informal exception), and 7.4 (no liability of Harvard or the Course Staff), and Project Agreement Section 4.5(h) (Harvard's rights in work that a Partner owns). Harvard also agrees to Course Agreement Section 7.5 (Partner's protection) as it applies to claims by Harvard, and each Partner may enforce it against Harvard.
+In giving this approval, Harvard acknowledges the terms of the templates that concern it: Course Agreement Sections 1.1 (Course Staff sign in a personal capacity), 7.1 (Harvard is not a party), 7.2 (Harvard's rights come first), 7.3 (the conditional informal exception), and 7.4 (no liability of Harvard or the Course Staff), and Project Agreement Section 4.5(h) (Harvard's rights in work that a Partner owns). [Harvard also agrees to Course Agreement Section 7.5 (Partner's protection) as it applies to claims by Harvard, and each Partner may enforce it against Harvard.]
 
 ## Signature
 
