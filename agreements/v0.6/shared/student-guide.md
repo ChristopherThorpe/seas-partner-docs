@@ -16,8 +16,8 @@ Each project makes one information choice and one ownership choice. Unless Partn
 | --- | --- | --- |
 | **Information** | | |
 | Open (default) | Partner gives you no restricted information. Nothing is confidential except as the course-wide rules require. | Yes |
-| Course Private | Partner's information stays within the Course Community (defined below). If Partner gives you something confidential by mistake, you delete it and stop using it when Partner asks. | No |
-| Course Private and Confidential | Also, information that Partner marks Confidential goes only to the signers of your project's agreement. | No |
+| Open and Course Private | Partner's information stays within the Course Community (defined below), unless Partner marks it Open. If Partner gives you something confidential by mistake, you delete it and stop using it when Partner asks. | No |
+| Open, Course Private, and Confidential | Also, information that Partner marks Confidential goes only to the signers of your project's agreement. | No |
 | **Ownership** | | |
 | Students own (default) | You and your teammates own the work and license each other. Partner gets the license described below. | Yes, with Open Science licenses |
 | Students and Partner own jointly | You, your teammates, and Partner own the work together. The software must use an FSL license. | No |
@@ -36,19 +36,20 @@ Each project makes one information choice and one ownership choice. Unless Partn
 More points to know:
 
 - **Partner's license.** When students own, Partner gets a perpetual, non-exclusive, royalty-free license to use the work for any purpose. It moves only with Partner's business, and Partner can't sublicense it without the students' consent. Under a public license, Partner may also use the work like anyone else.
-- **Publication review.** Partner may request it unless information is Open, and it applies automatically when Partner owns. Send Partner a copy at least 30 days before you submit. Then wait until Partner consents or the hold period on the form ends, counted from when Partner gets the copy (if blank, until Partner consents). Partner may not unreasonably withhold consent for results with no Confidential Information.
+- **Publication review.** Unless information is Open, Partner may elect it, and it always applies when Partner owns. Send Partner a copy at least 30 days before you submit. Then wait until Partner consents or the hold period on the form ends, counted from when Partner gets the copy (if blank, until Partner consents). Partner may not unreasonably withhold consent for results with no Confidential Information.
 - **Patent hold.** If Partner owns and information is Open, there's no review. Instead, give Partner 30 days' notice before a public disclosure. Partner may delay it until up to 60 days after your notice, to file a patent.
+- **Claims against Partner.** You and Partner release each other from claims about the project, except for a breach of the project's agreement. Partner isn't otherwise liable to students, the Course Staff, or Harvard for the project.
 - **Changing a choice** needs a written amendment signed for Partner and by every student still on the project, plus the instructor's approval if the result isn't Open Science.
 - **Saying no.** You must accept a project's terms before starting work on it. You may ask to move to another project, such as an Open Science project or one without a partner. The Course Staff will try in good faith to accommodate you, and will always move you to an Open Science project if you ask, though not necessarily to a particular one. Work already done stays under the first project's terms, and its partner's information stays confidential. In a capstone, you may instead ask for an Open Science project, do a project without a partner if the instructor permits it, or, where your program allows, write a thesis instead of taking the Course.
 
-**Projects without a partner** need the instructor's permission, and make similar choices, with the students in place of a partner. Course Private and Confidential isn't available. A team may choose FSL, with a representative chosen by majority. The students certify the instructor's approval for anything other than Open Science. An individual project, with or without a partner, always needs the instructor's approval; with a partner, the partner certifies it.
+**Projects without a partner** need the instructor's permission, and make similar choices, with the students in place of a partner. Open, Course Private, and Confidential isn't available. A team may choose FSL, with a representative chosen by majority. The students certify the instructor's approval for anything other than Open Science. An individual project, with or without a partner, always needs the instructor's approval; with a partner, the partner certifies it.
 
 ### What you can do with the work afterwards
 
 - **Students own, with public licenses:** everyone may use the work under those licenses.
 - **Students own, no public license:** you may use the work for any purpose, including through your Student Company, under your teammates' licenses. Partner keeps its license. No one has exclusive rights, and the buyout can apply.
 - **Students and Partner own jointly:** you, your teammates, and Partner may each use the code for any purpose, including through a Student Company. Everyone else may use it under FSL.
-- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality.
+- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If, [2] years after the Course ends, neither Partner nor its licensees is using the work commercially or pursuing a patent on it, your Student Company may ask for it back. Unless Partner shows such use within [60] days, the work passes to the company, which pays Partner's documented out-of-pocket costs, such as patent fees. Partner keeps a non-exclusive license, and its own data and code are never included.
 - **In every case:** Partner's own data and code stay Partner's. You may use them only for the project during the Course, apart from the demo data described under "Showing your work."
 
 [Because these licenses are royalty-free, no teammate owes another a share of profits from using the work.]
@@ -213,6 +214,8 @@ Weigh these points:
 - Releasing FSL code is still a public disclosure, and the buyout doesn't apply.
 
 ## Harvard's IP policy
+
+Harvard has approved the forms of the agreements for your Course, and a copy of its approval is attached to the course-level agreement.
 
 Harvard's "Statement of Policy in Regard to Intellectual Property" applies to students. It covers anyone who uses Harvard funds, facilities, or other resources, or takes part in Harvard-administered research.
 

@@ -112,7 +112,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (d) The Partner keeps a perpetual, worldwide, non-exclusive, royalty-free license to use the work for any purpose. The Partner must sign documents reasonably needed to record the assignment, at the Student Company's expense.
 
-> **Note for counsel:** Each Partner agrees to this Section 5.7 in its Project Agreement (Sections 1.2 and 4.5), which carries its present words of assignment. Please confirm that the buyback is enforceable against a Partner, how it should treat patent applications still in prosecution (including who continues prosecution), and how the assignment is recorded with the Copyright Office and the U.S. Patent and Trademark Office if the Partner does not sign.
+> **Note for counsel:** Each Partner agrees to this Section 5.7 in Project Agreement Sections 1.2 and 4.5, which carry its present words of assignment. Please confirm that the buyback is enforceable against a Partner, how it should treat patent applications still in prosecution (including who continues prosecution), and how the assignment is recorded with the Copyright Office and the U.S. Patent and Trademark Office if the Partner does not sign.
 
 ## 6. Projects without a Partner
 
@@ -146,7 +146,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 > **Note for counsel (review notes R-5 and R-6):** The bracketed sentence is a placeholder. Please decide whether to keep it for Harvard, for the Course Staff, or for both.
 
-**7.5 Partner's protection.** To the fullest extent the law allows, no Partner is liable to Harvard, the Course Staff, or any student for any claim arising out of or relating to the Course or its project, except for its own breach of its Project Agreement (subject to any limit on liability in that agreement)[, and its gross negligence, willful misconduct, or worse]. No Signer may assert such a claim against a Partner. Each Partner and its project's students also release each other in its Project Agreement (Section 5.3).
+**7.5 Partner's protection.** To the fullest extent the law allows, no Partner is liable to Harvard, the Course Staff, or any student for any claim arising out of or relating to the Course or its project, except for its own breach of its Project Agreement (subject to any limit on liability in that agreement)[, and its gross negligence, willful misconduct, or worse]. No Signer may assert such a claim against a Partner. Each Partner and its project's students also release each other in Project Agreement Section 5.3.
 
 > **Note for counsel:** Section 7.5 gives Partners protection matching Section 7.4. Harvard is bound by it only through its approval (Exhibit A). Please keep the bracket consistent with Project Agreement Sections 5.3 and 5.4.
 
