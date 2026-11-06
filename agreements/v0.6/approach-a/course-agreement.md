@@ -22,27 +22,27 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 > **Note for counsel:** Signers sign at different times. Please confirm that each later signer is bound to, and may enforce the promises of, every earlier signer. Please also advise whether Section 8.4 should allow a corrected version of this agreement for later signers without every earlier signer's signature.
 
-**1.2 Projects.** A project may have a sponsoring company (its "**partner**"), which signs an agreement with the project's students in the form Harvard has approved (a "**Project Agreement**"). Students on a project without a partner sign the Project Election at the end of this agreement (a "**Project Election**"). A project's Project Agreement or Project Election is its "**Project Terms**". Students on the same project are "**teammates**". "**Project Work Product**" is the results, reports, presentations, posters, videos, software, data, designs, and other work that a project's students create for it. It excludes materials that others own, such as open-source software, a partner's materials, or an employer's code, which keep their own owners and licenses.
+**1.2 Projects.** A project may have a sponsoring company (its "**partner**"), which signs an agreement with the project's students in the form Harvard has approved (a "**Project Agreement**"). Students on a project without a partner sign the Project Election at the end of this agreement (a "**Project Election**"). A project's Project Agreement or Project Election is its "**Project Terms**". Students on the same project are "**teammates**". "**Project Work Product**" is the results, reports, presentations, posters, videos, software, data, designs, and other work that a project's students create for it. It excludes materials that others own, such as open-source software, a partner's materials, or a current or former employer's code, which keep their own owners and licenses.
 
 **1.3 Course Community.** "**Course Private Information**" is information that a project's Project Terms make Course Private Information. It may be shared only within the "**Course Community**": (a) students enrolled in the Course during the Duration; (b) the Course Staff; (c) Harvard faculty and staff who support the Course; and (d) [members of the SEAS community, meaning the students, faculty, and staff of SEAS, and] invited guests, while attending a "**Private Course Event**", meaning a class, presentation, poster session, video showcase, project review, or similar Course event that is not open to the public. A partner may also mark information as "**Confidential Information**" under its Project Agreement, and only that agreement's signers may receive it.
 
 > **Note for counsel (review note R-8):** Please advise who counts as the SEAS community (for example, cross-registered students, postdocs, and alumni), how that is determined, and whether attendees at Private Course Events must be told that Course Private Information is shown.
 
-**1.4 Student Guide.** Before choosing a project, each student must confirm, on the signature roster or by email to the Course Staff, that they have read the *Student Guide to Course Project Agreements*. The guide explains these agreements but is not part of them, and the agreements govern if they differ.
+**1.4 Student Guide.** Before choosing a project, each student must confirm on the signature roster that they have read the *Student Guide to Course Project Agreements*. The guide explains these agreements but is not part of them, and the agreements govern if they differ.
 
-**1.5 Project Terms and this agreement.** Project Terms set their project's choices and govern that project where they differ from this agreement. They may not reduce the protection this agreement gives other projects, their partners, or their students.
+**1.5 Project Terms and this agreement.** Project Terms add to this agreement: they record a project's choices and, for a project with a partner, the partner's rights and duties. They do not change this agreement, which says where a project's choices matter. If Project Terms conflict with this agreement, this agreement governs.
 
 ## 2. Open Science and choosing a project
 
 **2.1 Open Science.** The Course's baseline is Open Science. A project is "**Open Science**" if (a) no information about it is restricted (the "Open" information choice); (b) its students own their work; (c) its software is licensed under the MIT License, the Apache License 2.0, or both; and (d) its other Project Work Product is licensed under Creative Commons Attribution 4.0 International ("**CC BY 4.0**") or Creative Commons Attribution-ShareAlike 4.0 International ("**CC BY-SA 4.0**"). Other choices include the Functional Source License, Version 1.1 ("**FSL**"), as FSL-1.1-MIT or FSL-1.1-ALv2, with the MIT License or the Apache License 2.0, respectively, as its future license. Any other choice, and any individual project, needs the Course instructor's approval in writing (email is enough), at signing and for any later change. The instructor does not sign.
 
-**2.2 Choosing a project.** A student may ask to be assigned to an Open Science project or to do a project without a partner. A student must sign a project's Project Terms before receiving its information or starting material work on it.
+**2.2 Choosing a project.** At a student's request, the Course Staff must assign the student to an Open Science project. A student may do a project without a partner if the Course instructor permits it. A student must sign a project's Project Terms before receiving its information or starting material work on it.
 
-**2.3 Reassignment.** A student may ask to move to another project, including an Open Science project or a project without a partner, for any reason, such as not accepting their project's Project Terms. The Course Staff must honor the request. Work the student already contributed to the project they leave stays under its Project Terms as they stood when the student left, as if the student had signed them. The student hereby assigns or licenses that work accordingly. The student must keep that project's Course Private Information and Confidential Information as its signers must.
+**2.3 Reassignment.** A student may ask to move to another project with different Project Terms, including an Open Science project or a project without a partner, for any reason, such as not accepting their project's Project Terms. The Course Staff must make a good-faith effort to accommodate the request, and must honor a request to move to an Open Science project. The Course Staff need not assign any student to any specific project. Work the student already contributed to the project they leave stays under its Project Terms as they stood when the student left, as if the student had signed them. The student hereby assigns or licenses that work accordingly. The student must keep that project's Course Private Information and Confidential Information as its signers must.
 
 > **Note for counsel:** The assignment in Section 2.3 may run to a partner that is not a party to this agreement, under Project Terms the student did not sign. Please confirm that it satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261.
 
-**2.4 Capstones.** If the Course is a capstone for a degree program, a student may decline every partner project's Project Terms and do a project without a partner or, where the program allows, write a thesis instead of taking the Course.
+**2.4 Capstones.** If the Course is a capstone for a degree program, a student who does not accept a partner project's Project Terms may instead ask for an Open Science project (Section 2.2), do a project without a partner if the Course instructor permits it, or, where the program allows, write a thesis instead of taking the Course.
 
 ## 3. Rules for everyone in the Course
 
@@ -104,7 +104,7 @@ These rules bind every signer and protect every project, with or without a partn
 
 ## 6. Projects without a partner
 
-**6.1 Project Election.** All students on a project without a partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has approved, in writing or by email, any individual project and every choice that is not Open Science. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), or a team-only choice on an individual project gives way to the default.
+**6.1 Project Election.** All students on a project without a partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project, and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), or a team-only choice on an individual project gives way to the default.
 
 **6.2 Information.** Under "Open" (the default), nothing about the project is restricted. Under "Course Private", what the students share about the project with classmates and the Course Staff is Course Private Information. That choice binds other signers, not the project's own students. Under "Course Private", the public licenses in Sections 6.3 and 6.4 apply to a copy only once one of the project's students releases it outside the Course Community.
 
@@ -165,7 +165,7 @@ Signature: ______________________________ Date: ______________
 
 ## Project Election (No Partner)
 
-For a project in the Course without a partner. Every student on the project signs. Course Agreement Section 6 says what each choice means. An individual project, and any choice not marked "Open Science", needs the Course instructor's approval. A blank choice, or more than one checked (other than MIT and Apache 2.0 together), gives the default.
+For a project in the Course without a partner. Every student on the project signs. Course Agreement Section 6 says what each choice means. The project needs the Course instructor's permission, and any choice not marked "Open Science" needs the instructor's approval. A blank choice, or more than one checked (other than MIT and Apache 2.0 together), gives the default.
 
 Project title: ______________________________ \
 Course number and title: ______________________________ \
@@ -193,7 +193,7 @@ Project type (check one): ☐ Individual project ☐ Team project
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________
 
-**Instructor's approval.** By signing, the students certify that the Course instructor has approved, in writing or by email, this project if it is an individual project, and every choice above not marked "Open Science". \
+**Instructor's approval.** By signing, the students certify that the Course instructor has permitted this project, and has approved every choice above not marked "Open Science", in writing or by email. \
 Instructor's name: ______________________________ \
 Date of approval: ______________
 
