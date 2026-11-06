@@ -35,7 +35,7 @@ President and Fellows of Harvard College ("**Harvard**") is not a party.
 
 ## 2. Choosing, joining, and leaving a Project
 
-**2.1 Open Science is the default.** An "**Open Science**" project is one whose Schedule has, by choice or by default: Open information; Students own; the MIT License, the Apache License 2.0, or both, for software; and CC BY 4.0 or CC BY-SA 4.0 for everything else.
+**2.1 Open Science is the default.** An "**Open Science**" project is one whose Schedule has, by choice or by default: Open information; Students own; the MIT License, the Apache License 2.0, or both, for software; and CC BY 4.0 or CC BY-SA 4.0 for everything else. If a choice on a Schedule is blank, has more than one box checked (other than MIT and Apache 2.0, which together mean both), or is not available to the Project, its default applies.
 
 **2.2 Instructor approval.** Any other choice needs a Course instructor's approval in writing (email is enough), at signing and for any later change. Partner certifies that approval on the Schedule; without a Partner, the Project Students do. An individual project (one Project Student) without a Partner always needs it. The instructor does not sign.
 
@@ -49,18 +49,18 @@ President and Fellows of Harvard College ("**Harvard**") is not a party.
 
 ## 3. Rules for everyone in the Course
 
-**3.1 Scope.** This Section 3 binds every student and member of the Course Staff, whether or not they sign a Schedule, and protects every Project. Sections 3.3 and 3.4 also bind Partners. Partners may enforce this Section 3 for their own information, and Project Students for their Project's Course Private Information.
+**3.1 Scope.** This Section 3 binds every student and member of the Course Staff, whether or not they sign a Schedule, and protects every Project. Sections 3.3 and 3.4 also bind Partners. Each Partner, and each Project's Project Students, may enforce this Section 3 for their own Project's information.
 
 **3.2 Definitions.**
 
-- The "**Course Community**" is (a) students enrolled in the Course during the Duration; (b) the Course Staff; (c) Harvard faculty and staff who support the Course; and (d) [the students, faculty, and staff of SEAS] and invited guests attending a Private Course Event, while attending it.
 - A "**Private Course Event**" is a class session, presentation, poster session, video showcase, project review, or similar Course event that is not open to the public and is limited to [the students, faculty, and staff of SEAS] and invited guests.
+- The "**Course Community**" is (a) students enrolled in the Course during the Duration; (b) the Course Staff; (c) Harvard faculty and staff who support the Course; and (d) [the students, faculty, and staff of SEAS] and invited guests attending a Private Course Event, while attending it.
 - "**Partner Information**" is all information, in any form, that a Partner, or anyone acting for it, gives or makes available for its Project.
 - "**Course Private Information**" may be shared only within the Course Community. It is Partner Information when its Project's Schedule so provides, and a Project's own information when a Project without a Partner so chooses.
 - "**Confidential Information**" is Partner Information that its Partner marks under Section 4.4. It may be shared only with its Partner and its Project's Project Signers.
 - Course Private Information and Confidential Information are together "**Restricted Information**".
 
-> **Note for counsel (review note R-8):** Please settle who counts as the SEAS community (for example, cross-registered and Extension School students, postdocs, visiting scholars, other Harvard schools, and alumni) and how membership is shown. Please also consider whether the Course Staff should tell attendees at each Private Course Event not to photograph, record, or share Course Private Information.
+> **Note for counsel (review note R-8):** Please settle who counts as the SEAS community (for example, cross-registered and Extension School students, postdocs, visiting scholars, other Harvard schools, and alumni) and how membership is shown. Please also consider whether the Course Staff should tell attendees at each Private Course Event not to photograph, record, or share Course Private Information. As in v0.5, invited guests, including Partners' representatives, owe no duty to keep other Projects' Course Private Information private.
 
 **3.3 Inadvertent Disclosures.** An "**Inadvertent Disclosure**" occurs when anyone's confidential information reaches someone in the Course who is not authorized to receive it, for example through a mistaken file or a sharing error. Any student, member of the Course Staff, or Partner who receives one must use reasonable care to (a) tell the sender, or the Course Staff if the sender is unknown; (b) not copy, forward, or otherwise use it; and (c) delete every copy, including notes and photos. Receipt alone creates no liability, but intentional use or disclosure afterwards does. Taking steps (a) to (c) promptly is reasonable care. Course Private Information shared within the Course Community is not an Inadvertent Disclosure.
 
@@ -70,7 +70,7 @@ President and Fellows of Harvard College ("**Harvard**") is not a party.
 
 **3.6 Generative AI.** Students must use their Harvard accounts and Harvard-provided generative AI tools for Course work, unless the Course Staff allow otherwise or a Partner asks its Project to use the Partner's tools at its expense. A Partner's Restricted Information may be used only with generative AI tools that the Partner approves in writing (email is enough), which may include Harvard's.
 
-**3.7 Exclusions and permitted disclosures.** No duty to protect information applies to information that the recipient can show is or becomes public through no breach, was known to them without restriction before receipt, came from a third party with no duty of confidentiality, or was independently developed. Anyone may disclose information as a law, regulation, subpoena, or court order requires, after giving its owner prompt notice where permitted, and reasonable help at the owner's expense to seek a protective order. Nothing prevents reporting a possible violation of law to a government agency, or any other legally protected disclosure. Under 18 U.S.C. § 1833(b), no individual is liable under trade secret law for disclosing a trade secret in confidence to a government official or an attorney solely to report or investigate a suspected violation of law, or in a court filing made under seal.
+**3.7 Exclusions and permitted disclosures.** No duty to protect information applies to information that the recipient can show is or becomes public through no breach, was known to them without restriction before receipt, came from a third party with no duty of confidentiality, or was independently developed. Anyone may disclose information as a law, regulation, subpoena, or court order requires, after giving its owner prompt notice where permitted, and reasonable help at the owner's expense to seek a protective order. Nothing prevents reporting a possible violation of law to a government agency, or any other legally protected disclosure. Under 18 U.S.C. § 1833(b), an individual will not be held criminally or civilly liable under any federal or state trade secret law for disclosing a trade secret in confidence to a government official or an attorney solely to report or investigate a suspected violation of law, or in a court filing made under seal.
 
 **3.8 Reassignment.** A student may ask to move to another Project, including an Open Science project or a Project without a Partner, and the Course Staff must honor the request. Work the student did on the first Project stays under its terms, as if the student had signed its Schedule. The student must keep the first Partner's information confidential as Course Private Information, or more strictly if that Project's terms require. That Project's Partner and Project Signers may enforce this Section 3.8.
 
@@ -94,7 +94,7 @@ President and Fellows of Harvard College ("**Harvard**") is not a party.
 
 ## 5. Intellectual property
 
-**5.1 The choices.** Each Schedule chooses who owns the Project Work Product: Students own (the default); Students and Partner own jointly, with an FSL license for software; or Partner owns. A team without a Partner may instead choose joint ownership among its Project Students, with an FSL license. Where students own, the Schedule also chooses public licenses. If a choice is blank, has more than one box checked (other than MIT and Apache 2.0, which together mean both), or is not available to the Project, the default applies. All rights under this Section 5 are subject to Harvard's rights (Section 9).
+**5.1 The choices.** Each Schedule chooses who owns the Project Work Product: Students own (the default); Students and Partner own jointly; or Partner owns. A team without a Partner may instead choose joint ownership among its Project Students. Joint ownership requires the Functional Source License, Version 1.1, for software, with the MIT License (FSL-1.1-MIT, the default) or the Apache License 2.0 (FSL-1.1-ALv2) as its future license (the "**FSL license**"). Where students own, the Schedule also chooses public licenses. All rights under this Section 5 are subject to Harvard's rights (Section 9).
 
 **5.2 Partner Background IP.** "**Partner Background IP**" means the data, software, models, and other materials that Partner gives for its Project, and all intellectual property rights in them and in other Partner Information. Partner keeps all rights in it. Project Work Product excludes Partner Background IP, but includes improvements to it and works derived from it, such as a model fine-tuned on Partner data. Partner grants each Project Signer a non-exclusive, non-transferable, royalty-free license to use Partner Background IP during the Duration, only for the Project and while taking part in it. No other right in it is granted, except under Sections 6.7 and 6.8.
 
@@ -118,7 +118,7 @@ President and Fellows of Harvard College ("**Harvard**") is not a party.
 
 ### 5.8 Students and Partner own jointly (FSL)
 
-This choice covers the software in the Project Work Product (the "**Project Software**"), licensed under the Functional Source License, Version 1.1, with the MIT License (FSL-1.1-MIT, the default) or the Apache License 2.0 (FSL-1.1-ALv2) as its future license (the "**FSL license**"). Everything else is treated as under Section 5.7.
+This choice covers the software in the Project Work Product (the "**Project Software**"), which is licensed under the FSL license chosen on the Schedule. Everything else is treated as under Section 5.7.
 
 (a) Each Project Student assigns to Partner, and to each teammate, an undivided interest in their rights in the Project Software. Partner and the Project Students then own it jointly and are together its licensor under the FSL license.
 
@@ -218,7 +218,7 @@ This choice requires a Partner.
 
 **10.3 Partner's release.** Each Partner releases its Project Students from, and must not assert against them, any claim, loss, liability, damage, or expense relating to the Project, their participation in it, or any use of Project Work Product, except to the extent caused by that student's breach. This release covers only Partner's own claims. Partner need not defend or indemnify any student, or pay their legal costs.
 
-**10.4 Limit on liability between Partners and students.** [Placeholder for counsel.] To the fullest extent permitted by law, no Partner and no student is liable to the other, or to any other Partner, for any claim, loss, or damage relating to this Master Agreement, a Project, or the Course, whether direct, indirect, consequential, or otherwise, except for liability resulting from that party's [gross negligence, willful misconduct, or worse] [, or breach of Section 3 or 4]. This Section 10.4 does not limit injunctions or the release in Section 10.3.
+**10.4 Limit on liability between Partners and students.** [Placeholder for counsel.] To the fullest extent permitted by law, no Partner is liable to any student or other Partner, and no student is liable to any Partner, for any claim, loss, or damage relating to this Master Agreement, a Project, or the Course, whether direct, indirect, consequential, or otherwise, except for liability resulting from that party's [gross negligence, willful misconduct, or worse] [, or breach of Section 3 or 4]. This Section 10.4 does not limit injunctions or the release in Section 10.3.
 
 > **Note for counsel (v0.5 §7.5):** Please decide whether ordinary breaches of confidentiality are excepted, as the second bracket would do; without that exception, they could be enforced only by injunction. The limit also runs between Partners, to support Section 1.4.
 
@@ -238,7 +238,7 @@ This choice requires a Partner.
 
 **12.1 Survival.** Sections 2.5 and 3 to 12 survive each party's End Date and the end of the Duration. Sections 6.2 to 6.5 have no time limit.
 
-**12.2 Partner's officer, Partner Contacts, and notices.** Partner's authorized officer signs its Partner Joinder, its Schedule, any changed Schedule, and any waiver. The Partner Contacts may give Partner's consents, approvals, and notices; give and identify Partner Information; identify material for the Enabling License; request edits; and receive copies. They may not change a Schedule. Partner may change its Partner Contacts by notice to its Project Signers. Notices, copies, consents, and requests must be in writing, and email is enough. Those for Partner go to its Partner Contacts; others go to the email addresses on the signed documents, or to another address given by notice.
+**12.2 Partner's officer, Partner Contacts, and notices.** Partner's authorized officer signs its Partner Joinder, its Schedule, any changed Schedule, and any waiver. The Partner Contacts may give Partner's consents, approvals, and notices; give and identify Partner Information; identify material for the Enabling License; request edits; and receive copies and requests for consent. They may not change a Schedule. Partner may change its Partner Contacts by notice to its Project Signers. Notices, copies, consents, and requests must be in writing, and email is enough. Those for Partner go to its Partner Contacts; others go to the email addresses on the signed documents, or to another address given by notice.
 
 **12.3 Assignment.** Students and Course Staff may not assign this Master Agreement, except to a Student Company under Section 5.8(e) or 7.4. A Partner may assign its rights and duties for its Project, on written notice to its Project Signers, to a successor to all or substantially all of the business to which the Project relates. This Master Agreement binds and benefits permitted successors and assigns.
 
