@@ -4,7 +4,7 @@ Draft v0.6.
 
 This guide explains the choices a course project makes about information and intellectual property ("IP"). It also explains what each choice means when you show your work, seek a patent, or start a company. You must confirm that you have read it before you choose a project.
 
-This guide explains the agreements, but it doesn't bind anyone, and it isn't legal advice. The binding terms are in the course-level document that everyone in the Course signs, and in your project's agreement. (A project without a partner records its choices in a short written election.) If this guide and an agreement differ, the agreement controls. For advice, ask the instructor, Harvard's Office of Technology Development (OTD), or your own lawyer.
+This guide explains the agreements, but it doesn't bind anyone, and it isn't legal advice. The binding terms are in the course-level document that everyone in the Course signs, and in your project's agreement. (A project without a partner records its choices on a short form.) If this guide and an agreement differ, the agreement controls. For questions about the Course, ask the instructor. For questions about Harvard's rights, ask Harvard's Office of Technology Development (OTD), which acts for Harvard. For advice about your own situation, ask your own lawyer.
 
 ## Your choices at a glance
 
