@@ -65,3 +65,43 @@ Mark each item ✅ (confirm) or ✏️ (change, with your note).
 | C16 | 26 | **CA 3.4:** "approved tools" becomes "tools Harvard has approved". | Says who approves. |
 
 All the review's MECHANICAL findings are applied as proposed. The top-level comparison (`agreements/v0.6/README.md`) is updated where it no longer describes approach A.
+
+## Round 2: the focused review (`reviews/approach-a-review-3.md`)
+
+### Owner's answers
+
+- **R1. Completing a purchase from a Partner (CA 5.7).**
+    - **The minimal duty:** the Partner states its documented costs within 30 days after the notice. Once the team's Student Company has signed its agreement to the conditions, the Partner signs the assignment, keeping its license, within 30 days.
+    - **Plus (a):** the Partner and the new team must enter into a binding agreement governing their rights and obligations.
+    - **Plus (b):** the Partner, or another Student Company of the project's students, has a right to purchase from the team if the team doesn't complete the purchase, or stops using the work for [2] years.
+    - **Plus (c):** these terms can be enforced against the Partner or the team, as the case may be.
+    - **Goal:** "Just enough to keep an intransigent party from holding the IP hostage."
+- **R2. Competing teams (CA 5.7).**
+    - Responding students also notify all other students on the project.
+    - The Partner picks a team within [30] days after the 30-day window closes.
+    - Losing teams get at least the advisor equity the winner offers the Partner, whether or not the Partner accepts it.
+    - Add a note for counsel: how much of this helps, and how much gets in the way, beyond requiring the parties to enter into a good-faith agreement.
+- **R3. The purchase's money terms.**
+    - **Costs:** the Partner's documented out-of-pocket costs for the work, such as patent filing and outside legal fees.
+    - **Partner's license:** perpetual, non-exclusive, royalty-free, to use and exploit the work for any purpose, transferable only with its business.
+- **R4. Notices that start no period.**
+    - **When they count:** once acknowledged, or once sent three times, about [7] days apart, to every channel.
+    - **Exceptions:**
+        - during the Course (before the recipient's End Date);
+        - the Partner's urgent notices: identifying confidential material given by mistake, and delaying a publication to file a patent.
+    - **For the exceptions:** a notice counts once sent to both emails and a text or voicemail is delivered.
+    - **In all cases:** an unacknowledged notice does not count until a text or voicemail has been delivered to the telephone number given.
+    - **Partner Contact changes** follow the three-tries rule.
+    - **Notices that start a period** keep the [14]-day repeat.
+
+### Decisions on the review's other findings (best guess; please confirm)
+
+| # | Decision | Why |
+| --- | --- | --- |
+| R5 | **CA 5.7 scope and trigger.** It covers only work the Partner owns outright under the "Partner owns" choice, not a Partner's FSL interest. A buying "Student Company" must be one of the project's students. Non-use is tested on the date of the notice; starting to use the work during the 30 days doesn't cure it. A provisional patent application alone counts as "pursuing a patent" for no more than 12 months after it is filed. | Without the last rule, a Partner could file a provisional every year and block the right forever. |
+| R6 | **Transfers by the Partner.** The Partner must notify the project's students of any transfer of the work. The students and their Student Company may enforce the transferee's agreement to be bound. A purchase is subject to non-exclusive licenses the Partner granted earlier. Exclusive licensees must already agree to be bound (C3). | Keeps the right to purchase from being defeated quietly. |
+| R7 | **Notice recipients.** CA 8.5's three-channel rules cover notices to individual students and Course Staff. A Partner, including an individual Partner, receives notices through its Partner Contacts (PA 6.2). A Student Company receives notices at the address in its written agreement or promise, with a copy to its founders. | Every notice has a workable recipient, and the two agreements no longer conflict. |
+| R8 | **A TA as a Partner (C10).** Material a TA provides as the Partner is the Partner's, not a contribution by the Course Staff (CA 4.1 doesn't apply to it). A TA who is the Partner signs the Project Agreement as the Partner and has a Partner's duties. A TA who only controls a Partner company doesn't take on the company's duties personally. In both cases the TA must recuse themselves from evaluating that project's work, and must not access its students' grades or evaluations. | Fixes the conflicts the review found, while keeping your rule. |
+| R9 | **Keeping contact details.** Updates go to the Course Staff (or, after the Course, to the system the Course provides for managing the agreements, as issue #49 plans), and to the project's other Signers. | The Course Staff may not be reachable years later. |
+| R10 | **"Current" students after the Course** (FSL Representative). After the Duration, "the project's current students" means all of the project's students. | Otherwise no one qualifies after the Course, and the Representative could never be replaced. |
+| R11 | **README and Student Guide.** Correct scenario 7 (other students compete; they don't "join in") and scenario 8 (include "or the notice period ends"). In the guide, add the losing teams' equity, who may be a Partner (C10), and the full rule for updating contact details. | They must not misdescribe the agreements. |
