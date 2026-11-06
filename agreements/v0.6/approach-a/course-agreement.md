@@ -22,11 +22,13 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 > **Note for counsel:** Signers sign at different times. Please confirm that each later Signer is bound to, and may enforce the promises of, every earlier Signer. Please also advise whether Section 8.4 should allow a corrected version of this agreement for later Signers without every earlier Signer's signature.
 
-**1.2 Projects.** A project may have a sponsor (its "**Partner**"), which may be a company, another organization (such as a nonprofit or a government agency), or an individual. The Partner signs an agreement with the project's students in the form Harvard has approved (a "**Project Agreement**"). Students on a project without a Partner sign the Project Election at the end of this agreement (a "**Project Election**"). A project's Project Agreement or Project Election is its "**Project Terms**". Each student on a project is a "**Teammate**" of every other student on it. "**Project Work Product**" is the results, reports, presentations, posters, videos, software, data, designs, and other work that a project's students create for it. It excludes materials that others own, such as open-source software, a Partner's materials, or a current or former employer's code, which keep their own owners and licenses.
+**1.2 Projects.** A project may have a sponsor (its "**Partner**"), which may be a company, another organization (such as a nonprofit or a government agency), or an individual. No member of the Course Staff, and no student in the Course, may be or control the Partner of a project in the Course[, without Harvard's written approval]. The Partner signs an agreement with the project's students in the form Harvard has approved (a "**Project Agreement**"). Students on a project without a Partner sign the Project Election that follows this agreement's signature roster (a "**Project Election**"). A project's Project Agreement or Project Election is its "**Project Terms**". Each student on a project is a "**Teammate**" of every other student on it. "**Project Work Product**" is the results, reports, presentations, posters, videos, software, data, designs, and other work that a project's students create for it. It excludes materials that others own, such as open-source software, a Partner's materials, or a current or former employer's code, which keep their own owners and licenses.
+
+> **Note for counsel:** Please advise whether a government Partner needs a different form, for example on governing law, releases, public-records laws, and rights in government-funded work.
 
 **1.3 Course Community.** "**Course Private Information**" is information that a project's Project Terms make Course Private Information. It may be shared only within the "**Course Community**": (a) students enrolled in the Course during the Duration; (b) the Course Staff; (c) Harvard faculty and staff who support the Course; and (d) [members of the SEAS community, meaning the students, faculty, and staff of SEAS, and] invited guests, while attending a "**Private Course Event**", meaning a class, presentation, poster session, video showcase, project review, or similar Course event that is not open to the public. A Partner may also mark information as "**Confidential Information**" under its Project Agreement, and only that agreement's signers may receive it.
 
-> **Note for counsel (review note R-8):** Please advise who counts as the SEAS community (for example, cross-registered students, postdocs, and alumni), how that is determined, and whether attendees at Private Course Events must be told that Course Private Information is shown.
+> **Note for counsel:** (Review note R-8.) Please advise who counts as the SEAS community (for example, cross-registered students, postdocs, and alumni), how that is determined, and whether attendees at Private Course Events must be told that Course Private Information is shown.
 
 **1.4 Student Guide.** Before choosing a project, each student must confirm on the signature roster that they have read the *Student Guide to Course Project Agreements*. The guide explains these agreements but is not part of them, and the agreements govern if they differ.
 
@@ -42,7 +44,7 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 > **Note for counsel:** The assignment in Section 2.3 may run to a Partner that is not a party to this agreement, under Project Terms the student did not sign. Please confirm that it satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261.
 
-**2.4 Capstones.** If the Course is a capstone for a degree program, a student may (a) write a thesis instead of taking the Course, if permitted by the degree program[, or (b) notwithstanding Section 2.2, decline every Partner project's Project Terms and do a project without a Partner].
+**2.4 Capstones.** If the Course is a capstone for a degree program, a student may (a) write a thesis instead of taking the Course, if permitted by the degree program[, or (b) decline every Partner project's Project Terms and do a project without a Partner, without the Course instructor's permission under Section 2.2 or approval of an individual project under Section 2.1].
 
 ## 3. Rules for everyone in the Course
 
@@ -54,7 +56,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 **3.3 Others' confidential information.** A Signer must not share with any Partner or anyone else in the Course, or use in a project, confidential information that they are not authorized to share or use, such as a current or former employer's.
 
-**3.4 Generative AI.** Signers who use generative AI tools for Course work must use approved tools, through their Harvard accounts and Harvard's tools. The Course Staff may allow other tools, and a Partner may ask its project's students to use the Partner's own tools at the Partner's expense. A Partner's Course Private Information and Confidential Information may go only into tools that the Partner has approved in writing or by email.
+**3.4 Generative AI.** Signers who use generative AI tools for Course work must use tools Harvard has approved, through their Harvard accounts and Harvard's tools. The Course Staff may allow other tools, and a Partner may ask its project's students to use the Partner's own tools at the Partner's expense. A Partner's Course Private Information and Confidential Information may go only into tools that the Partner has approved in writing or by email.
 
 ## 4. Course Staff
 
@@ -62,7 +64,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 > **Note for counsel:** Harvard may own what its employees create. Please confirm whether this promise not to assert rights works without Harvard's consent.
 
-**4.2 Education records.** The Course Staff must not share students' grades or other education records, as defined in the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g), with any Partner or any other unauthorized recipient.
+**4.2 Education records.** The Course Staff must not share students' grades or other education records, as defined in the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g), with any Partner or any other unauthorized recipient, unless the student asks for it in writing.
 
 **4.3 Confidential Information.** A member of the Course Staff may receive a project's Confidential Information only by signing its Project Agreement, and has no duties of a signer under a Project Agreement they have not signed.
 
@@ -84,13 +86,13 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (c) If the Teammate and the company mutually consent, the Teammate may join the company on the same terms as its other student founders, by written notice within [60] days after receiving the notice.
 
-(d) If the Teammate does not join, the Teammate must assign all of their rights in the work to the company for the price in paragraph (e). The Teammate hereby makes that assignment, effective when the company pays or tenders the price or, for a price payable later, gives the Teammate its signed written promise to pay it. Before the assignment takes effect, the company must promise in writing to keep the commitments about the work that the Teammate had under this Section 5 and the project's Project Terms, such as the Partner's license and confidentiality. If the price includes equity and the Teammate does not accept it within 30 days after a written offer, the company may instead pay its fair market value in cash. The Teammate must sign documents reasonably needed to record the assignment, at the company's expense. If the Teammate does not sign them within [15] business days after the company's written request, the Teammate hereby appoints the company as their attorney-in-fact, coupled with an interest, to sign them in the Teammate's name.
+(d) If the Teammate does not join, the Teammate must assign all of their rights in the work to the company for the price in paragraph (e). The Teammate hereby makes that assignment, effective when the company pays or tenders the price or, for a price payable later, gives the Teammate its signed written promise to pay it. The assignment does not take effect until the company has also promised in writing to keep the commitments about the work that the Teammate had under this Section 5 and the project's Project Terms, such as the Partner's license and confidentiality. If the price includes equity and the Teammate does not accept it within 30 days after a written offer, the company may instead pay its fair market value in cash. The Teammate must sign documents reasonably needed to record the assignment, at the company's expense. If the Teammate does not sign them within [15] business days after the company's written request, the Teammate hereby appoints the company as their attorney-in-fact, coupled with an interest, to sign them in the Teammate's name.
 
 (e) The price is [Alternative 1: the greater of (1) what each founding student received for assigning their own rights in the work to the company and (2) [0.01]% of the company's fully diluted equity] [Alternative 2: [number]% of the proceeds of any sale of the company or of substantially all its assets, up to $[amount], paid at the sale].
 
 (f) [The assignment ends the Teammate's license under Section 5.3 to the work, except for portfolio, academic, and other noncommercial use.]
 
-(g) If more than one Student Company gives notice to the same Teammate, the Teammate may choose their preferred terms.
+(g) If more than one Student Company gives notice to the same Teammate, the Teammate may choose their preferred terms by written notice to those companies within [60] days after receiving the last notice. The other notices then have no effect. If the Teammate does not choose in time, only the first notice the Teammate received has effect.
 
 > **Note for counsel:** Choose one price alternative, and whether to keep paragraph (f), before use. Without paragraph (f), the company cannot get exclusive rights. Please confirm that the buyout is enforceable against a Teammate who will not sign anything, including whether the present assignment satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261 when the transferee does not yet exist, and whether the power of attorney is enforceable. Please also advise whether the buyout is enforceable against a student who had to sign this agreement to take the Course, and on the securities and tax treatment of equity or sale proceeds for a Teammate who does not join.
 
@@ -100,55 +102,59 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (b) Before submitting material about Project Work Product for publication, a student must offer each Teammate co-authorship, unless the material covers substantial work done after the Duration. The student must credit any Teammate who is not a co-author in the acknowledgments, unless they ask not to be named. Co-authors must get reasonable time to review the draft and request changes, and other Teammates reasonable time to review it and comment. A Teammate may be asked to sign a reasonable nondisclosure agreement before receiving a confidential draft.
 
-(c) Paragraph (b) does not apply to coursework, class presentations, posters, videos, or other private academic uses. During the Duration, all of a project's students together and, for a project with a Partner, at least one Partner Contact named in its Project Agreement may change the project's credit process, including under its Project Agreement, in writing, including by email.
+(c) Paragraph (b) does not apply to coursework, class presentations, posters, videos, or other private academic uses. During the Duration, all of a project's students together and, for a project with a Partner, at least one of its Partner Contacts may change the project's credit process, including under its Project Agreement. They may do so in writing, including by email.
 
 **5.7 Buyback from a Partner.**
 
-(a) This Section 5.7 applies to Project Work Product that a Partner owns under its Project Agreement. It never covers the Partner's own data, software, models, or other materials, or any other Partner Background IP as defined in the Project Agreement.
+(a) This Section 5.7 applies to Project Work Product that a Partner owns under its Project Agreement. It never covers the Partner's own data, software, models, or other materials, or any other Partner Background IP as defined in the Project Agreement. In this Section 5.7, "the Partner" includes any later owner of the work.
 
-(b) A Student Company of one or more of the project's students may give the Partner written notice if, [2] years after the end of the Duration, neither the Partner nor any of its licensees is using the work commercially or pursuing a patent on it.
+(b) At any time from [2] years after the end of the Duration, a Student Company of one or more of the project's students may give the Partner written notice, if neither the Partner nor any of its licensees is then using the work commercially or pursuing a patent on it.
 
-(c) Unless the Partner shows such use or pursuit in writing within [60] days after receiving the notice, the Partner hereby assigns the work to the Student Company, effective at the end of that period. The price is the Student Company's written promise, given with its notice, to pay the Partner's documented out-of-pocket costs for the work, such as patent fees, within a reasonable period.
+(c) Unless the Partner shows such use or pursuit in writing within [60] days after receiving the notice, the Partner hereby assigns the work to the Student Company, effective at the end of that period. The price is the Student Company's written promise, given with its notice, to pay the Partner's documented out-of-pocket costs for the work, such as patent fees, within a reasonable period. With its notice, the Student Company must also promise in writing to keep the commitments about the work that the project's students have under the Project Agreement, such as confidentiality. The assignment gives no right to use or disclose Partner Information, as defined in the Project Agreement, that the Project Agreement restricts.
 
-(d) The Partner keeps a perpetual, worldwide, non-exclusive, royalty-free license to use the work for any purpose. The Partner must sign documents reasonably needed to record the assignment, at the Student Company's expense.
+(d) The Partner keeps a perpetual, irrevocable, worldwide, non-exclusive, royalty-free license to use, copy, modify, make derivative works of, distribute, make, have made, sell, and otherwise exploit the work for any purpose. It may transfer the license only with its business, and may sublicense it only to licensees it had before the notice. The Partner must sign documents reasonably needed to record the assignment, at the Student Company's expense.
 
-> **Note for counsel:** Each Partner agrees to this Section 5.7 in Project Agreement Sections 1.2 and 4.5, which carry its present words of assignment. Please confirm that the buyback is enforceable against a Partner, how it should treat patent applications still in prosecution (including who continues prosecution), and how the assignment is recorded with the Copyright Office and the U.S. Patent and Trademark Office if the Partner does not sign.
+(e) If more than one Student Company gives notice, only the first notice that the Partner receives has effect. A Student Company must send a copy of its notice to each of the project's students when it gives it.
+
+> **Note for counsel:** Each Partner agrees to this Section 5.7 in Project Agreement Sections 1.2 and 4.5(g), which carry its present words of assignment and limit its transfers of the work. Please confirm that the buyback is enforceable against a Partner and any later owner, and whether a present assignment to a Student Company that may not yet exist satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261. Please also advise how the Student Company's conditional assignment can be protected against later transferees, how the buyback should treat patent applications still in prosecution (including who continues prosecution), and how the assignment is recorded with the Copyright Office and the U.S. Patent and Trademark Office if the Partner does not sign.
 
 ## 6. Projects without a Partner
 
-**6.1 Project Election.** All students on a project without a Partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project, and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), or a team-only choice on an individual project gives way to the default.
+**6.1 Project Election.** All students on a project without a Partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project[, unless Section 2.4(b) applies], and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), or a team-only choice on an individual project gives way to the default.
 
 **6.2 Information.** Under "Open" (the default), nothing about the project is restricted. Under "Open and Course Private", what the students share about the project with classmates and the Course Staff is Course Private Information, unless they mark it Open. That choice binds other Signers, not the project's own students. Under "Open and Course Private", the public licenses in Sections 6.3 and 6.4 apply to a copy only once one of the project's students releases it outside the Course Community.
 
 **6.3 Licenses.** Each student licenses their rights in the project's software, to everyone who receives a copy, under the MIT License (the default), the Apache License 2.0, both (each recipient chooses), or another named license. Each student licenses their rights in other Project Work Product, in the same way, under CC BY 4.0 (the default), CC BY-SA 4.0, or another named license. A category marked "None" has no public license. An individual student who marks "None" for both keeps all rights. A team that marks "None" for a category keeps its rights in it, subject to Section 5.
 
-**6.4 FSL (team projects only).** If the students choose FSL-1.1-MIT or FSL-1.1-ALv2 for the project's software:
+**6.4 FSL (team projects only).** If the students choose FSL-1.1-MIT or FSL-1.1-ALv2 for the project's software, these terms apply.
 
-(a) each student hereby assigns each other student an undivided interest in their rights in the software, so that they own it jointly, and together they license it under that FSL license;
+(a) Each student hereby assigns each other student an undivided interest in their rights in the software, so that they own it jointly, and together they license it under that FSL license.
 
-(b) each student may use the software for any purpose, personally or through their Student Company, and no such use is a competing use under the FSL license;
+(b) Each student may use the software for any purpose, personally or through their Student Company, and no such use is a competing use under the FSL license.
 
-(c) one or more students may assign their interests to their Student Company if it first agrees in writing to be bound as they are; and
+(c) One or more students may assign their interests to their Student Company if it first agrees in writing to be bound as they are.
 
-(d) a majority of the project's current students may choose one student or Student Company as the "**FSL Representative**", and may replace them by written notice to all of the project's current students. The FSL Representative manages releases, naming the students or their Student Company as copyright holders, and any enforcement of the FSL license for all of them.
+(d) A majority of the project's current students may choose one student or Student Company as the "**FSL Representative**", and may replace them by written notice to all of the project's current students. The FSL Representative manages releases, naming the students or their Student Company as copyright holders, and any enforcement of the FSL license for all of them.
+
+(e) No student or Student Company may license or distribute copies of the software except under that FSL license without every student's written consent, but a student may give copies to their Student Company.
 
 **6.5 Changes.** The choices may be changed only in a writing signed by all of the project's current students, who certify the instructor's approval of any choice that is not Open Science. A change does not take back rights that others already received.
 
 ## 7. Harvard and liability
 
-**7.1 Not a party.** Harvard is not a party to this agreement or to any Project Terms, and has no obligations under them. Harvard has approved the forms of this agreement and the Project Agreement, including every choice in them, for the Course, and a copy of this approval is attached as Exhibit A.
+**7.1 Not a party.** Harvard is not a party to this agreement or to any Project Terms, and has no obligations under them, except as it agrees to Section 7.5 in Exhibit A. Harvard has approved the forms of this agreement and the Project Agreement, including every choice in them, for the Course, and a copy of this approval is attached as Exhibit A.
 
-**7.2 Harvard's rights come first.** This agreement and Project Terms do not assign or license any right that Harvard owns, or amend any agreement between Harvard and a Partner or other third party about the Course or a project (a "**Separate Agreement**"). Every Signer's rights are subject to Harvard's rights under its policies and any Separate Agreement, including rights from faculty-sponsored research. As between Harvard and a Partner, a Separate Agreement governs if it conflicts with a Project Agreement. If Harvard has rights in work that a Project Agreement assigns to its Partner, Project Agreement Section 4.5 says what that assignment needs.
+**7.2 Harvard's rights come first.** This agreement and Project Terms do not assign or license any right that Harvard owns, or amend any agreement between Harvard and a Partner or other third party about the Course or a project (a "**Separate Agreement**"). Every Signer's rights are subject to Harvard's rights under its policies and any Separate Agreement, including rights from faculty-sponsored research. As between Harvard and a Partner, a Separate Agreement governs if it conflicts with this agreement or a Project Agreement. If Harvard has rights in work that a Project Agreement assigns to its Partner, Project Agreement Section 4.5 says what that assignment needs.
 
 **7.3 Informal exception.** Harvard's Office of Technology Development applies a conditional informal exception to Harvard's Statement of Policy in Regard to Intellectual Property for coursework, namely, that Harvard claims no ownership of what a student creates in the Course, as long as the student uses only Harvard-administered resources provided generally to students in the Course. The exception does not apply if either box under "Harvard's rights in students' work" is checked. Use of certain Harvard resources, such as research computing resources, could also end the exception.
 
 **7.4 No liability of Harvard or the Course Staff.** To the fullest extent the law allows, neither Harvard nor any member of the Course Staff is liable to any Signer or Partner, in contract, tort, or otherwise, for any direct, indirect, consequential, or other loss or damage. This covers anything arising out of or relating to the Course, any project, this agreement, any Project Terms, any breach of them, or anyone's receipt, use, or disclosure of information. No Signer may assert such a claim. This Section 7.4 does not stop anyone entitled to enforce Section 3 or 4 from seeking an injunction against a member of the Course Staff. It also does not protect a member of the Course Staff who intentionally misuses information in breach of this agreement or a Project Agreement they signed. [It also does not cover liability resulting from the gross negligence or willful misconduct of that member of the Course Staff or of Harvard.]
 
-> **Note for counsel (review notes R-5 and R-6):** The bracketed sentence is a placeholder. Please decide whether to keep it for Harvard, for the Course Staff, or for both.
+> **Note for counsel:** (Review notes R-5 and R-6.) The bracketed sentence is a placeholder. Please decide whether to keep it for Harvard, for the Course Staff, or for both.
 
-**7.5 Partner's protection.** To the fullest extent the law allows, no Partner is liable to Harvard, the Course Staff, or any student for any claim arising out of or relating to the Course or its project, except for its own breach of its Project Agreement (subject to any limit on liability in that agreement)[, and its gross negligence, willful misconduct, or worse]. No Signer may assert such a claim against a Partner. Each Partner and its project's students also release each other in Project Agreement Section 5.3.
+**7.5 Partner's protection.** To the fullest extent the law allows, no Partner is liable to Harvard, the Course Staff, or any student for any claim arising out of or relating to the Course or its project. This does not apply to the Partner's own breach of its Project Agreement (subject to any limit on liability in that agreement)[, or to its gross negligence, willful misconduct, or worse]. No Signer may assert such a claim against a Partner. This Section 7.5 does not cover (a) any claim under a Separate Agreement, or for infringement or misappropriation of anyone's intellectual property or confidential information; or (b) any claim for bodily injury, property damage, harassment, discrimination, or misuse of personal information.
 
-> **Note for counsel:** Section 7.5 gives Partners protection matching Section 7.4. Harvard is bound by it only through its approval (Exhibit A). Please keep the bracket consistent with Project Agreement Sections 5.3 and 5.4.
+> **Note for counsel:** Section 7.5 gives Partners protection matching Section 7.4. Harvard is bound by it only through its signed approval (Exhibit A), which has no counterparty. Please confirm that this binds Harvard, or advise whether Harvard's agreement belongs in a Separate Agreement instead. Please also confirm that the releases in Section 7.5 and Project Agreement Section 5.3 are enforceable against students who must sign this agreement to take the Course, including students under 18, and which claims Massachusetts law does not allow a person to release in advance. Please keep the bracket consistent with Project Agreement Sections 5.3 and 5.4.
 
 ## 8. General
 
@@ -162,11 +168,13 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (c) Nothing in this agreement or any Project Terms prohibits reporting a possible violation of law to a government agency, or any other disclosure the law protects. Under 18 U.S.C. § 1833(b), an individual is not liable under any federal or state trade secret law for disclosing a trade secret in confidence to a government official or a lawyer, solely to report or investigate a suspected violation of law. The same applies to a disclosure in a document filed under seal in a lawsuit or other proceeding.
 
-**8.3 Enforcement.** Signers, including Teammates, may enforce this agreement against each other directly. Each Partner of a project in the Course may enforce Sections 3 and 4.3 as they protect that Partner's information, Sections 2.3 and 4.1 as they apply to that Partner's project, and Section 7.5. A Student Company may enforce Sections 5.3 to 5.5 and 5.7 as they benefit it. Harvard may enforce Sections 7.2 and 7.4. No one else has rights under this agreement, apart from rights under a public license granted under Section 6.3 or 6.4. A breach of Section 3 or 5 may cause irreparable harm, so anyone entitled to enforce it may seek an injunction. Each Signer is responsible only for their own acts.
+**8.3 Enforcement.** Signers, including Teammates, may enforce this agreement against each other directly. Each Partner of a project in the Course may enforce Sections 3 and 4.3 as they protect that Partner's information, Sections 2.3 and 4.1 as they apply to that Partner's project, and Section 7.5. A Student Company may enforce Sections 5.3 to 5.5, 5.7, and 6.4 as they benefit it. Harvard may enforce Sections 7.2 and 7.4. No one else has rights under this agreement, apart from rights under a public license granted under Section 6.3 or 6.4. A breach of Section 3 or 5 may cause irreparable harm, so anyone entitled to enforce it may seek an injunction. Each Signer is responsible only for their own acts.
 
 **8.4 Law, signatures, and interpretation.** Massachusetts law governs this agreement, without regard to conflict-of-laws rules, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, including through Adobe Acrobat Sign, and counterparts together form one agreement. Each Signer confirms that they have reached the age of majority, have read this agreement, have had the chance to ask questions and consult advisors, and sign voluntarily. This agreement may be changed only in a writing signed by every Signer, and no Signer may assign it. A reference to all, or a majority, of a project's students means the students on that project, not every student in the Course, and a project's "current" students are those still taking part in it. "Including" means "including without limitation". An unenforceable term is enforced as far as the law allows, and the rest stays in effect.
 
 > **Note for counsel:** Every student in the Course signs this agreement, and many sign a Project Agreement, so some may be under 18. Please advise how they should sign (for example, with a parent's or guardian's co-signature), since their licenses and assignments could otherwise be voidable.
+
+**8.5 Notices.** Notices under this agreement must be in writing, and email is enough. A notice to a student is received when sent to any email address in their roster entry or Project Agreement signature entry, or to another address the student has given the sender by notice.
 
 ## Signature roster
 
@@ -175,6 +183,7 @@ By signing below, each Signer agrees to this Course Agreement, version [0.6], fo
 **Signer** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email, for notices after the Course (optional): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Students only (check to confirm): ☐ The Signer has read the *Student Guide to Course Project Agreements*. \
 Signature: ______________________________ Date: ______________
@@ -209,7 +218,7 @@ Project type (check one): ☐ Individual project ☐ Team project
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________
 
-**Instructor's approval.** By signing, the students certify that the Course instructor has permitted this project, and has approved every choice above not marked "Open Science", in writing or by email. \
+**Instructor's approval.** By signing, the students certify that the Course instructor has permitted this project[ (not needed for a capstone project under Course Agreement Section 2.4(b))], and has approved every choice above not marked "Open Science", in writing or by email. \
 Instructor's name: ______________________________ \
 Date of approval: ______________
 

@@ -20,7 +20,7 @@ Each project makes one information choice and one ownership choice. Unless Partn
 | Open, Course Private, and Confidential | Also, information that Partner marks Confidential goes only to the signers of your project's agreement. | No |
 | **Ownership** | | |
 | Students own (default) | You and your teammates own the work and license each other. Partner gets the license described below. | Yes, with Open Science licenses |
-| Students and Partner own jointly | You, your teammates, and Partner own the work together. The software must use an FSL license. | No |
+| Students and Partner own jointly | You, your teammates, and Partner own the software together, under an FSL license. You and your teammates own everything else. | No |
 | Partner owns | You assign your rights to Partner. There's no public license unless Partner releases the work. | No |
 | **Software license** (unless Partner owns) | | |
 | MIT (default) | Anyone may use, change, and sell the code if they keep its notice. It says nothing about patents. | Yes |
@@ -38,7 +38,7 @@ More points to know:
 - **Partner's license.** When students own, Partner gets a perpetual, non-exclusive, royalty-free license to use the work for any purpose. It moves only with Partner's business, and Partner can't sublicense it without the students' consent. Under a public license, Partner may also use the work like anyone else.
 - **Publication review.** Unless information is Open, Partner may elect it, and it always applies when Partner owns. Send Partner a copy at least 30 days before you submit. Then wait until Partner consents or the hold period on the form ends, counted from when Partner gets the copy (if blank, until Partner consents). Partner may not unreasonably withhold consent for results with no Confidential Information.
 - **Patent hold.** If Partner owns and information is Open, there's no review. Instead, give Partner 30 days' notice before a public disclosure. Partner may delay it until up to 60 days after your notice, to file a patent.
-- **Claims against Partner.** You and Partner release each other from claims about the project, except for a breach of the project's agreement. Partner isn't otherwise liable to students, the Course Staff, or Harvard for the project.
+- **Claims against Partner.** You and Partner release each other from claims about the Course and the project, except for a breach of the project's agreement. Partner isn't otherwise liable to students, the Course Staff, or Harvard. These protections don't cover claims about intellectual property or confidential information, injury, harassment, discrimination, or misuse of personal information.
 - **Changing a choice** needs a written amendment signed for Partner and by every student still on the project, plus the instructor's approval if the result isn't Open Science.
 - **Saying no.** You must accept a project's terms before starting work on it. You may ask to move to another project, such as an Open Science project or one without a partner. The Course Staff will try in good faith to accommodate you, and will always move you to an Open Science project if you ask, though not necessarily to a particular one. Work already done stays under the first project's terms, and its partner's information stays confidential. In a capstone, you may instead ask for an Open Science project, do a project without a partner if the instructor permits it, or, where your program allows, write a thesis instead of taking the Course.
 
@@ -49,10 +49,10 @@ More points to know:
 - **Students own, with public licenses:** everyone may use the work under those licenses.
 - **Students own, no public license:** you may use the work for any purpose, including through your Student Company, under your teammates' licenses. Partner keeps its license. No one has exclusive rights, and the buyout can apply.
 - **Students and Partner own jointly:** you, your teammates, and Partner may each use the code for any purpose, including through a Student Company. Everyone else may use it under FSL.
-- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If, [2] years after the Course ends, neither Partner nor its licensees is using the work commercially or pursuing a patent on it, your Student Company may ask for it back. Unless Partner shows such use within [60] days, the work passes to the company, which pays Partner's documented out-of-pocket costs, such as patent fees. Partner keeps a non-exclusive license, and its own data and code are never included.
+- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If, at any time from [2] years after the Course ends, neither Partner nor its licensees is using the work commercially or pursuing a patent on it, your Student Company may ask for it back. Unless Partner shows such use within [60] days, the work passes to the company, which pays Partner's documented out-of-pocket costs, such as patent fees. Partner keeps a non-exclusive license, and its own data and code are never included.
 - **In every case:** Partner's own data and code stay Partner's. You may use them only for the project during the Course, apart from the demo data described under "Showing your work."
 
-[Because these licenses are royalty-free, no teammate owes another a share of profits from using the work.]
+The agreements say that no teammate owes another a share of profits from using the work.
 
 ## Showing your work
 
@@ -67,12 +67,12 @@ More points to know:
 
 These rules bind every student and every member of the Course Staff, and protect every project. Partners in the Course may enforce the rules that protect their information.
 
-- **The Course Community** is the Course's students and Course Staff, Harvard staff who support the Course, and [SEAS community members and invited guests at private Course events].
+- **The Course Community** is the Course's students and Course Staff, Harvard staff who support the Course, and [SEAS community members and] invited guests at private Course events.
 - **Mistakes.** If you receive confidential information not meant for you, use reasonable care to tell the sender, not use or copy it, and delete it. Doing this promptly is reasonable care. No one is liable just for receiving it, but later use isn't protected.
 - **Other projects' information.** Keep other projects' Course Private Information within the Course Community. Never pass it to a partner without written consent from that project's partner and its students (or, for a project without a partner, its students).
 - **Others' confidential information.** Don't share, or use in a project, anyone else's confidential information, such as a current or former employer's. Code you wrote for a job usually belongs to your employer, so don't reuse it without permission. Your employment agreement may also cover work you do outside your job.
 - **Generative AI.** Use your Harvard accounts and Harvard's tools by default. A partner's restricted information may go only into tools that partner approves in writing or by email. Read each tool's terms on who owns its output and how it uses your inputs.
-- **Course Staff** contribute no IP, and share no grades or other education records with partners. They see a project's Confidential Information only by signing its agreement.
+- **Course Staff** contribute no IP, and share no grades or other education records with partners unless you ask in writing. They see a project's Confidential Information only by signing its agreement.
 - **How long.** Confidentiality duties, including for other projects' information, last five years after your End Date (the Confidentiality Period). Your End Date is the end of the Course, or the day you stop taking part, if earlier. Trade secrets stay protected while they remain trade secrets.
 
 ## Copyright
@@ -83,7 +83,7 @@ Copyright protects original expression, such as code, documentation, reports, an
 
 Each person who contributes original expression is an author. Teammates who write together, intending their parts to merge, usually own a "joint work" together. Under U.S. law, absent an agreement, each co-owner may use the work, and grant non-exclusive licenses, without the others' consent. A co-owner who profits may owe the others a share. An exclusive license, or a transfer of the whole work, needs every co-owner. The agreements change these defaults, as described above.
 
-> **Note for counsel:** please confirm this summary (v0.5 review note R-7; 17 U.S.C. § 201(a); *Davis v. Blige*, 505 F.3d 90 (2d Cir. 2007)). Please also confirm whether the teammates' royalty-free licenses displace the duty to account, as the bracketed sentence above says. Rules outside the U.S. differ.
+> **Note for counsel:** please confirm this summary (v0.5 review note R-7; 17 U.S.C. § 201(a); *Davis v. Blige*, 505 F.3d 90 (2d Cir. 2007)). Rules outside the U.S. differ.
 
 Anyone outside the team who writes code for you may own it. Open-source code you use keeps its own license.
 
@@ -137,7 +137,7 @@ If your work may be patentable, talk to your teammates, any partner, and the Cou
 
 A U.S. provisional application is a common first step. It isn't examined, and to keep its filing date you must file a regular application within 12 months. Under the Paris Convention, you also have 12 months to file in other member countries and keep your first filing date (called "priority"). A provisional secures that date only for what it describes, so describe the invention fully.
 
-If Partner owns, Partner decides whether to file, and you must sign the papers it reasonably needs, at its expense. If Harvard has rights, OTD decides. Otherwise, the owners decide and pay.
+If Partner owns, Partner decides whether to file, and you must sign the papers it reasonably needs, at its expense. If you don't within [15] business days, Partner may sign them in your name. If Harvard has rights, OTD decides. Otherwise, the owners decide and pay.
 
 ## Startups when teammates share ownership
 
@@ -158,9 +158,10 @@ Whenever students own or co-own the work, with or without a partner, the agreeme
 
 The buyout applies only where students own work with no public license. It doesn't apply under joint ownership with FSL, or when Partner owns.
 
-1. A Student Company that is actively developing the work gives written notice to a teammate who isn't using it commercially, personally or through a company.
-2. The teammate may join the company within [60] days, on the same terms as its other student founders.
-3. If not, the teammate must assign their ownership share to the company, for a price.
+1. After a teammate leaves the project or the Course ends, a Student Company that is actively developing the work may give that teammate written notice, if the teammate isn't using the work commercially, personally or through a company. Notices go to the email addresses in your roster entry, so consider adding a personal one.
+2. If the teammate and the company both agree, the teammate may join the company within [60] days, on the same terms as its other student founders.
+3. If not, all of the teammate's rights in the work pass to the company for a price, once it pays or promises in writing to pay, and promises to keep the teammate's commitments, such as confidentiality. If the teammate doesn't sign the papers to record this within [15] business days, the company may sign them in the teammate's name.
+4. If more than one Student Company gives notice, the teammate chooses one within [60] days after the last notice. If they don't, the first notice they received has effect.
 
 The price will be one of these two alternatives, chosen before the agreements are used:
 
