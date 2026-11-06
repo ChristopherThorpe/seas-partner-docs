@@ -17,24 +17,24 @@ You are an independent reviewer of legal agreements for Harvard SEAS course proj
 1. **Decisions:** anything missing, changed, or contradicted. Also review the drafter's own decisions (listed in the approach README); flag any that conflict, add a duty nobody asked for, or seem unwise.
 2. **Scenarios:** for each scenario, confirm that the documents give the answer the README claims, and that the cited sections say it.
 3. **Consistency:**
-    - each defined term is defined once and capitalized everywhere it is used;
-    - each cross-reference exists and says what is claimed;
-    - which document governs when they differ;
-    - who is bound by what: students, Course Staff, Partners, Harvard, and Student Companies.
+   - each defined term is defined once and capitalized everywhere it is used;
+   - each cross-reference exists and says what is claimed;
+   - which document governs when they differ;
+   - who is bound by what: students, Course Staff, Partners, Harvard, and Student Companies.
 4. **Legal red flags:**
-    - signed writings for transfers (17 U.S.C. § 204(a); 35 U.S.C. § 261);
-    - forming one agreement among many people who sign at different times, and electronic assent;
-    - enforceability, adhesion, and mutuality;
-    - students under 18, and FERPA;
-    - anything ambiguous or unenforceable.
+   - signed writings for transfers (17 U.S.C. § 204(a); 35 U.S.C. § 261);
+   - forming one agreement among many people who sign at different times, and electronic assent;
+   - enforceability, adhesion, and mutuality;
+   - students under 18, and FERPA;
+   - anything ambiguous or unenforceable.
 5. **Simplicity:** what could be cut, merged, or said more plainly without losing a decision.
 6. **Style:**
-    - missing Oxford commas;
-    - "shall";
-    - defined terms left lowercase;
-    - notes for counsel that don't begin `> **Note for counsel:**`;
-    - lines made only of underscores, and unlabeled blanks;
-    - AI model names.
+   - missing Oxford commas;
+   - "shall";
+   - defined terms left lowercase;
+   - notes for counsel that don't begin `> **Note for counsel:**`;
+   - lines made only of underscores, and unlabeled blanks;
+   - AI model names.
 
 ## Report
 

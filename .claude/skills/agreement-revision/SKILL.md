@@ -6,6 +6,7 @@ description: Run one revision cycle on the SEAS course project agreements. It re
 # Agreement revision cycle
 
 The agreements are Markdown files under `agreements/`. Decisions live in files, never only in chat:
+
 - the version's `BRIEF.md` and `agreements/decision-register.md`;
 - `owner-edits/` for each round of the owner's edits;
 - `reviews/` for each independent review.
@@ -22,6 +23,7 @@ The agreements are Markdown files under `agreements/`. Decisions live in files, 
 ## 2. Apply
 
 Start the `agreement-drafter` agent. Give it:
+
 - the edits file;
 - the folders it may write;
 - an instruction to update the approach README.
@@ -46,9 +48,9 @@ Start a fresh `agreement-reviewer` agent, never the drafter, on the revised docu
 - **Word copy:**
   `pandoc -f gfm+raw_attribute -t docx IN.md -o OUT.docx`.
   To combine several documents, put a page break between them:
-  `` ```{=openxml} `` / `<w:p><w:r><w:br w:type="page"/></w:r></w:p>` / `` ``` ``.
+  ` ```{=openxml} ` / `<w:p><w:r><w:br w:type="page"/></w:r></w:p>` / ` ``` `.
 - **Report to the owner:**
-    - what changed;
-    - which drafter and reviewer decisions need their approval;
-    - the redline and the Word copy.
+  - what changed;
+  - which drafter and reviewer decisions need their approval;
+  - the redline and the Word copy.
 - Open a pull request only when asked, and never merge without the owner's explicit request.
