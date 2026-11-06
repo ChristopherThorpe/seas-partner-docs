@@ -53,6 +53,7 @@ These override v0.5 where they differ.
 - Plain English. Short sentences (under 25 words where possible) and short sections. Address the reader directly only in the Student Guide.
 - Use "must" for duties, "may" for permissions, and "will" for future facts. Do not use "shall".
 - Define each term once, at first use, as `"**Term**"`. Avoid defining terms used only once.
+- Capitalize every defined term wherever it is used, so that a lowercase word always has its ordinary meaning (for example, "Signer" for the defined term, "signer" for anyone who signs anything).
 - Avoid cross-references. When one is needed, cite a section number, and check that it exists and says what you claim.
 - Every list of three or more uses the Oxford comma ("students, partners, and staff").
 - Bracket only real drafting choices or counsel placeholders: `[...]`. Add notes for counsel as blockquotes beginning `> **Note for counsel:**`.
