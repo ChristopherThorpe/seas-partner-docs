@@ -20,6 +20,8 @@ Public licenses (Section 3.2): \
 Software (check one or both): ☐ MIT License (default) ☐ Apache 2.0 \
 Everything else (check one): ☐ CC BY 4.0 (default) ☐ CC BY-SA 4.0
 
+Individual project (check if only one student is on the Project): ☐ Partner certifies that the Course instructor has approved the Project as an individual project, in writing or by email.
+
 This agreement is between the company named above ("**Partner**") and each student who signs it (each, a "**Student**"), for the Project named above. The Project is Open Science unless Partner and the Students sign a Restricted Project Addendum, which then becomes part of this agreement and governs where the two differ.
 
 ## 1. The Project and the parties

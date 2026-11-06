@@ -41,7 +41,7 @@ More points to know:
 - **Changing a choice** needs a written amendment signed for Partner and by every signer, plus the instructor's approval if the result isn't Open Science.
 - **Saying no.** You must accept a project's terms before starting work on it. You may ask to move to another project, such as an Open Science project or one without a partner. The Course Staff will honor the request. Work already done stays under the first project's terms, and its partner's information stays confidential. In a capstone, you may instead do a project without a partner, or write a thesis instead of taking the Course.
 
-**Projects without a partner** make similar choices, with the students in place of a partner. Course Private and Confidential isn't available. A team may choose FSL, with a representative chosen by majority. The students certify the instructor's approval for anything other than Open Science, and an individual project always needs it.
+**Projects without a partner** make similar choices, with the students in place of a partner. Course Private and Confidential isn't available. A team may choose FSL, with a representative chosen by majority. The students certify the instructor's approval for anything other than Open Science. An individual project, with or without a partner, always needs the instructor's approval; with a partner, the partner certifies it.
 
 ### What you can do with the work afterwards
 

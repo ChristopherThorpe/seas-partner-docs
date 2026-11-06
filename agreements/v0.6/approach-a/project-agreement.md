@@ -67,7 +67,7 @@ Publication Hold Period, if review applies (leave blank for "until Partner conse
 
 The choices marked "Open Science" together make the Project Open Science (Course Agreement Section 2.1).
 
-Partner's certification (check if any choice above is not Open Science): ☐ Partner certifies that the Course instructor has approved, in writing or by email, every choice above that is not Open Science. \
+Partner's certification (check if any choice above is not Open Science, or only one student is on the Project): ☐ Partner certifies that the Course instructor has approved, in writing or by email, every choice above that is not Open Science and, if only one student is on the Project, the Project as an individual project. \
 Instructor's name: ______________________________ \
 Date of approval: ______________
 
