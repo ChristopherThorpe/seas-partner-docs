@@ -84,30 +84,40 @@ Date: ______________
 **Signer 1** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
 **Signer 2** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
 **Signer 3** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
 **Signer 4** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
 **Signer 5** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
@@ -123,6 +133,8 @@ The individual who signs below joins the Project Agreement for the Project named
 **Joining Signer** \
 Name: ______________________________ \
 Email (ending in harvard.edu): ______________________________ \
+Personal email: ______________________________ \
+Personal telephone (mobile preferred): ______________________________ \
 Role (check one): ☐ Student ☐ Course Staff \
 Signature: ______________________________ Date: ______________
 
@@ -140,7 +152,7 @@ Signature: ______________________________ Date: ______________
 
 - 3.1 (Inadvertent Disclosures);
 - 3.2 (other projects' Course Private Information), as it applies to information Partner receives through the Course;
-- 5.7 (buyback from a Partner);
+- 5.7 (right to purchase from a Partner);
 - 7.2 (Harvard's rights come first);
 - 7.4 (no liability of Harvard or the Course Staff);
 - 7.5 (Partner's protection); and
@@ -246,7 +258,7 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 (f) If the information choice is Open, there is no publication review. A student Signer must instead give Partner written notice, with a copy, at least 30 days before any publication or other public disclosure of the Project Work Product. This includes publishing the Approved Poster and Video. By written notice within that period, Partner may delay the disclosure until up to 60 days after the student's notice, so that Partner can file a patent application.
 
-(g) Partner agrees to the buyback in Course Agreement Section 5.7. If its conditions are met, Partner hereby assigns the Project Work Product to the Student Company that gave notice, on the terms of that Section. Partner Background IP is never included. Partner must not transfer the Project Work Product, or grant an exclusive license in it, unless the transferee or licensee first agrees in writing to be bound by Course Agreement Section 5.7 as Partner is.
+(g) Partner agrees to the right to purchase in Course Agreement Section 5.7, which never includes Partner Background IP. Partner must not transfer the Project Work Product, or grant an exclusive license in it, unless the transferee or licensee first agrees in writing to be bound by Course Agreement Section 5.7 as Partner is.
 
 (h) If Harvard has intellectual property rights in the Project Work Product, due to faculty research, Harvard resources, or other reasons, paragraph (a) assigns only the students' own rights. Partner may obtain Harvard's rights, or exclusive rights in the work, only through a separate letter negotiated and signed by Partner and Harvard's Office of Technology Development.
 
@@ -258,11 +270,11 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 **5.2 No warranties.** Except as Section 6.7 states, no student Signer makes any promise about their ability to do the Project or about the quality or suitability of any Project Work Product, or gives any warranty or indemnity about intellectual property. TO THE FULLEST EXTENT THE LAW ALLOWS, EACH STUDENT SIGNER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE PROJECT AND ALL PROJECT WORK PRODUCT, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 
-**5.3 Releases.** Partner releases each student Signer, and each student Signer releases Partner, from any claim, loss, liability, damage, or expense arising out of or relating to the Course or the Project, including the student's participation in it and any use of Project Work Product. Neither may assert such a claim against the other. A release does not cover anything caused by the released party's breach of this agreement, or by its use of intellectual property beyond the rights this agreement grants[, or by its gross negligence, willful misconduct, or worse]. Neither release covers a claim that Course Agreement Section 7.5 does not cover. Each release covers only the releasing party's own claims. Neither party need defend or indemnify the other against others' claims, or pay the other's legal fees or costs.
+**5.3 Releases.** Partner releases each student Signer, and each student Signer releases Partner, from any claim, loss, liability, damage, or expense arising out of or relating to the Course or the Project, including the student's participation in it and any use of Project Work Product. Neither may assert such a claim against the other. A release does not cover anything caused by the released party's breach of this agreement[, or by its gross negligence, willful misconduct, or worse]. [Other exceptions are to be settled with counsel.] Each release covers only the releasing party's own claims. Neither party need defend or indemnify the other against others' claims, or pay the other's legal fees or costs.
 
 **5.4 Limit on liability.** [To the fullest extent the law allows, Partner is not liable to any Signer, and no Signer is liable to Partner or to another project's Partner, for any direct, indirect, consequential, or other loss or damage. This covers anything arising out of or relating to this agreement, the Project, or the Course. It does not apply to liability resulting from that party's gross negligence, willful misconduct, or worse[, or from a Signer's ordinary breach of Section 2]. This Section 5.4 does not limit injunctions under Section 6.5 or the releases in Section 5.3.]
 
-> **Note for counsel:** Section 5.4 is a placeholder carried from v0.5 Section 7.5. It runs only between Partner and the Signers, not among students. Please decide whether to keep it and, if so, whether ordinary breaches of confidentiality (Section 2) should be excepted, since otherwise they could be enforced only by injunction. Keep it, and the bracket in Section 5.3, consistent with Course Agreement Section 7.5 (Partner's protection).
+> **Note for counsel:** Section 5.4 is a placeholder carried from v0.5 Section 7.5. It runs only between Partner and the Signers, not among students. Please decide whether to keep it and, if so, whether ordinary breaches of confidentiality (Section 2) should be excepted, since otherwise they could be enforced only by injunction. Keep it, and the brackets in Section 5.3, consistent with Course Agreement Section 7.5 (Partner's protection). The note after that section lists the candidate exceptions.
 
 **5.5 Consideration.** The rights granted to Partner are a material reason for its sponsorship. Partner's sponsorship, and each student's chance to take part in Partner's real-world computing applications, are sufficient consideration for them.
 
@@ -270,7 +282,7 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 **6.1 Authorized officer and Partner Contacts.** Partner's authorized officer signs this agreement, any change to it, and any waiver by Partner. If Partner is an individual, Partner signs these itself, and references to Partner's authorized officer mean Partner. The Partner Contacts may act for Partner on the Project, but may not change this agreement. They may give consents and approvals, give and identify Partner Information, request edits, give notices, and receive copies and requests. They may also approve generative AI tools (or ask students to use Partner's own tools at Partner's expense), identify data and code under the Enabling License, and agree to changes in the credit process. Partner may replace or add Partner Contacts by notice to the Signers, and that is not a change to this agreement.
 
-**6.2 Notices.** Notices, consents, copies, and requests must be in writing, and email is enough. Copies and requests for consent go to the Partner Contacts. Other notices to Partner go to its authorized officer and the Partner Contacts. Notices to a Signer go to the email address in their signature entry, or to another address they give by notice.
+**6.2 Notices.** Notices, consents, copies, and requests must be in writing. Copies and requests for consent go to the Partner Contacts. Other notices to Partner go to its authorized officer and the Partner Contacts, by email. Partner updates them by notice to the Signers (Section 6.1). Notices to a Signer follow Course Agreement Section 8.5, using the contact details in their signature entry or any update they have given under that Section.
 
 **6.3 Changes.** The choices and blanks on the cover page, other than the Partner Contacts, may be changed only in a writing signed by Partner's authorized officer and every student Signer. A student Signer who stopped taking part in the Project before the end of the Duration need not sign. If the result is not Open Science, the Course instructor must approve it in writing or by email, and Partner certifies that approval in the change. A change binds only those who sign it, and cannot take back rights that others already received, such as a public license to a copy already released. A change to the information choice applies only to Partner Information given after the change, unless the change says otherwise. Before the end of the Duration, nothing else in this agreement may be changed, apart from the consents, approvals, notices, joinders, and credit-process changes it allows. After the Duration, it may be changed only in a writing signed by Partner and every Signer. A waiver must be in writing, and a delay in enforcing a term is not a waiver.
 
