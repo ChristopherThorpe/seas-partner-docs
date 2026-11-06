@@ -31,10 +31,11 @@ The three independent reviews found the same weak points in every draft, and all
 
 ## Approach A after the owner's review
 
-The owner chose approach A and has edited it twice (`owner-edits/`). A second independent review followed (`reviews/approach-a-review-2.md`). Decisions made while the owner was away are listed in `owner-edits/approach-a-2026-11-06-decisions-to-confirm.md`, for the owner to confirm. Approach A now also includes:
+The owner chose approach A and has edited it in several rounds (`owner-edits/`), with two further independent reviews (`reviews/approach-a-review-2.md` and `approach-a-review-3.md`). The owner has answered the decisions in `owner-edits/approach-a-2026-11-06-decisions-to-confirm.md`; items R5 to R11 and the drafter's latest wording choices await confirmation. Approach A now also includes:
 
-- a buyback from a Partner that doesn't use assigned work;
-- mutual protection for Partners, with carve-outs;
+- a right to purchase work that a Partner owns and leaves unused;
+- mutual protection for Partners, with exceptions beyond a Partner's own breach left to counsel;
+- notices by email plus text or voicemail, repeated until acknowledged, with every individual and Partner Contact giving a telephone number;
 - Partners that may be organizations or individuals;
 - renamed information choices ("Open", "Open and Course Private", and "Open, Course Private, and Confidential");
 - capitalized defined terms throughout.
