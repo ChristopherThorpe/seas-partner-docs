@@ -12,9 +12,9 @@ The next version splits v0.5 into documents by audience, and states each decisio
 
 | Document | Who signs | When | Replaces in v0.5 |
 | --- | --- | --- | --- |
-| **1. Course Agreement** | Every student and every member of the Course Staff | Once per course offering, before project work begins | Exhibit A.DS acknowledgment, Exhibit C box 1, Exhibit D, and the course-wide sections (§3.7 to §3.9, §6, §8.4, §9, §11.11) |
+| **1. Course Agreement** | Every student and every member of the Course Staff | Once per course offering, before project work begins | Exhibit A.DS acknowledgment, Exhibit C box 1, Exhibit D, the licenses among students in §8, and the course-wide sections (§3.7 to §3.9, §6, §8.4, §9, §11.11) |
 | **2. Project Agreement** (cover page and standard terms) | Partner, every student on the Project, and any Course Staff who need Confidential Information | For each project with a partner | The letter, §1 to §11, Exhibit B, and the joinder page |
-| **3. Student Guide** (not binding) | No one | Given with the Course Agreement | Exhibit A.DS Sections 2 to 6 |
+| **3. Student Guide** (not binding) | No one | Required reading before choosing a project | Exhibit A.DS Sections 2 to 6 |
 | **4. Harvard approval** | Harvard (through OTD, SEAS, or OGC) | Once per template version, for the listed courses | Exhibit C box 2 |
 
 ## 1. Course Agreement
@@ -30,9 +30,15 @@ Everyone in the Course signs once. Signers agree with each other, so every rule 
     - Generative AI: Harvard accounts and tools by default. (A project's partner decides which tools may see its restricted information; see the Project Agreement.)
     - Work done on a project before reassignment stays under that project's terms. [E9]
 4. **Course Staff.** Advise and evaluate; contribute no IP; share no grades or education records with partners; see a project's Confidential Information only by signing its Project Agreement. [C10, E7, F4]
-5. **Projects without a partner.** A short election, signed by the project's students: IP (Open Science by default; an individual student may keep all rights; a team may cross-license or use FSL with a representative chosen by majority) and confidentiality (open by default, or Course Private Information). Students certify the instructor's approval for anything other than Open Science, and for an individual project. [G1 to G5]
-6. **Harvard.** Not a party. Its approval of the forms, its conditional informal exception, its prior rights (faculty-sponsored research, third-party agreements), and no liability for Harvard or the Course Staff. [A4, E10, F1, F2]
-7. **General.** How long the rules last (the Confidentiality Period), Massachusetts law, electronic signatures, and enforcement. [C14, A10, A11]
+5. **Teammates' rights in shared work.** These apply whether or not the project has a partner. [E2, E3, H1, new]
+    - Unless the work is assigned to a partner, each student gives each teammate a perpetual, non-exclusive, royalty-free ("PNERF") license to the team's work.
+    - The license extends to the teammate's Student Company. Course work stays non-exclusive; what the company builds afterwards is its own.
+    - If two teammates start separate companies, both keep their licenses.
+    - A buyout ("use it or lose it") for a teammate who isn't using the work: terms open (decision 6 below).
+    - Teammates enforce these terms against each other directly, so no one can deadlock the team.
+6. **Projects without a partner.** A short election, signed by the project's students: IP (Open Science by default; an individual student may keep all rights; a team keeps its rights, subject to teammates' rights, or uses FSL with a representative chosen by majority) and confidentiality (open by default, or Course Private Information). Students certify the instructor's approval for anything other than Open Science, and for an individual project. [G1 to G5]
+7. **Harvard.** Not a party. Its approval of the forms, its conditional informal exception, its prior rights (faculty-sponsored research, third-party agreements), and no liability for Harvard or the Course Staff. [A4, E10, F1, F2]
+8. **General.** How long the rules last (the Confidentiality Period), Massachusetts law, electronic signatures, and enforcement. [C14, A10, A11]
 
 ## 2. Project Agreement
 
@@ -56,13 +62,19 @@ The same for every project. Each section is self-contained, and each choice on t
 1. **The Project.** Coursework; grading by the Course Staff; no employment; Partner may benefit; one agreement per Project; joining; students are parties with each other as well as with Partner. [A1 to A3, A7, A8]
 2. **Partner information.** The two categories and what each Information choice means; how to protect restricted information, including approved generative AI tools; exclusions and required disclosures; Partner's duties (export control, protected data, and not asking for other projects' information or students' education records); the end of the project; the Confidentiality Period. [C1 to C5, C9 to C14]
 3. **Publication and demonstrations.** Sharing within the Course; private academic uses with masking; the final poster and video; review, if chosen; credit for teammates and Partner's contributors; demonstrations; the Enabling License. [D1 to D7]
-4. **Intellectual property.** Partner's background IP and third-party materials, then one complete subsection for each IP choice: open licenses, FSL (including Student Companies), students keep ownership, and assignment (including the patent hold). Students' continued use. [E1 to E6]
+4. **Intellectual property.** Partner's background IP and third-party materials, then one complete subsection for each IP choice: open licenses, FSL (including Student Companies), students keep ownership (their rights among themselves are in the Course Agreement), and assignment (including the patent hold). Students' continued use. [E1 to E6]
 5. **Responsibility.** As-is; no warranties from students; Partner's release; the limit on liability. [E8, §7.5 open]
 6. **General.** Changes (all signers, plus the instructor's approval for choices other than Open Science), assignment, injunctions, law, signatures, and interpretation. [B5, A12, H3]
 
 ## 3. Student Guide (not binding)
 
-Plain-language explanations that the agreements don't depend on: Harvard's IP policy and OTD's informal exception, copyright and patent basics for teams, startups and licensing, and further resources. Because it isn't binding, its explanations of law (R-2, R-7) no longer need to be exact contract terms.
+Required reading: students confirm they've read it before choosing a project, so their IP choices are informed. It explains; it doesn't bind. Any rule that settles a dispute belongs in an agreement, because a guide can't compel anyone. Counsel still checks it for accuracy (R-2, R-7), and the law on AI is moving, so it is verified when drafted.
+
+1. **Copyright, including AI-generated code and documentation.** U.S. copyright requires human authorship (the Copyright Office's 2025 report; *Thaler v. Perlmutter*). Prompts alone generally aren't enough; human-written code, meaningful edits, and the selection and arrangement of AI output can be protected. Heavily AI-generated code may carry thin copyright, so licenses, contracts, and confidentiality matter more. AI output can reproduce third-party code, and each tool's terms say who owns the output.
+2. **Patents and public disclosure.** The U.S. gives inventors one year after their own disclosure to file; most other countries require absolute novelty, so any public disclosure before filing can bar a patent there. Treat course events as public. In posters and presentations, show what an invention does and its results, not how it works. File a provisional application first; it gives 12 months to file abroad.
+3. **Startups when teammates share ownership.** Where deadlocks arise (students keep ownership, or a team without a partner keeps its rights); how teammates' licenses and Student Company use work; the buyout, once decided; and why investors want exclusive rights, especially in patents, which all co-owners generally must join to enforce.
+4. **Startups on openly licensed work.** No deadlock, and the value is in later work, data, and execution. But competitors and Partner can use the same base; publishing code is a public disclosure for patents; Apache 2.0 gives everyone a patent license on each contributor's code (MIT doesn't address patents); license notices must be kept; and the project's name isn't licensed. FSL is the middle path for a team that expects to commercialize: competitors are barred for two years, then the code becomes MIT or Apache.
+5. **Harvard's IP policy** and OTD's informal exception, and further resources (from Exhibit A.DS).
 
 ## 4. Harvard approval
 
@@ -73,5 +85,10 @@ A one-time approval, kept on file, of the Course Agreement and Project Agreement
 1. **A separate Course Agreement.** It adds one signature per student per course, but states every course-wide rule once and makes it enforceable among everyone in the Course, without third-party beneficiary lists or Exhibit D's references.
 2. **Students as parties to each other in the Project Agreement,** instead of separate agreements with Partner. This settles counsel question 1 and lets teammates enforce the IP terms directly.
 3. **Three information choices instead of four.** Options 4.2 and 4.3 differ mainly in what happens if Partner gives confidential material by mistake. One "Course Private" choice could say that students delete such material when Partner asks.
-4. **Moving the explanatory parts of Exhibit A.DS into a non-binding Student Guide.**
+4. **A non-binding Student Guide that students must read** before choosing a project, holding the explanatory parts of Exhibit A.DS.
 5. **Harvard's approval on file** rather than attached to every agreement, with Course Staff signing the Course Agreement instead of Exhibit C.
+6. **The buyout terms** ("use it or lose it"), for when a teammate isn't using shared work and won't join a startup. Open points:
+    - Trigger: objective, for example not using the work commercially, personally or through a company, and declining to join within a set period after written notice.
+    - Price: your proposal is the greater of what the founders received for their own IP and 0.01% of the company's equity. An alternative is a capped payment on exit. Equity for a non-founder raises securities and tax questions.
+    - Whether the sale also ends the seller's license, keeping portfolio and other noncommercial use. Without that, the startup can't get exclusive rights.
+    - Who may trigger it, and whether it holds up (counsel). Alternatives considered: majority control (not favored) and guaranteed payment or liquidated damages.
