@@ -8,26 +8,38 @@ Three complete drafts carry the same decisions (`BRIEF.md`) in different documen
 
 | | A: Course Agreement + Project Agreement | B: Tiered short forms | C: Course master + schedules |
 | --- | --- | --- | --- |
-| **Course-level document** | Course Agreement (about 3,980 words, including the one-page form for projects without a partner), signed by every student and staff member | Course Rules (about 2,280 words), acknowledged electronically by every student and staff member | Master agreement (about 6,360 words), signed by every student and staff member, and joined by each partner |
-| **Project with a partner** | One Project Agreement: a cover page of choices (about 760 words) plus standard terms (about 3,930) | Open Science short form (about 2,310); add the Restricted Project Addendum (about 2,010) for any other choice | One Project Schedule (about 700), which the partner signs to join the master |
+| **Course-level document** | Course Agreement (about 4,960 words, including the one-page form for projects without a partner, and Harvard's approval attached as Exhibit A), signed by every student and staff member | Course Rules (about 2,280 words), acknowledged electronically by every student and staff member | Master agreement (about 6,360 words), signed by every student and staff member, and joined by each partner |
+| **Project with a partner** | One Project Agreement: a cover page of choices (about 850 words) plus standard terms (about 4,300) | Open Science short form (about 2,310); add the Restricted Project Addendum (about 2,010) for any other choice | One Project Schedule (about 700), which the partner signs to join the master |
 | **Project without a partner** | One-page Project Election, part of the Course Agreement | Team Project Form (about 790) | The same Project Schedule |
-| **What a partner reads** | The Project Agreement, plus four Course Agreement sections it agrees to | About 3,100 words if Open Science; about 5,100 otherwise | The schedule and about two-thirds of the master |
+| **What a partner reads** | The Project Agreement, plus the Course Agreement sections it agrees to (listed in its Section 1.2) | About 3,100 words if Open Science; about 5,100 otherwise | The schedule and about two-thirds of the master |
 | **What a student on a partner project signs** | Course Agreement and Project Agreement | Course Rules (click), short form, and any addendum | Master and schedule |
 | **How partners are bound to course-wide rules** | By agreeing in the Project Agreement to named Course Agreement sections; they enforce as third-party beneficiaries | The same, through the short form | Directly, as parties to the master |
 | **Changing a project's choices mid-course** | Sign a change to the cover page | Sign an addendum; nothing is re-signed | Sign a changed schedule |
 | **Main risk** | Two documents must stay in step; a large agreement signed at different times by many people | Three documents cross-reference each other; electronic assent carries IP transfers | Partners may refuse to join one agreement with other companies, possibly competitors; no negotiation or mid-term correction |
 
-All three keep the same substance: students are parties to each other; three information choices; IP as ownership plus public licenses; Open Science by default, with the instructor's approval for anything else and for every individual project; teammates' licenses with no duty to share profits, extending to a Student Company; the bracketed buyout; course-wide rules binding everyone; the five-year Confidentiality Period; and Harvard's approval on file.
+All three keep the same substance: students are parties to each other; three information choices; IP as ownership plus public licenses; Open Science by default, with the instructor's approval for anything else and for every individual project; teammates' licenses with no duty to share profits, extending to a Student Company; the bracketed buyout; course-wide rules binding everyone; the five-year Confidentiality Period; and Harvard's approval (on file in B and C; attached to the Course Agreement as Exhibit A in A, at the owner's request).
 
 ## Common fixes from the reviews
 
 The three independent reviews found the same weak points in every draft, and all were fixed:
 
-- **The buyout didn't reliably transfer anything.** It now uses present words of assignment ("hereby assigns"), takes effect on payment or tender of the price, lets the company pay cash if the teammate refuses equity, gives the company a power of attorney to sign confirming papers, requires the company to agree to be bound, and says the first notice governs. Counsel notes cover 17 U.S.C. § 204(a), 35 U.S.C. § 261, adhesion, securities, and tax.
+- **The buyout didn't reliably transfer anything.** It now uses present words of assignment ("hereby assigns"), takes effect on payment or tender of the price, lets the company pay cash if the teammate refuses equity, gives the company a power of attorney to sign confirming papers, requires the company to agree to be bound, and settles competing notices. Counsel notes cover 17 U.S.C. § 204(a), 35 U.S.C. § 261, adhesion, securities, and tax.
 - **Teammates' licenses didn't waive the co-owner's duty to share profits.** Each now says no student owes another an accounting.
 - **Student Companies couldn't enforce the terms that benefit them.** They now can.
 - **Partners weren't bound to keep other projects' Course Private Information** that they see at course events. They now are.
 - **Course Staff contributions:** a TA who contributes anyway can't use their rights against the project. In A and B they promise not to assert those rights; in C they grant a license.
+
+## Approach A after the owner's review
+
+The owner chose approach A and has edited it twice (`owner-edits/`). A second independent review followed (`reviews/approach-a-review-2.md`). Decisions made while the owner was away are listed in `owner-edits/approach-a-2026-11-06-decisions-to-confirm.md`, for the owner to confirm. Approach A now also includes:
+
+- a buyback from a Partner that doesn't use assigned work;
+- mutual protection for Partners, with carve-outs;
+- Partners that may be organizations or individuals;
+- renamed information choices ("Open", "Open and Course Private", and "Open, Course Private, and Confidential");
+- capitalized defined terms throughout.
+
+The decisions below were written for the choice among the three approaches; some are now settled for A.
 
 ## Decisions for you
 
