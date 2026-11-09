@@ -49,7 +49,7 @@ More points to know:
 - **Students own, with public licenses:** everyone may use the work under those licenses.
 - **Students own, no public license:** you may use the work for any purpose, including through your Student Company, under your teammates' licenses. Partner keeps its license. No one has exclusive rights, and the buyout can apply.
 - **Students and Partner own jointly:** you, your teammates, and Partner may each use the code for any purpose, including through a Student Company. Everyone else may use it under FSL.
-- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If, at any time from [2] years after the Course ends, neither Partner nor its licensees is using the work commercially or pursuing a patent on it (a provisional application alone counts for only 12 months), your Student Company, or a group of you planning to found one, may buy it. You must tell Partner and the project's other students, who have 30 days to say they want to buy it too. If they do, Partner chooses among the teams' proposals within [30] days, and the winning team gives each other team at least the equity it offers Partner. At a minimum, the buyer pays Partner's documented out-of-pocket costs, such as patent and outside legal fees, and offers Partner the equity a company's advisors typically get, and Partner keeps a non-exclusive license. If the buyer then stops using the work for [2] years, Partner or another student company may buy it back. Partner's own data and code are never included.
+- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If no one has used the work commercially (including internally) for [2] years, and at least [2] years have passed since the Course ended, Partner or any of the project's students, alone or through a Student Company, may offer to buy it. The notice goes to the owner, Partner, and all of the project's students, and any of them may make a proposal within 30 days. If they can't agree, a default procedure picks the buyer, and losing teams get at least the equity the winner offers the owner. The price is at least the owner's documented out-of-pocket costs, such as patent and outside legal fees, plus the equity a company's advisors typically get if the buyer is a company. Partner keeps a non-exclusive license, pending patent applications go with the work, and every later owner is bound. Partner's own data and code are never included.
 - **In every case:** Partner's own data and code stay Partner's. You may use them only for the project during the Course, apart from the demo data described under "Showing your work."
 
 The agreements say that no teammate owes another a share of profits from using the work.
@@ -73,7 +73,7 @@ These rules bind every student and every member of the Course Staff, and protect
 - **Others' confidential information.** Don't share, or use in a project, anyone else's confidential information, such as a current or former employer's. Code you wrote for a job usually belongs to your employer, so don't reuse it without permission. Your employment agreement may also cover work you do outside your job.
 - **Generative AI.** Use your Harvard accounts and Harvard's tools by default. A partner's restricted information may go only into tools that partner approves in writing or by email. Read each tool's terms on who owns its output and how it uses your inputs.
 - **Course Staff** contribute no IP, and share no grades or other education records with partners unless you ask in writing. They see a project's Confidential Information only by signing its agreement. No student may be a project's partner[ without Harvard's approval], and no instructor without Harvard's consent. Any other member of the Course Staff may be one only if they don't evaluate that project's work or see its students' grades.
-- **Notices.** Notices under the agreements, including buyout and purchase notices, go to your Harvard and personal emails, with a text or voicemail. A notice can count even if you don't answer it, once it has been repeated and a text or voicemail has reached your phone. Keep your personal email and phone current with your project's other signers (including any partner) and any system the Course provides for the agreements, and, during the Course, with the Course Staff.
+- **Notices.** Notices under the agreements, including buyout and purchase notices, go to your Harvard and personal emails, with a text or voicemail. Each notice is sent three times, about a week apart, unless you acknowledge it sooner. It counts from the day it was first sent, even if you don't answer, once a text or voicemail has reached your phone. Keep your personal email and phone current with your project's other signers (including any partner) and any system the Course provides for the agreements, and, during the Course, with the Course Staff.
 - **How long.** Confidentiality duties, including for other projects' information, last five years after your End Date (the Confidentiality Period). Your End Date is the end of the Course, or the day you stop taking part, if earlier. Trade secrets stay protected while they remain trade secrets.
 
 ## Copyright
@@ -157,21 +157,15 @@ Whenever students own or co-own the work, with or without a partner, the agreeme
 
 ### The buyout ("use it or lose it")
 
-The buyout applies only where students own work with no public license. It doesn't apply under joint ownership with FSL, or when Partner owns.
+The buyout applies only where students own work with no public license. It doesn't apply to FSL software, or to work Partner owns.
 
-1. After a teammate leaves the project or the Course ends, a Student Company that is actively developing the work may give that teammate written notice, if the teammate isn't using the work commercially, personally or through a company.
-2. If the teammate and the company both agree, the teammate may join the company within [60] days, on the same terms as its other student founders.
-3. If not, all of the teammate's rights in the work pass to the company for a price, once it pays or promises in writing to pay, and promises to keep the teammate's commitments, such as confidentiality. If the teammate doesn't sign the papers to record this within [15] business days, the company may sign them in the teammate's name.
-4. If more than one Student Company gives notice, the teammate chooses one within [60] days after the last notice. If they don't, the first notice they received has effect.
+1. After a teammate leaves the project or the Course ends, a Student Company that is actively developing the work may buy out that teammate's rights, if the teammate isn't using the work commercially, personally or through a company. Starting to use it after the notice doesn't stop the buyout.
+2. If both agree, the teammate may join the company instead.
+3. Otherwise, the company must offer fully vested equity at least equal to the greater of what each founding student got for their own rights in the work and what its initial part-time advisors get. Its notice shows those grants. The teammate has 30 days to decide, and gets cash at fair market value if they refuse the equity.
+4. The teammate's rights pass to the company when it tenders the price, once it has promised to keep the teammate's commitments, such as confidentiality. The teammate keeps the right to describe and show their own contribution in a portfolio or academic setting, without distributing it. A dispute about the price is only a claim for money. If the teammate doesn't sign the papers to record the transfer within [15] business days, the company may sign them in the teammate's name.
+5. The buyout works only while one group of teammates is developing the work. If two or more groups are, no one may use it, and each keeps its license.
 
-The price will be one of these two alternatives, chosen before the agreements are used:
-
-- **[Alternative 1]** The greater of (a) what each founding student received for assigning their own rights in the work to the company, and (b) [0.01]% of the company's fully diluted equity.
-- **[Alternative 2]** [__]% of the proceeds of any sale of the company, or of substantially all its assets, up to $[__], paid at the sale.
-
-It is also still open [whether the sale ends the seller's license]. If it does, the seller may still use the work for portfolio, academic, and other noncommercial purposes. If it doesn't, the seller keeps their license, so the company's rights stay non-exclusive.
-
-> **Note for counsel:** update this section to match the final terms. The agreements' own notes cover enforceability, securities, and tax.
+> **Note for counsel:** the agreements' own notes cover enforceability, securities, and tax.
 
 ### Why investors want exclusive rights
 

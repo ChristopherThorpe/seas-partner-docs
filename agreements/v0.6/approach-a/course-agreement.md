@@ -78,23 +78,25 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 **5.4 Separate companies and later work.** If Teammates start separate companies, each company keeps its license. Course work stays non-exclusive, except under Section 5.5. What a student or Student Company creates after the student's End Date is its own.
 
-**5.5 Buyout ("use it or lose it").**
+**5.5 Buyout of an inactive co-owner.**
 
-(a) This Section 5.5 applies only to Project Work Product that a team's students own and that has no public license. It does not apply to any Project Work Product of a project whose Project Terms choose an FSL license or Partner ownership.
+(a) This Section applies to Project Work Product that a team's students own and that has no public license. It does not apply to work under an FSL license or work a Partner owns.
 
-(b) After a Teammate's End Date, a Student Company of one or more of the team's students may give the Teammate written notice it wishes to buy out that Teammate's rights in the Project Work Product. It may do so only if it is actively developing the work and the Teammate is not then using it commercially, personally or through a company. The notice must describe the company and the terms on which its student founders hold their equity, and give an email address for notices to the company.
+(b) After a Teammate's End Date, a Student Company of one or more of the team's students that is actively developing the work may buy out that Teammate's rights in it. It may do so if, on the date of its notice, the Teammate is not using the work commercially, personally or through a company. Starting to use the work after the notice does not stop the buyout.
 
-(c) If the Teammate and the company mutually consent, the Teammate may join the company on the same terms as its other student founders, by written notice within [60] days after receiving the notice.
+(c) If both agree, the Teammate may join the company instead.
 
-(d) If the Teammate does not join, the Teammate must assign all of their rights in the work to the company for the price in paragraph (e). The Teammate hereby makes that assignment, effective when the company pays or tenders the price or, for a price payable later, gives the Teammate its signed written promise to pay it. The assignment does not take effect until the company has also promised in writing to keep the commitments about the work that the Teammate had under this Section 5 and the project's Project Terms, such as the Partner's license and confidentiality. If the price includes equity and the Teammate does not accept it within 30 days after a written offer, the company may instead pay its fair market value in cash. The Teammate must sign documents reasonably needed to record the assignment, at the company's expense. If the Teammate does not sign them within [15] business days after the company's written request, the Teammate hereby appoints the company as their attorney-in-fact, coupled with an interest, to sign them in the Teammate's name.
+(d) The company must offer the Teammate fully vested equity at least equal to the greater of (1) what each founding student received for their own rights in the work, and (2) what the company's initial advisors who don't work for it full time receive. Neither amount counts equity that vests as a founder works for the company. The company and the Teammate may agree on any other amount or form.
 
-(e) The price is [Alternative 1: the greater of (1) what each founding student received for assigning their own rights in the work to the company and (2) [0.01]% of the company's fully diluted equity] [Alternative 2: [number]% of the proceeds of any sale of the company or of substantially all its assets, up to $[amount], paid at the sale].
+(e) The Teammate hereby assigns all of their rights in the work to the company, effective when the company tenders the price under Exhibit B. The assignment takes effect only if the company has first promised in writing to keep the Teammate's commitments about the work, such as the Partner's license and confidentiality. It ends the Teammate's rights in the work, except the right to describe and show their own contribution in a portfolio or academic setting, without distributing it.
 
-(f) [The assignment ends the Teammate's license under Section 5.3 to the work, except for portfolio, academic, and other noncommercial use.]
+(f) A dispute about the price does not delay the assignment. It is a claim for the difference only.
 
-(g) If more than one Student Company gives notice to the same Teammate, the Teammate may choose their preferred terms by written notice to those companies within [60] days after receiving the last notice. The other notices then have no effect. If the Teammate does not choose in time, only the first notice the Teammate received has effect.
+(g) A buyout is possible only while one group of the team's students is actively developing the work. If two or more groups are, there is no exclusivity to gain, so no one may use this Section, and each group keeps its license under Section 5.3 unless they agree otherwise.
 
-> **Note for counsel:** Choose one price alternative, and whether to keep paragraph (f), before use. Without paragraph (f), the company cannot get exclusive rights. Please confirm that the buyout is enforceable against a Teammate who will not sign anything, including whether the present assignment satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261 when the transferee does not yet exist, and whether the power of attorney is enforceable. Please also advise whether the buyout is enforceable against a student who had to sign this agreement to take the Course, and on the securities and tax treatment of equity or sale proceeds for a Teammate who does not join.
+(h) Exhibit B sets out the default process: what the notice must contain and show (including the founding students' and initial advisors' grants), the Teammate's 30 days to decide, cash at fair market value if the Teammate refuses equity, and signing recording papers for a Teammate who won't.
+
+> **Note for counsel:** Please confirm that this buyout is enforceable, including whether the present assignment in paragraph (e) satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261 when the company may not yet exist, whether the power of attorney in Exhibit B is enforceable, and whether the buyout binds a student who had to sign this agreement to take the Course. Please also advise on the securities and tax treatment of the equity in paragraph (d).
 
 **5.6 Copies and credit.**
 
@@ -104,27 +106,19 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (c) Paragraph (b) does not apply to coursework, class presentations, posters, videos, or other private academic uses. During the Duration, all of a project's students together and, for a project with a Partner, at least one of its Partner Contacts may change the project's credit process, including under its Project Agreement. They may do so in writing, including by email.
 
-**5.7 Right to purchase from a Partner.**
+**5.7 Right to purchase unused work.**
 
-(a) This Section 5.7 applies to Project Work Product that a Partner owns outright under its Project Agreement's "Partner owns" choice ("the work" in this Section). It never covers the Partner's own data, software, models, or other materials, or any other Partner Background IP as defined in the Project Agreement. "The Partner" includes any later owner of the work.
+(a) This Section applies to Project Work Product that a Partner owns outright under its Project Agreement's "Partner owns" choice, and binds every later owner of it. It never covers Partner Background IP as defined in the Project Agreement.
 
-(b) At any time from [2] years after the end of the Duration, a Student Company of one or more of the project's students, or a group of one or more of the project's students who prospectively would found a Student Company, has the right to purchase the work from the Partner. The right applies only if, on the date of their notice under paragraph (c), neither the Partner nor any of its licensees is using the work commercially or pursuing a patent on it. A provisional patent application alone counts as pursuing a patent for no more than 12 months after it is filed.
+(b) At any time from [2] years after the end of the Duration, the project's Partner, or any of its students, alone or through an existing or prospective Student Company, may give notice that it wishes to purchase the work. It may do so only if no one has used the work commercially during the previous [2] years. Use in any product, service, or business operation, including internal use, is commercial use. A patent application, provisional or not, is not use.
 
-(c) They must notify the Partner and all other students on the project that they intend to exercise this right, giving an email address for notices to them. Any other students on the project have 30 days to indicate, by notice to the Partner and all other students on the project, that they also wish to purchase the work from the Partner. Each group that gives notice under this paragraph is a "**Buying Team**".
+(c) The notice goes to the owner, the Partner, and all of the project's students. Any of them may submit a proposal within 30 days. If they do not agree, the default procedure in Part 1 of Exhibit B applies.
 
-(d) If no other students respond within those 30 days, the notifying Buying Team may purchase the work on the conditions in paragraph (f).
+(d) The buyer must pay the owner at least its documented out-of-pocket costs for the work, such as patent filing and outside legal fees, and, if the buyer is a company, give the owner equity not less than that typically granted to the company's advisors.
 
-(e) If other students respond within those 30 days, the Partner must solicit proposals from the Buying Teams about how they intend to use the work and the compensation they intend to provide the Partner. Based in part on those proposals, the Partner must select the successful Buying Team in its sole discretion, within [30] days after those 30 days end. The successful Buying Team must grant each unsuccessful Buying Team at least the advisor equity it offers the Partner, whether or not the Partner accepts it.
+(e) Pending patent applications transfer with the work. If the owner is the Partner, it keeps a perpetual, non-exclusive, royalty-free license to use and exploit the work for any purpose, transferable only with its business. The purchase is subject to non-exclusive licenses granted before the notice.
 
-(f) The only conditions to the proposals are that the Student Company receives ownership of the work, the Partner retains a license, and the Buying Team agrees to (1) pay the Partner at least its documented out-of-pocket costs for the work, such as patent filing and outside legal fees, within a reasonable timeframe and (2) offer the Partner an amount of equity not less than the amount of equity typically granted to advisors to the Student Company. The Partner's license is perpetual, non-exclusive, and royalty-free, lets it use and exploit the work for any purpose, and is transferable only with its business. The purchase is subject to any non-exclusive licenses the Partner granted before the first notice.
-
-(g) Within 30 days after receiving the first notice under paragraph (c), the Partner must give each Buying Team a written statement of those documented costs. The Partner and the purchasing Buying Team's Student Company must then enter into a binding written agreement governing their rights and obligations. Within 30 days after that Student Company signs its agreement to the conditions in paragraph (f), the Partner must sign an assignment of the work to it, keeping the Partner's license.
-
-(h) If that Student Company does not complete the purchase, such as by not paying the costs, or stops using the work commercially for [2] years, the Partner or another Student Company of the project's students has a right to purchase the work from it. This Section 5.7 then applies with that Student Company in the Partner's place.
-
-(i) This Section 5.7 may be enforced against the Partner, or against a Buying Team and its Student Company, as the case may be. The purchase gives no right to use or disclose Partner Information, as defined in the Project Agreement, that the Project Agreement restricts.
-
-> **Note for counsel:** Each Partner agrees to this Section 5.7, and to limits on transferring the work, in Project Agreement Sections 1.2 and 4.5(g). Please confirm that this right to purchase is enforceable against a Partner and any later owner, and against a Buying Team and its Student Company, and advise how the assignment should be recorded. Please advise whether "the amount of equity typically granted to advisors" is a workable standard, and on the securities and tax treatment of the equity granted to the Partner and to unsuccessful Buying Teams. Please also advise how much of the process for competing Buying Teams in paragraphs (c) to (h) helps, and how much gets in the way, beyond requiring the parties to enter into a good-faith agreement.
+> **Note for counsel:** Each Partner agrees to this Section and Exhibit B, and to limits on transferring the work, in Project Agreement Sections 1.2 and 4.5(g). Please confirm that they bind a Partner and every later owner, and advise how the assignment should be recorded, whether "equity typically granted to advisors" is a workable standard, and the securities and tax treatment of that equity. Please also advise how much of Exhibit B helps, beyond requiring the parties to negotiate in good faith.
 
 ## 6. Projects without a Partner
 
@@ -176,7 +170,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (c) Nothing in this agreement or any Project Terms prohibits reporting a possible violation of law to a government agency, or any other disclosure the law protects. Under 18 U.S.C. § 1833(b), an individual is not liable under any federal or state trade secret law for disclosing a trade secret in confidence to a government official or a lawyer, solely to report or investigate a suspected violation of law. The same applies to a disclosure in a document filed under seal in a lawsuit or other proceeding.
 
-**8.3 Enforcement.** Signers, including Teammates, may enforce this agreement against each other directly. Each Partner of a project in the Course may enforce Sections 3 and 4.3 as they protect that Partner's information, Sections 2.3 and 4.1 as they apply to that Partner's project, and Sections 5.7 and 7.5. A Student Company may enforce Sections 5.3 to 5.5, 5.7, and 6.4 as they benefit it. Harvard may enforce Sections 7.2 and 7.4. No one else has rights under this agreement, apart from rights under a public license granted under Section 6.3 or 6.4. A breach of Section 3 or 5 may cause irreparable harm, so anyone entitled to enforce it may seek an injunction. Each Signer is responsible only for their own acts.
+**8.3 Enforcement.** Signers, including Teammates, may enforce this agreement against each other directly. Each Partner of a project in the Course may enforce Sections 3 and 4.3 as they protect that Partner's information, and Sections 2.3 and 4.1 as they apply to that Partner's project. It may also enforce Sections 5.7 and 7.5, and Exhibit B. A Student Company may enforce Sections 5.3 to 5.5, 5.7, and 6.4, and Exhibit B, as they benefit it. Harvard may enforce Sections 7.2 and 7.4. No one else has rights under this agreement, apart from rights under a public license granted under Section 6.3 or 6.4. A breach of Section 3 or 5 may cause irreparable harm, so anyone entitled to enforce it may seek an injunction. Each Signer is responsible only for their own acts.
 
 **8.4 Law, signatures, and interpretation.** Massachusetts law governs this agreement, without regard to conflict-of-laws rules, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, including through Adobe Acrobat Sign, and counterparts together form one agreement. Each Signer confirms that they have reached the age of majority, have read this agreement, have had the chance to ask questions and consult advisors, and sign voluntarily. This agreement may be changed only in a writing signed by every Signer, and no Signer may assign it. A reference to all, or a majority, of a project's students means the students on that project, not every student in the Course, and a project's "current" students are those still taking part in it or, after the Duration, all of the project's students. "Including" means "including without limitation". An unenforceable term is enforced as far as the law allows, and the rest stays in effect.
 
@@ -188,21 +182,17 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 (b) *Channels.* A notice to any of them under this agreement or any Project Terms must go to both email addresses, with a text message or voicemail to the telephone number, each asking them to acknowledge it. The sender uses the details most recently given under this Section.
 
-(c) *Notices that start a period.* A notice that starts a period for a response, including a written offer or request that does, counts as given and received on the date it is first sent, if the sender repeats it about every [14] days until it is acknowledged or the period ends.
+(c) *Three tries.* Each notice, including a written offer or request that starts a period for a response, is sent three times, about [7] days apart, unless it is acknowledged earlier. It counts as given and received on the date it is first sent, provided the sender completes the tries or receives an acknowledgment.
 
-(d) *Notices that start no period.* Any other notice counts once it is acknowledged, or once it has been sent three times, about [7] days apart, to every channel.
+(d) *Delivery to the telephone.* A notice that has not been acknowledged does not count until a text message or voicemail has been delivered to that telephone number.
 
-(e) *Fast notices.* These count once sent to both email addresses with a text message or voicemail delivered: a notice sent before the recipient's End Date; and a Partner's notice identifying information given by mistake (Project Agreement Section 2.2(d)) or delaying a publication to file a patent (Project Agreement Section 4.5(f)).
+(e) *Updates.* Each of them must report any change of personal email address or telephone number to the other signers of their own project's Project Terms, including its Partner, and to any system the Course provides for managing these agreements. During the Duration, they must also report it to the Course Staff.
 
-(f) *Delivery to the telephone.* In every case, a notice that has not been acknowledged does not count until a text message or voicemail has been delivered to that telephone number.
-
-(g) *Updates.* Each of them must report any change of personal email address or telephone number to the other signers of their own project's Project Terms, including its Partner, and to any system the Course provides for managing these agreements. During the Duration, they must also report it to the Course Staff.
-
-(h) *Partners and Student Companies.* A notice to a Partner, including an individual Partner, goes where Project Agreement Section 6.2 provides: to its Partner Contacts and its general email address, or to an individual Partner's own contact details. A notice to a Student Company goes to the email address it gave in its notice, agreement, or promise under Section 5.5 or 5.7, with a copy to its founders who are students on the project.
+(f) *Partners and Student Companies.* A notice to a Partner, including an individual Partner, goes where Project Agreement Section 6.2 provides: to its Partner Contacts and its general email address, or to an individual Partner's own contact details. A notice to a Student Company goes to the email address it gave in its notice, proposal, agreement, or promise under Section 5.5, Section 5.7, or Exhibit B, with a copy to its founders who are students on the project.
 
 ## Signature roster
 
-By signing below, each Signer agrees to this Course Agreement, version [0.6], for the Course named in the course details, with every other Signer, whenever each signs, including the licenses and assignments in Sections 2.3, 5, and 6. Each Signer may sign a separate copy of this roster. The Course Staff keep the signed roster with this agreement and Exhibit A, and every later Signer must sign the same version. Repeat the entry below for each Signer.
+By signing below, each Signer agrees to this Course Agreement, version [0.6], for the Course named in the course details, with every other Signer, whenever each signs, including the licenses and assignments in Sections 2.3, 5, and 6 and Exhibit B. Each Signer may sign a separate copy of this roster. The Course Staff keep the signed roster with this agreement and Exhibit A, and every later Signer must sign the same version. Repeat the entry below for each Signer.
 
 **Signer** \
 Name: ______________________________ \
@@ -280,3 +270,26 @@ Signature: ______________________________ Date: ______________
 ## Exhibit A: Harvard's approval
 
 A copy of Harvard's signed approval of the forms of this agreement and the Project Agreement, for courses that include the Course, is attached here.
+
+## Exhibit B: Default procedures
+
+This Exhibit B is part of the Course Agreement. Its procedures are defaults: the people involved may change them for their case by written agreement. Notices follow Section 8.5.
+
+### Part 1: Purchase of unused work (Section 5.7)
+
+1. Each notice or proposal under Section 5.7 gives an email address for replies, and goes to the owner, the Partner, and all of the project's students.
+2. Anyone entitled to buy may submit a proposal within 30 days after the first notice.
+3. If only one person or group has given notice or a proposal when those 30 days end, they may buy the work at the floor in Section 5.7(d).
+4. If more than one has, the owner solicits proposals from each about how they intend to use the work and what they will pay. Within [30] days after those 30 days end, the owner selects one in its sole discretion, based in part on the proposals. The successful buyer must grant each unsuccessful group of students at least the equity it offers the owner, whether or not the owner accepts it.
+5. Within 30 days after the first notice, the owner gives each person or group that has come forward a written statement of its documented out-of-pocket costs for the work.
+6. The owner and the buyer, or the buyer's company, then enter into a binding written agreement on the purchase. Within 30 days after the buyer or its company signs, the owner signs an assignment of the work, including any pending patent applications, keeping any license that Section 5.7(e) reserves.
+7. The owner, and each buyer and its company, may enforce this Part against each other.
+8. The purchase gives no right to use or disclose Partner Information, as defined in the Project Agreement, that the Project Agreement restricts.
+
+### Part 2: Buyout of an inactive co-owner (Section 5.5)
+
+1. The company's notice to the Teammate describes the company and its offer under Section 5.5(d), shows the equity granted to its founding students and its initial advisors, and gives an email address for replies.
+2. The Teammate has 30 days after the notice to accept the offer, to agree with the company to join it under Section 5.5(c), or to refuse.
+3. If the Teammate refuses the equity, or does not accept it within those 30 days, the company tenders cash equal to the equity's fair market value instead. Tendering the equity or that cash is tendering the price under Section 5.5(e).
+4. The Teammate must sign documents reasonably needed to record the assignment, at the company's expense. If the Teammate does not sign them within [15] business days after the company's written request, the Teammate hereby appoints the company as their attorney-in-fact, coupled with an interest, to sign them in the Teammate's name.
+
