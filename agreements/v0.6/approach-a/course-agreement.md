@@ -176,7 +176,7 @@ No student in the Course may be or control a Partner[ without Harvard's written 
 
 (a) Each student and member of the Course Staff who signs this agreement or any Project Terms must give an email address ending in harvard.edu, a personal email address, and a personal telephone number (mobile preferred).
 
-(b) Notices to them go to both email addresses, with a text message or voicemail to the telephone number, each asking for acknowledgment, using the details most recently given under this Section.
+(b) A notice to any of them must go to both email addresses, with a text message or voicemail to the telephone number, each asking them to acknowledge it. The sender uses the details most recently given under this Section.
 
 (c) Each notice, including a written offer or request that starts a period for a response, is sent three times, about [7] days apart, unless acknowledged earlier. It counts as given and received on the date first sent, if the sender completes the tries or receives an acknowledgment.
 
