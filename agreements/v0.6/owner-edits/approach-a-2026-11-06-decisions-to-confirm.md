@@ -108,3 +108,21 @@ All the review's MECHANICAL findings are applied as proposed. The top-level comp
 
 - **R12 (owner):** Partners must also give a generic email address for the Partner itself, not tied to a specific person (for example, an office or legal mailbox). Notices to a Partner go to its Partner Contacts and to that address. An individual Partner gives their own contact details instead.
 - **R13 (owner):** Partner Contacts, like students, must give a telephone number. Students already do (roster, Project Election, and Project Agreement signature and joinder blocks). Each Partner Contact line on the Project Agreement cover page gets a "Telephone (mobile preferred)" field. How notices to a Partner are sent doesn't change: email to its Partner Contacts and its general address (R12).
+
+## Round 3: simplifying the right to purchase (owner, November 9)
+
+- **R14 ✅ Notices.** Every notice gets three tries, about [7] days apart, unless acknowledged earlier. A notice counts as given on the date first sent, provided the sender completes the tries or receives an acknowledgment, so deadlines don't slip. An unacknowledged notice still doesn't count until a text or voicemail is delivered. This drops the split between notices that start a period and those that don't, and the fast exceptions.
+- **R15 ✅ Patents.**
+    - Non-use is the only trigger. A patent application, provisional or not, doesn't block the right to purchase unless the work is being used.
+    - Pending applications transfer with the work. Assigning a pending application doesn't invalidate it.
+    - "Commercial use" means use in any product, service, or business operation, including internal use.
+- **R16 ✅ Structure.**
+    - CA 5.7 becomes a short "Right to purchase unused work", which applies to any single outright owner (at first, the Partner).
+    - **Trigger:** no commercial use by anyone during the previous [2] years, starting no earlier than [2] years after the end of the Duration.
+    - **Who may buy:** the project's Partner, or any of its students, alone or through an existing or prospective Student Company.
+    - **Notice:** to the owner, the Partner, and all of the project's students; any of them may submit a proposal within 30 days.
+    - **If no agreement:** the default procedure in a new **Exhibit B** to the Course Agreement applies.
+    - **Price floor:** the owner's documented out-of-pocket costs, plus equity not less than typically granted to advisors when the buyer is a company.
+    - **Later owners:** every later owner is bound.
+    - **Exhibit B:** holds the competing-proposals process, the selection, the closing steps, and the equity for losing teams.
+- **Open: CA 5.5 (teammate buyout).** Whether to restructure it in the same way is under discussion with the owner. Don't implement R14 to R16 until 5.5 is settled.
