@@ -469,3 +469,4 @@ The owner decided the trimming pass wasn't worth its risk. The agreements are ba
 - **CA 8.5(d):** a text to any one Partner Contact's number is enough, and a recipient who didn't report a change can't stall a notice (R31).
 - **CA 6.1:** an unnamed "Other license" counts as blank. **CA 3.1:** "Reasonable Care" is defined where it is first used (R32).
 - **CA 3.1 (owner, R34):** the definition of Reasonable Care is generalized, so it also fits CA 3.2 and PA 2.3(b).
+- **CA 2.1, 6.3, 5.8, and PA cover page and 4.3(e) (owner, R36 and R37):** Open Science may use a CC0 public domain dedication, and every license a student grants is irrevocable.

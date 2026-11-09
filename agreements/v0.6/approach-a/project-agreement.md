@@ -42,6 +42,7 @@ The following "**Partner Contacts**" act for Partner on the Project (Section 6.1
 **Software license if Students own** (check one, or check MIT and Apache 2.0 together to offer both): \
 ☐ MIT License (default; Open Science) \
 ☐ Apache License 2.0 (Open Science) \
+☐ CC0 1.0 public domain dedication (Open Science) \
 ☐ None (no public license) \
 ☐ Other license (name it): ______________________________
 
@@ -52,6 +53,7 @@ The following "**Partner Contacts**" act for Partner on the Project (Section 6.1
 **License for all other Project Work Product if Students own or own jointly** (check one): \
 ☐ CC BY 4.0 (default; Open Science) \
 ☐ CC BY-SA 4.0 (Open Science) \
+☐ CC0 1.0 public domain dedication (Open Science) \
 ☐ None (no public license) \
 ☐ Other license (name it): ______________________________
 
@@ -224,7 +226,7 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 (d) Each student Signer licenses their rights in Other Work Product, to everyone who receives a copy, under the license chosen on the cover page: CC BY 4.0, CC BY-SA 4.0, or the other license named there.
 
-(e) If "None" is chosen for a category, that category has no public license.
+(e) If "None" is chosen for a category, that category has no public license. If CC0 is chosen, each student Signer instead dedicates their rights in that category to the public domain under CC0, as far as the law allows, and the Partner License still covers any rights CC0 does not waive, such as patent rights.
 
 (f) The student Signers' rights among themselves, including Teammates' licenses, Student Companies, and the buyout of a Teammate's share in work with no public license, are in Course Agreement Section 5. Any transfer under that Section remains subject to the Partner License and any public license.
 

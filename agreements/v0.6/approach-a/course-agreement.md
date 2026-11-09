@@ -36,7 +36,7 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 ## 2. Open Science and choosing a project
 
-**2.1 Open Science.** The Course's baseline is Open Science. A project is "**Open Science**" if (a) no information about it is restricted (the "Open" information choice); (b) its students own their work; (c) its software is licensed under the MIT License, the Apache License 2.0, or both; and (d) its other Project Work Product is licensed under Creative Commons Attribution 4.0 International ("**CC BY 4.0**") or Creative Commons Attribution-ShareAlike 4.0 International ("**CC BY-SA 4.0**"). Other choices include the Functional Source License, Version 1.1 ("**FSL**"), as FSL-1.1-MIT or FSL-1.1-ALv2, with the MIT License or the Apache License 2.0, respectively, as its future license. Any other choice, and any individual project, needs the Course instructor's approval in writing (email is enough), at signing and for any later change. The instructor does not sign.
+**2.1 Open Science.** The Course's baseline is Open Science. A project is "**Open Science**" if (a) no information about it is restricted (the "Open" information choice); (b) its students own their work, or have dedicated it to the public domain under Creative Commons CC0 1.0 Universal ("**CC0**"); (c) its software is licensed under the MIT License, the Apache License 2.0, or both, or dedicated to the public domain under CC0; and (d) its other Project Work Product is licensed under Creative Commons Attribution 4.0 International ("**CC BY 4.0**") or Creative Commons Attribution-ShareAlike 4.0 International ("**CC BY-SA 4.0**"), or dedicated to the public domain under CC0. Other choices include the Functional Source License, Version 1.1 ("**FSL**"), as FSL-1.1-MIT or FSL-1.1-ALv2, with the MIT License or the Apache License 2.0, respectively, as its future license. Any other choice, and any individual project, needs the Course instructor's approval in writing (email is enough), at signing and for any later change. The instructor does not sign.
 
 **2.2 Choosing a project.** At a student's request, the Course Staff must assign the student to an Open Science project. A student may do a project without a Partner if the Course instructor permits it. A student must sign a project's Project Terms before receiving its information or starting material work on it.
 
@@ -122,13 +122,15 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 > **Note for counsel:** Each Partner agrees to this Section, including its limits on transfers, and to Exhibit B, in Project Agreement Sections 1.2 and 4.5(g). Please confirm that they bind a Partner and every later owner, and advise how the assignment should be recorded, whether "equity typically granted to advisors" is a workable standard, and the securities and tax treatment of that equity. Please also advise how much of Exhibit B helps, beyond requiring the parties to negotiate in good faith.
 
+**5.8 Licenses can't be revoked.** Every license a student grants under this agreement or any Project Terms, including a public license, a Partner License under a Project Agreement, and a Teammate license, is perpetual and irrevocable, and so is any dedication to the public domain under CC0. A student must not try to revoke any of them. This does not change how a Teammate license ends under Sections 5.1 and 5.5.
+
 ## 6. Projects without a Partner
 
 **6.1 Project Election.** All students on a project without a Partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project[, unless Section 2.4(b) applies], and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), an "Other license" that is not named, or a team-only choice on an individual project gives way to the default.
 
 **6.2 Information.** Under "Open" (the default), nothing about the project is restricted. Under "Open and Course Private", what the students share about the project with classmates and the Course Staff is Course Private Information, unless they mark it Open. That choice binds other Signers, not the project's own students. Under "Open and Course Private", the public licenses in Sections 6.3 and 6.4 apply to a copy only once one of the project's students releases it outside the Course Community.
 
-**6.3 Licenses.** Each student licenses their rights in the project's software, to everyone who receives a copy, under the MIT License (the default), the Apache License 2.0, both (each recipient chooses), or another named license. Each student licenses their rights in other Project Work Product, in the same way, under CC BY 4.0 (the default), CC BY-SA 4.0, or another named license. A category marked "None" has no public license. An individual student who marks "None" for both keeps all rights. A team that marks "None" for a category keeps its rights in it, subject to Section 5.
+**6.3 Licenses.** Each student licenses their rights in the project's software, to everyone who receives a copy, under the MIT License (the default), the Apache License 2.0, both (each recipient chooses), or another named license, or dedicates them to the public domain under CC0. Each student licenses their rights in other Project Work Product, in the same way, under CC BY 4.0 (the default), CC BY-SA 4.0, or another named license, or dedicates them to the public domain under CC0. A category marked "None" has no public license. An individual student who marks "None" for both keeps all rights. A team that marks "None" for a category keeps its rights in it, subject to Section 5.
 
 **6.4 FSL (team projects only).** If the students choose FSL-1.1-MIT or FSL-1.1-ALv2 for the project's software, these terms apply.
 
@@ -220,6 +222,7 @@ Project type (check one): ☐ Individual project ☐ Team project
 **Software license** (check one, or check MIT and Apache 2.0 together to offer both): \
 ☐ MIT License (default; Open Science) \
 ☐ Apache License 2.0 (Open Science) \
+☐ CC0 1.0 public domain dedication (Open Science) \
 ☐ None (no public license) \
 ☐ Other license (name it): ______________________________ \
 ☐ FSL-1.1-MIT (team projects only) \
@@ -228,6 +231,7 @@ Project type (check one): ☐ Individual project ☐ Team project
 **License for all other Project Work Product** (check one): \
 ☐ CC BY 4.0 (default; Open Science) \
 ☐ CC BY-SA 4.0 (Open Science) \
+☐ CC0 1.0 public domain dedication (Open Science) \
 ☐ None (no public license) \
 ☐ Other license (name it): ______________________________
 

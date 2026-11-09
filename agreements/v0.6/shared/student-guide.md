@@ -10,7 +10,7 @@ This guide explains the agreements, but it doesn't bind anyone, and it isn't leg
 
 Each project makes one information choice and one ownership choice. Unless Partner owns, it also picks a license for software, and one for everything else (documentation, reports, data, and media). If a choice is blank, or more than one is checked (other than MIT and Apache 2.0 together), the default applies.
 
-**Open Science** is the default. It combines Open information, student ownership, MIT and/or Apache 2.0 for software, and CC BY 4.0 or CC BY-SA 4.0 for everything else. Any other choice needs the instructor's approval in writing (email is enough), at signing and for any later change. A partner certifies that approval on the project's form.
+**Open Science** is the default. It combines Open information, student ownership (or a public domain dedication under CC0), MIT and/or Apache 2.0 for software, and CC BY 4.0 or CC BY-SA 4.0 for everything else. Every license you grant under the agreements is irrevocable. Any other choice needs the instructor's approval in writing (email is enough), at signing and for any later change. A partner certifies that approval on the project's form.
 
 | Choice | What it means for you | Open Science? ("No" needs the instructor's approval) |
 | --- | --- | --- |
@@ -26,11 +26,13 @@ Each project makes one information choice and one ownership choice. Unless Partn
 | MIT (default) | Anyone may use, change, and sell the code if they keep its notice. It says nothing about patents. | Yes |
 | Apache 2.0 | Like MIT, plus a patent license from each contributor. | Yes |
 | MIT and Apache 2.0 | Each recipient picks one. | Yes |
+| CC0 (public domain) | You give up your copyright as far as the law allows. It doesn't waive patent rights. | Yes |
 | None, or Other (named) | No public license, or the named one. With none, the buyout can apply. | No |
 | FSL-1.1-MIT or FSL-1.1-ALv2 | Only with joint ownership, which requires it. No competing commercial use for two years, then MIT or Apache 2.0. | No |
 | **Everything else** (unless Partner owns) | | |
 | CC BY 4.0 (default) | Anyone may reuse and adapt the work if they credit you. | Yes |
 | CC BY-SA 4.0 | Like CC BY 4.0, but anyone who shares an adaptation must use CC BY-SA or a compatible license. | Yes |
+| CC0 (public domain) | Anyone may use the work for anything, with no credit required. | Yes |
 | None, or Other (named) | No public license, or the named one. With none, the buyout can apply. | No |
 
 More points to know:
