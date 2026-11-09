@@ -177,3 +177,17 @@ All the review's MECHANICAL findings are applied as proposed. The top-level comp
 ## Confirmation (owner, November 9)
 
 - **Confirmed:** every remaining best guess, R5 to R11 and R20 to R26. Every decision in this file is now settled.
+
+## Round 5: the trimming pass (`reviews/approach-a-review-5.md`)
+
+The trimming pass was meant to change no rule. The review found about fifteen places where it did. The decisions below, my best guesses, keep that promise. Please confirm.
+
+| # | Decision | Why |
+| --- | --- | --- |
+| R27 | **Restore the earlier wording** wherever the trim changed a rule. This covers all of the review's MECHANICAL findings: commercial use in CA 5.1; the Project Work Product list in CA 1.2; private academic uses in PA 3.1; "only if … during the [2] years before the notice" in CA 5.7(b); credit in CA 5.6(b); Partner's contact duty in PA 6.1; "delivered to the telephone number given" in CA 8.5(d); showing at events in CA 3.2; demo videos in PA 3.5; the capstone comma in CA 6.1; sponsorship in PA 1.3; "that member" in CA 7.4; and the wording slips. | A trim must not change rules. |
+| R28 | **Restore the instructor's-approval sentences** in PA 6.3 and 6.7, the generative-AI duty in PA 2.3(d), and the pre-trim liability scope in CA 7.4 and PA 5.4. The reviewer suggested keeping the narrower scope; that is left as a question for counsel instead. | Same reason. The liability scope is a counsel placeholder, not a trim. |
+| R29 | **Confidential Information:** CA 1.3 now says the Project Agreement decides who may receive it, so your "or as Partner approves in writing" in PA 2.2(c) works. PA 2.5(b), which conflicted with PA 2.2(b), is deleted. | Your PA 2.2 text governs, without a conflict with the Course Agreement. |
+| R30 | **The publication-review copy** (PA 3.3) is a notice under CA 8.5, so the three-tries rule starts its 30 days. | R14: all notices follow the same rule. |
+| R31 | **Partner Contacts' phones:** a text or voicemail delivered to any one Partner Contact's number is enough. A Partner that never updated its numbers can't stall a notice. | Matches R18. |
+| R32 | **Small fixes:** an unnamed "Other license" on the Project Election counts as blank (as in the PA), and "Reasonable Care" is defined where CA 3.1 first uses it. | Consistency. |
+| R33 | **Three safe cuts:** reduce CA 1.5 to its conflict rule, and cut the redundant last clause of CA 3.1's liability sentence. (Deleting PA 2.5(b) is R29.) Not done: moving text into forms or exhibits, or cutting CA 5.4. Those need you. | They change no rule. |
