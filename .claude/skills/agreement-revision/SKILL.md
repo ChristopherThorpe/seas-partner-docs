@@ -46,7 +46,8 @@ Start a fresh `agreement-reviewer` agent, never the drafter, on the revised docu
   `python3 -I agreements/tools/redline.py OLD.md NEW.md OUT.html "Title" "Subtitle"`.
   Extract the old version with `git show <commit>:<path>`. Write outputs to the scratchpad, not the repository.
 - **Word copy:**
-  `pandoc -f gfm+raw_attribute -t docx IN.md -o OUT.docx`.
+  `pandoc -f gfm+raw_attribute -t docx --reference-doc agreements/tools/reference.docx --lua-filter agreements/tools/counsel-notes.lua IN.md -o OUT.docx`.
+  The filter and reference document print notes for counsel in red.
   To combine several documents, put a page break between them:
   ` ```{=openxml} ` / `<w:p><w:r><w:br w:type="page"/></w:r></w:p>` / ` ``` `.
 - **Report to the owner:**

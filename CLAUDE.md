@@ -10,7 +10,7 @@
 - Capitalize every defined term wherever it is used, so a lowercase word always has its ordinary meaning. Define each term once, at first use, as `"**Term**"`.
 - Use "must" for duties, "may" for permissions, and "will" for future facts. Do not use "shall".
 - Plain English and short sentences. Avoid cross-references; check each one that remains against the section it cites.
-- Notes for counsel begin exactly `> **Note for counsel:**`. Bracket only real drafting choices or counsel placeholders.
+- Notes for counsel begin exactly `> **Note for counsel:**`. In Word copies they print in red (built with `agreements/tools/reference.docx` and `agreements/tools/counsel-notes.lua`). Bracket only real drafting choices or counsel placeholders.
 - Markdown: never a line made only of underscores (it renders as a rule); put a label before every blank; write email fields as "Email (ending in harvard.edu): ____"; use a trailing `\` for line breaks inside a block.
 
 ## Where decisions live
