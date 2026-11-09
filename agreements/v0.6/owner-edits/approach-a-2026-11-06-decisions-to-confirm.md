@@ -154,3 +154,22 @@ All the review's MECHANICAL findings are applied as proposed. The top-level comp
     - **Price disputes:** a claim for money only.
     - **Competing groups:** no buyout while there are two or more groups, as (g) above. That means one Teammate can never receive two offers, so the rule on several notices is removed.
     - **Price alternatives:** the two bracketed alternatives are replaced by the floor in (d).
+
+## Round 4: the focused review of the simplification (`reviews/approach-a-review-4.md`)
+
+### Owner's answers
+
+- **R18 ✅ Unreachable phone.** The text-or-voicemail requirement doesn't apply if the recipient gave no number, or if the number no longer works and they didn't report a change as required. The three email tries still apply.
+- **R19 ✅ FSL projects.** Keep CA 5.5(a) as approved. The buyout can reach student-owned documentation with no public license on an FSL project, though never the FSL software or work a Partner owns. Close the README's open question.
+
+### Best guesses (the owner had no preference, or the review asked; please confirm)
+
+| # | Decision | Why |
+| --- | --- | --- |
+| R20 | **No stalling by an owner (Exhibit B, Part 1).** The buyer prepares and signs the binding agreement on at least the floor terms, and the owner must sign within 30 days of receiving it. If the owner picks no one in time, the first proposer meeting the floor may buy. The buyer's company promises the losing groups' equity to them, and they may enforce it. A student bidding alone counts as a group. | The owner's stated goal: "keep an intransigent party from holding the IP hostage". |
+| R21 | **Notices to a Partner** get the same three tries about [7] days apart (unless acknowledged), to its Partner Contacts and general email, with texts to Partner Contacts' phones. PA 6.2 is aligned with CA 8.5. | R14 says "all notices", and the Course Agreement governs any conflict. |
+| R22 | **Equity in a purchase** is owed only "if the buyer is or acts through a Student Company". | A company Partner that buys shouldn't have to give equity in itself. |
+| R23 | **Who may change the defaults in Exhibit B:** in Part 1, the owner and the buyer; in Part 2, the company and the Teammate. Neither change may reduce the losing groups' equity without their consent. | Says who can agree to something else. |
+| R24 | **Buyout details (Exhibit B, Part 2).** CA 5.5(g) (one group only) is tested on the date of the notice, as (b) is. The Partner and the project's other students may enforce the company's promise in 5.5(e). Cash is tendered by a method the notice states (for example, bank transfer or a check sent to the Teammate's address on file). | Fills the review's two 5.5 gaps without changing the owner's 5.5 text. |
+| R25 | **"Commercial use" is defined once,** in CA 5.1, and applies to both 5.5 and 5.7. | Both sections depend on it. |
+| R26 | **All MECHANICAL findings, and the review's suggested cuts:** "owns or has owned outright"; a new CA 5.7(f) binding every later owner, passed on with each transfer; a purchase ends exclusive licenses; issued patents transfer too; the CA 8.3 scope; out-of-date references; Student Guide fixes; shorter Exhibit B, Part 1, PA 4.5(g), PA 6.2, and CA 8.5(f). | Clean-up, and shorter text. |
