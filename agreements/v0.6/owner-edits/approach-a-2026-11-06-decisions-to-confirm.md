@@ -191,3 +191,9 @@ The trimming pass was meant to change no rule. The review found about fifteen pl
 | R31 | **Partner Contacts' phones:** a text or voicemail delivered to any one Partner Contact's number is enough. A Partner that never updated its numbers can't stall a notice. | Matches R18. |
 | R32 | **Small fixes:** an unnamed "Other license" on the Project Election counts as blank (as in the PA), and "Reasonable Care" is defined where CA 3.1 first uses it. | Consistency. |
 | R33 | **Three safe cuts:** reduce CA 1.5 to its conflict rule, and cut the redundant last clause of CA 3.1's liability sentence. (Deleting PA 2.5(b) is R29.) Not done: moving text into forms or exhibits, or cutting CA 5.4. Those need you. | They change no rule. |
+
+### Owner's response to round 5
+
+- **The trimming pass is reverted.** The owner judged its value not worth the risk. The agreements are back to commit 01db855, and the trimmed version is kept on the branch `approach-a-trimmed`. R27, R28, and R33 are moot.
+- **R29 to R32 are applied to the pre-trim text, for the owner to review.** R29 uses the review's alternative for PA 2.5(b) ("share any Course Private Information they retain only as Section 2.2(b) allows") instead of deleting it, so no paragraph is relettered.
+
