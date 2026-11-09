@@ -126,3 +126,31 @@ All the review's MECHANICAL findings are applied as proposed. The top-level comp
     - **Later owners:** every later owner is bound.
     - **Exhibit B:** holds the competing-proposals process, the selection, the closing steps, and the equity for losing teams.
 - **Open: CA 5.5 (teammate buyout).** Whether to restructure it in the same way is under discussion with the owner. Don't implement R14 to R16 until 5.5 is settled.
+
+## Round 3, continued: the teammate buyout (owner, November 9)
+
+- **R17 ✅ CA 5.5, restructured like 5.7 (structure A).** The owner approved this text, with (g) changed as below:
+
+  > **5.5 Buyout of an inactive co-owner.**
+  >
+  > (a) This Section applies to Project Work Product that a team's students own and that has no public license. It does not apply to work under an FSL license or work a Partner owns.
+  >
+  > (b) After a Teammate's End Date, a Student Company of one or more of the team's students that is actively developing the work may buy out that Teammate's rights in it. It may do so if, on the date of its notice, the Teammate is not using the work commercially, personally or through a company. Starting to use the work after the notice does not stop the buyout.
+  >
+  > (c) If both agree, the Teammate may join the company instead.
+  >
+  > (d) The company must offer the Teammate fully vested equity at least equal to the greater of (1) what each founding student received for their own rights in the work, and (2) what the company's initial advisors who don't work for it full time receive. Neither amount counts equity that vests as a founder works for the company. The company and the Teammate may agree on any other amount or form.
+  >
+  > (e) The Teammate hereby assigns all of their rights in the work to the company, effective when the company tenders the price under Exhibit B. The assignment takes effect only if the company has first promised in writing to keep the Teammate's commitments about the work, such as the Partner's license and confidentiality. It ends the Teammate's rights in the work, except the right to describe and show their own contribution in a portfolio or academic setting, without distributing it.
+  >
+  > (f) A dispute about the price does not delay the assignment. It is a claim for the difference only.
+  >
+  > (g) **(Owner's change.)** A buyout is possible only while one group of the team's students is actively developing the work. If two or more groups are, there is no exclusivity to gain, so no one may use this Section, and each group keeps its license under Section 5.3 unless they agree otherwise.
+  >
+  > (h) Exhibit B sets out the default process: what the notice must contain and show (including the founding students' and initial advisors' grants), the Teammate's 30 days to decide, cash at fair market value if the Teammate refuses equity, and signing recording papers for a Teammate who won't.
+
+  The owner's answers on the four points:
+    - **Portfolio exception:** keep it.
+    - **Price disputes:** a claim for money only.
+    - **Competing groups:** no buyout while there are two or more groups, as (g) above. That means one Teammate can never receive two offers, so the rule on several notices is removed.
+    - **Price alternatives:** the two bracketed alternatives are replaced by the floor in (d).
