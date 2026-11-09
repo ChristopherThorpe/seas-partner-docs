@@ -173,3 +173,7 @@ All the review's MECHANICAL findings are applied as proposed. The top-level comp
 | R24 | **Buyout details (Exhibit B, Part 2).** CA 5.5(g) (one group only) is tested on the date of the notice, as (b) is. The Partner and the project's other students may enforce the company's promise in 5.5(e). Cash is tendered by a method the notice states (for example, bank transfer or a check sent to the Teammate's address on file). | Fills the review's two 5.5 gaps without changing the owner's 5.5 text. |
 | R25 | **"Commercial use" is defined once,** in CA 5.1, and applies to both 5.5 and 5.7. | Both sections depend on it. |
 | R26 | **All MECHANICAL findings, and the review's suggested cuts:** "owns or has owned outright"; a new CA 5.7(f) binding every later owner, passed on with each transfer; a purchase ends exclusive licenses; issued patents transfer too; the CA 8.3 scope; out-of-date references; Student Guide fixes; shorter Exhibit B, Part 1, PA 4.5(g), PA 6.2, and CA 8.5(f). | Clean-up, and shorter text. |
+
+## Confirmation (owner, November 9)
+
+- **Confirmed:** every remaining best guess, R5 to R11 and R20 to R26. Every decision in this file is now settled.
