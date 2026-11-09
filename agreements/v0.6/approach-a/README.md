@@ -468,4 +468,4 @@ The owner decided the trimming pass wasn't worth its risk. The agreements are ba
 - **PA 6.2:** a copy or request that starts a period, such as the PA 3.3 copy, is a notice (R30).
 - **CA 8.5(d):** a text to any one Partner Contact's number is enough, and a recipient who didn't report a change can't stall a notice (R31).
 - **CA 6.1:** an unnamed "Other license" counts as blank. **CA 3.1:** "Reasonable Care" is defined where it is first used (R32).
-
+- **CA 3.1 (owner, R34):** the definition of Reasonable Care is generalized, so it also fits CA 3.2 and PA 2.3(b).

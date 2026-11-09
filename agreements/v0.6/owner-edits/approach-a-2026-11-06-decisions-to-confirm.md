@@ -196,4 +196,4 @@ The trimming pass was meant to change no rule. The review found about fifteen pl
 
 - **The trimming pass is reverted.** The owner judged its value not worth the risk. The agreements are back to commit 01db855, and the trimmed version is kept on the branch `approach-a-trimmed`. R27, R28, and R33 are moot.
 - **R29 to R32 are applied to the pre-trim text, for the owner to review.** R29 uses the review's alternative for PA 2.5(b) ("share any Course Private Information they retain only as Section 2.2(b) allows") instead of deleting it, so no paragraph is relettered.
-
+- **R34 (owner):** the definition of Reasonable Care in CA 3.1 is generalized, because it also applies in CA 3.2 and PA 2.3(b). It now reads: "what a reasonable person in the recipient's position would do in the circumstances, given their role and the information, and, for an Inadvertent Disclosure, when they learned it was not meant for them".
