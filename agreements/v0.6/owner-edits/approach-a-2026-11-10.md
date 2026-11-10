@@ -24,14 +24,14 @@ After seeing R39 to R44, the owner set the scenario documents' starting point.
 
 So each scenario document opens with that decision (E5, item 3): should the agreements enforce a sensible, fair default, while making it easy for the people affected to choose anything else? A default with an easy way out becomes the first option, ahead of an optional add-on and a recommendation only.
 
-## How it is read (R39, for the owner to confirm)
+## How it is read (R39, confirmed by the owner)
 
 "This and the partner buyback scenario" is read as both of the Course Agreement's default procedures for later commercial use:
 
 1. **The teammate buyout:** Course Agreement Section 5.5 and Exhibit B, Part 2.
 2. **The right to purchase unused work** (the partner buyback): Course Agreement Section 5.7 and Exhibit B, Part 1, including the losing bidders' equity (step 3) and the advisor-level grant for every participant that was proposed but never applied.
 
-Both are taken out of the binding documents, and Exhibit B is deleted. Their text as of commit 92a4268 is kept, word for word, in the scenario documents. If the owner meant only the purchase of unused work, Section 5.5 and Exhibit B, Part 2 come back unchanged.
+Both are taken out of the binding documents, and Exhibit B is deleted. Their text as of commit 92a4268 is kept, word for word, in the scenario documents. **Owner's confirmation (November 10):** "R39 is right; both come out."
 
 ## Edits for the drafter
 

@@ -534,7 +534,7 @@ Applied with small changes:
 
 - **PA 1.2:** "governs over this agreement among them" gained "as that Section allows", so the PA sentence carries CA 5.5's new limit (only these questions, and no change to the project's choices) instead of seeming broader.
 - **Buyout draft 2(b):** the bracket reads "[the Parties][the team's students]", so both alternatives read as "one or more of …".
-- **Both papers:** a short paragraph with the abbreviations (and, in the purchase paper, the two meanings of "owner") stays between the title and section 1, because the decision uses them. The lead-in to the owner's first text doesn't say what "this" meant, because R39's reading of it awaits confirmation.
+- **Both papers:** a short paragraph with the abbreviations (and, in the purchase paper, the two meanings of "owner") stays between the title and section 1, because the decision uses them. The lead-in to the owner's first text now says that the owner confirmed it covers both defaults (R39, confirmed November 10).
 - **Both papers' "The situation":** its description of CA 5.5 is cut to one clause, since section 1 now gives it.
 
 ### Choices for the owner to confirm

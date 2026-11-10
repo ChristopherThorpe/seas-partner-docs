@@ -8,7 +8,7 @@
 
 **The decision.** Should the agreements enforce a sensible, fair default buyout of an inactive Teammate, while making it easy for the students affected to choose anything else if they don't like it? Until counsel answers, the agreements set no default: CA 5.5 recommends a written agreement and allows an optional Add-On Agreement. The other options are an optional Add-On Agreement, or only a recommendation that each team agree on something. "Three options" below compares them.
 
-**The owner's words.** The owner's first text, on November 10, which led to this paper:
+**The owner's words.** The owner's first text, on November 10, which led to this paper. The owner later confirmed that it covers both defaults, the teammate buyout and the right to purchase unused work:
 
 > I think both this and the partner buyback scenario need to be moved out as separate "scenario" documents to discuss with counsel about whether we want to force students to agree on those terms up front.
 >
