@@ -44,7 +44,7 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 > **Note for counsel:** The assignment in Section 2.3 may run to a Partner that is not a party to this agreement, under Project Terms the student did not sign. Please confirm that it satisfies 17 U.S.C. § 204(a) and 35 U.S.C. § 261.
 
-**2.4 Capstones.** If the Course is a capstone for a degree program, a student may (a) write a thesis instead of taking the Course, if permitted by the degree program[, or (b) decline every Partner project's Project Terms and do a project without a Partner, without the Course instructor's permission under Section 2.2 or approval of an individual project under Section 2.1].
+**2.4 Required courses.** Each student acknowledges that they have been given the opportunity to choose an Open Science project. As a result, even if the Course is required by their degree program, no student is required to agree to a Partner's nondisclosure terms or to an assignment of intellectual property to take the Course or to complete their degree.
 
 ## 3. Rules for everyone in the Course
 
@@ -126,7 +126,7 @@ These rules bind every Signer and protect every project, with or without a Partn
 
 ## 6. Projects without a Partner
 
-**6.1 Project Election.** All students on a project without a Partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project[, unless Section 2.4(b) applies], and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), an "Other license" that is not named, or a team-only choice on an individual project gives way to the default.
+**6.1 Project Election.** All students on a project without a Partner, individual or team, sign one Project Election before starting material work, and a later joiner signs it on joining. On it, they certify that the Course instructor has permitted the project, and has approved every choice that is not Open Science, in writing or by email. A blank choice, more than one checked choice (other than the MIT License and the Apache License 2.0 together), an "Other license" that is not named, or a team-only choice on an individual project gives way to the default.
 
 **6.2 Information.** Under "Open" (the default), nothing about the project is restricted. Under "Open and Course Private", what the students share about the project with classmates and the Course Staff is Course Private Information, unless they mark it Open. That choice binds other Signers, not the project's own students. Under "Open and Course Private", the public licenses in Sections 6.3 and 6.4 apply to a copy only once one of the project's students releases it outside the Course Community.
 
@@ -239,7 +239,7 @@ Project type (check one): ☐ Individual project ☐ Team project
 Name: ______________________________ \
 Email: ______________________________
 
-**Instructor's approval.** By signing, the students certify that the Course instructor has permitted this project[ (not needed for a capstone project under Course Agreement Section 2.4(b))], and has approved every choice above not marked "Open Science", in writing or by email. \
+**Instructor's approval.** By signing, the students certify that the Course instructor has permitted this project, and has approved every choice above not marked "Open Science", in writing or by email. \
 Instructor's name: ______________________________ \
 Date of approval: ______________
 
