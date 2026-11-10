@@ -14,6 +14,16 @@ This came right after a discussion of Exhibit B, Part 1, step 3 (equity for losi
 >
 > I like showing them why it matters, and recommending that they agree on _something_, but I think creating a default for those things creates trouble.
 
+## The owner's follow-up: the decision for counsel
+
+After seeing R39 to R44, the owner set the scenario documents' starting point.
+
+**Owner's text:**
+
+> I think that's where we should start, with a decision for counsel to help us think through this here, and whether a sensible fair default is something we do want to enforce — while making it easier for them to do anything else if they don't like it.
+
+So each scenario document opens with that decision (E5, item 3): should the agreements enforce a sensible, fair default, while making it easy for the people affected to choose anything else? A default with an easy way out becomes the first option, ahead of an optional add-on and a recommendation only.
+
 ## How it is read (R39, for the owner to confirm)
 
 "This and the partner buyback scenario" is read as both of the Course Agreement's default procedures for later commercial use:
@@ -64,11 +74,12 @@ Create `agreements/v0.6/approach-a/scenarios/teammate-buyout.md` and `agreements
 
 1. **The situation,** with a short example (for the buyout, SCENARIOS.md 8, the holdout teammate; for the purchase, work a Partner owns and shelves).
 2. **Why it matters,** to students, Partners, and investors. For example, co-owners can each use and license the work, so no one has exclusive rights; investors usually want clean title; and a shelved patent blocks everyone.
-3. **The question for counsel:** should students be required to agree to these terms up front, by signing the Course Agreement, or should the course offer them as an optional add-on, or only recommend that each team agree on something?
+3. **The decision for counsel, first:** should the agreements enforce a sensible, fair default, while making it easy for the people affected to choose anything else if they don't like it? Ask counsel to help judge whether the drafted terms are fair enough to enforce, especially against a student who had to sign to take the Course.
 4. **Three options,** with their advantages and risks:
-    - a default in the Course Agreement (the removed text);
-    - an optional Add-On Agreement (the owner's current leaning);
-    - a recommendation only, explained in the Student Guide.
+    - **a fair default with an easy way out:** the drafted terms apply unless the people affected choose otherwise. Sketch how easy the way out can be, for example a choice on the Project Election or the Project Agreement's cover page ("the default terms", "none", or "our own agreement, attached"), and a rule that any later written agreement among the people affected replaces the default for them;
+    - **an optional Add-On Agreement** that a team opts into;
+    - **a recommendation only,** explained in the Student Guide.
+    For the first option, list what already makes the drafted terms fair (for example, for the buyout: only a Teammate not using the work, fully vested equity at parity with founders and advisors, cash at fair market value, and no buyout while two groups compete), and what may not be (for example, the power of attorney and a forced assignment).
 5. **The owner's decisions so far** that shaped the drafted terms, by number (for example, R14 to R17, R20, R22 to R25, B3, C3, C6, C7, and R1), each in a sentence.
 6. **Open choices.** For the purchase, these include:
     - the losing bidders' equity (Exhibit B, Part 1, step 3), and its incentive to split bids;
