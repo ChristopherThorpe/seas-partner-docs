@@ -2,31 +2,39 @@
 
 **SCENARIO FOR COUNSEL: PURCHASE OF UNUSED WORK**
 
-"CA" is the Course Agreement and "PA" the Project Agreement, as drafted in `agreements/v0.6/approach-a/`. Capitalized terms, such as Partner, Project Work Product, Student Company, Duration, and Partner Background IP, have the meanings those agreements give them.
+"CA" is the Course Agreement and "PA" the Project Agreement, as drafted in `agreements/v0.6/approach-a/`. Capitalized terms, such as Partner, Project Work Product, Student Company, Duration, and Partner Background IP, have the meanings those agreements give them. In this paper, "the owner" is the person directing these drafts. In the appendices, as in the removed text, "the owner" is whoever owns the work.
 
-## 1. The situation
+## 1. The decision for counsel
+
+**The decision.** Should the agreements enforce a sensible, fair default right to purchase unused work, while making it easy for the Partner and the students to choose anything else if they don't like it? Until counsel answers, the agreements set no default: CA 5.5 recommends a written agreement and allows an optional Add-On Agreement. The other options are an optional Add-On Agreement, or only a recommendation that students ask for such a right when the Project Agreement is signed. "Three options" below compares them.
+
+**The owner's words.** The owner's first text, on November 10, which led to this paper:
+
+> I think both this and the partner buyback scenario need to be moved out as separate "scenario" documents to discuss with counsel about whether we want to force students to agree on those terms up front.
+>
+> I'm just not sure it's appropriate for the course to push students into that (versus providing them an addendum they can "add on" to the course documents and fits cleanly with the course documents.)
+>
+> I like showing them why it matters, and recommending that they agree on _something_, but I think creating a default for those things creates trouble.
+
+The owner's follow-up set this paper's starting point:
+
+> I think that's where we should start, with a decision for counsel to help us think through this here, and whether a sensible fair default is something we do want to enforce — while making it easier for them to do anything else if they don't like it.
+
+**Counsel's help.** The owner asks counsel to help judge whether the drafted terms (Appendix 1) are fair enough to enforce. They bind the Partner most, and a Partner signs a template it cannot change without Harvard's approval (Exhibit A). They also bind every student, who had to sign the Course Agreement to take the Course: for example, the work's owner picks among competing student bids in its sole discretion, and the winner owes equity to the losing student bidders.
+
+## 2. The situation
 
 A Partner chooses "Partner owns" for a four-student project, so the students assign their work to it (PA 4.5(a)). The Partner files a provisional patent application, then changes strategy. Three years after the Course, no one is using the work. Two of the students want to build a company on it.
 
-Under the agreements as they now stand, the work is the Partner's. The students keep only a license to use it for demonstrations, in a portfolio, and in the final poster and video (PA 4.5(d)). Nothing gives anyone a right to buy the work. CA 5.5 sets no default. It recommends that each project's students agree on later use in writing, early in the project, with their Partner, and lets an optional Add-On Agreement govern among those who sign it.
+Under the agreements as they now stand, the work is the Partner's. The students keep only a license to use it for demonstrations, in a portfolio, and in the final poster and video (PA 4.5(d)). Nothing gives anyone a right to buy the work, and CA 5.5 adds no default of its own.
 
-Until round 6, the Course Agreement gave a default answer (old CA 5.7 and Exhibit B, Part 1). From [2] years after the Course, if no one had used the work commercially for [2] years, the Partner or any of the project's students could give notice to buy it. The buyer paid at least the owner's documented out-of-pocket costs, plus advisor-level equity if it was a Student Company. That text is in Appendix 1. Appendix 2 rewrites it as a draft Add-On Agreement.
+Until round 6, the Course Agreement gave a default answer (old CA 5.7 and Exhibit B, Part 1). From [2] years after the Course, if no one had used the work commercially for [2] years, the Partner or any of the project's students could give notice to buy it. The buyer paid the work's owner at least its documented out-of-pocket costs, plus advisor-level equity if the buyer was a Student Company. That text is in Appendix 1. Appendix 2 rewrites it as a draft Add-On Agreement.
 
-## 2. Why it matters
+## 3. Why it matters
 
 - **Students.** Work they made can be shelved for good. Their license covers only demonstrations, portfolios, and the final poster and video. If the Partner holds a patent on the work, no one else may practice the invention, including the students who made it.
 - **Partners.** A Partner sponsors the project, and may pay for patents, to own the result. A forced sale of something it paid for can feel unfair, and some Partners may choose other projects or courses if the agreements impose one. On the other hand, the drafted floor repays its documented costs, adds equity, and leaves it a license. Handing off a shelved asset can also build goodwill with students.
 - **Investors.** A company built on the work needs to own it outright, including any patents. A license from the Partner, or a Partner that may still sell the work to others, is rarely enough. A shelved patent blocks everyone, including a startup that would use it. Investors will also check that any purchase was valid and that the Partner's retained license is non-exclusive.
-
-## 3. The decision for counsel
-
-The owner's starting point:
-
-> I think that's where we should start, with a decision for counsel to help us think through this here, and whether a sensible fair default is something we do want to enforce — while making it easier for them to do anything else if they don't like it.
-
-**The decision.** Should the agreements enforce a sensible, fair right to purchase unused work as a default, while making it easy for the Partner and the students to choose anything else if they don't like it? The alternatives are an optional Add-On Agreement, or only a recommendation that students ask for such a right when the Project Agreement is signed. "Three options" below compares them.
-
-**Counsel's help.** The owner asks counsel to help judge whether the drafted terms (Appendix 1) are fair enough to enforce. They bind the Partner most, and a Partner signs a template it cannot change without Harvard's approval (Exhibit A). They also bind every student, who had to sign the Course Agreement to take the Course: for example, the owner picks among competing student bids in its sole discretion, and the winner owes equity to the losing student bidders.
 
 ## 4. Three options
 
@@ -35,26 +43,26 @@ The owner's starting point:
 The drafted terms apply unless the people affected choose otherwise. The way out can be made easy:
 
 - **A choice at signing.** The Project Agreement's cover page would add one line under "Partner owns": "Right to purchase unused work (check one): ☐ the default terms (default) ☐ none ☐ our own agreement, attached". The Partner and every student sign the cover page, so the choice is theirs together.
-- **A later agreement wins.** Any later written agreement about the same question, signed by the owner and the project's students, replaces the default for them.
+- **A later agreement wins.** Any later written agreement about the same question, signed by the work's owner and the project's students, replaces the default for them.
 - **Who may take it.** In practice the Partner sets the cover page, so the way out is easiest for the Partner. Whether that makes the default too easy to avoid is part of the decision.
 
 What already makes the drafted terms fair:
 
 - The right starts only from [2] years after the end of the Duration, and only if no one has used the work commercially, including internally, during the previous [2] years.
-- The owner can always avoid it by using the work.
-- The buyer pays at least the owner's documented out-of-pocket costs for the work, such as patent filing and outside legal fees, plus advisor-level equity if the buyer is or acts through a Student Company.
-- A Partner that owned the work keeps a perpetual, non-exclusive, royalty-free license to use and exploit it for any purpose, transferable with its business.
+- The work's owner can always avoid it by using the work.
+- The buyer pays the work's owner at least its documented out-of-pocket costs for the work, such as patent filing and outside legal fees, plus advisor-level equity if the buyer is or acts through a Student Company.
+- If the Partner is still the work's owner, it keeps a perpetual, non-exclusive, royalty-free license to use and exploit the work for any purpose, transferable only with its business.
 - Non-exclusive licenses granted before the notice survive. Partner Background IP, and Partner Information that the Project Agreement restricts, are never included.
-- The Partner may itself bid, and the owner picks among competing bids in its sole discretion, based in part on how each bidder means to use the work and what it will pay.
+- The Partner may itself bid, and the work's owner picks among competing bids in its sole discretion, based in part on how each bidder means to use the work and what it will pay.
 
 What may not be fair, or may not hold up:
 
-- **A forced sale.** The owner must sell property it paid for, at a floor that ignores the work's value, on a form it could not negotiate.
-- **Deadlines.** The owner must sign the buyer's agreement and the assignment within 30 days. If it picks no one in time, the first bidder meeting the floor may buy.
+- **A forced sale.** The work's owner must sell property it paid for, at a floor that ignores the work's value, on a form it could not negotiate.
+- **Deadlines.** The work's owner must sign the buyer's agreement and the assignment within 30 days. If it picks no one in time, the first bidder meeting the floor may buy.
 - **Limits on transfers.** Every later owner and exclusive licensee must agree to be bound, which may lower the work's value and burden an acquirer.
-- **Patents in progress.** A patent application is not use, so an owner still prosecuting a patent can lose the work.
+- **Patents in progress.** A patent application is not use, so an owner of the work that is still prosecuting a patent can lose it.
 - **A vague standard.** "Equity typically granted to advisors" may be hard to apply.
-- **Losing bidders' equity.** The winner owes each losing student bidder at least the equity it offers the owner, which rewards splitting into several bids (see "Open choices").
+- **Losing bidders' equity.** The winner owes each losing student bidder at least the equity it offers the work's owner, which rewards splitting into several bids (see "Open choices").
 - **Adhesion.** Students in a required course, some under 18, are bound by the procedure, and Partners by a template.
 
 **Advantages.** Shelved work gets a second life without anyone having to negotiate from scratch years later. Every Partner knows the rule before choosing "Partner owns", and the floor makes it whole for its documented costs. The way out lets a Partner and its students who don't want it say so at signing.
@@ -65,7 +73,7 @@ Appendix 2 explains how its draft text would work as this kind of default.
 
 ### Option 2: an optional Add-On Agreement
 
-The Partner and the students opt in by signing an Add-On Agreement, such as the draft in Appendix 2, ideally when they sign the Project Agreement. CA 5.5 already lets one fit: it binds only those who sign it, governs among them over the agreements, and cannot reduce anyone else's rights. The current drafts take this approach until counsel answers, with a bracket in CA 5.5 on whether the Course offers forms.
+The Partner and the students opt in by signing an Add-On Agreement, such as the draft in Appendix 2, ideally when they sign the Project Agreement. CA 5.5 already lets one fit: it binds only those who sign it, governs among them over the agreements on these questions, and cannot reduce anyone else's rights. CA 8.4 and PA 1.2 add that it is not a change to the agreements, and PA 1.2 that Partner signs by its authorized officer. The current drafts take this approach until counsel answers, with a bracket in CA 5.5 on whether the Course offers forms.
 
 **Advantages.** It is voluntary for the Partner and the students, and can be negotiated with the rest of the Project Agreement. A Partner that objects simply doesn't sign. The Course Agreement stays short.
 
@@ -90,7 +98,7 @@ These decisions shaped the drafted terms. The numbered ones are in `agreements/v
 - **C3:** every later owner is bound, so a Partner may transfer the work, or grant an exclusive license in it, only to someone who agrees in writing to be bound.
 - **C6:** the right may be used at any time from [2] years after the Course.
 - **C7:** the buyer gets no right to use restricted Partner Information, and the Partner keeps a license with the usual rights. Separable parts of the work are not covered.
-- **R1:** the owner states its costs, and signs the assignment, within 30 days each. The owner's goal: "Just enough to keep an intransigent party from holding the IP hostage."
+- **R1:** the work's owner states its costs, and signs the assignment, within 30 days each. The owner's goal: "Just enough to keep an intransigent party from holding the IP hostage."
 - **R2:** responding students tell every other student on the project, the Partner picks within [30] days, and losing teams get at least the advisor equity the winner offers, whether or not it is accepted. A note asked counsel how much of this helps.
 - **R3:** the costs are documented out-of-pocket costs, and the Partner's license is perpetual, non-exclusive, and royalty-free, for any purpose, transferable only with its business.
 - **R5:** the right covers only work owned outright under "Partner owns", not a Partner's FSL interest, and the buyers are the project's own students.
@@ -99,9 +107,9 @@ These decisions shaped the drafted terms. The numbered ones are in `agreements/v
 - **R14:** every notice gets three tries, about [7] days apart, and counts from the first.
 - **R15:** non-use is the only trigger, a patent application doesn't block the right, pending applications transfer with the work, and commercial use includes internal use.
 - **R16:** a short old CA 5.7 applies to any single outright owner, anyone entitled may propose within 30 days, every later owner is bound, and the default procedure sits in Exhibit B.
-- **R20:** the buyer prepares and signs the purchase agreement, and the owner must sign within 30 days. If the owner picks no one in time, the first proposer meeting the floor may buy. Losing groups may enforce their equity, and a student bidding alone counts as a group.
+- **R20:** the buyer prepares and signs the purchase agreement, and the work's owner must sign within 30 days. If it picks no one in time, the first proposer meeting the floor may buy. Losing groups may enforce their equity, and a student bidding alone counts as a group.
 - **R22:** equity is owed only if the buyer is or acts through a Student Company.
-- **R23:** only the owner and the buyer may vary the default procedure, and never to cut the losing bidders' equity without their consent.
+- **R23:** only the work's owner and the buyer may vary the default procedure, and never to cut the losing bidders' equity without their consent.
 - **R25:** commercial use is defined once, for the purchase and the buyout alike.
 - **R26:** the right covers work a Partner "owns or has owned outright"; every later owner is bound and must pass the terms on; a purchase ends exclusive licenses; and issued patents transfer too.
 - **The every-participant grant:** just before round 6, the owner proposed that every participant get at least an advisor-level grant. It was never applied (see "Open choices").
@@ -110,25 +118,25 @@ These decisions shaped the drafted terms. The numbered ones are in `agreements/v
 
 ## 6. Open choices
 
-- **The losing bidders' equity** (old Exhibit B, Part 1, step 3). Each unsuccessful bidder that is a student or a group of students gets at least the equity the successful buyer offers the owner, whether or not the owner accepts it. This rewards bidding, so students have a reason to split into several bids, each of which would then be owed equity. It could be kept, limited (for example, to one grant per group, or a total cap), or dropped.
+- **The losing bidders' equity** (old Exhibit B, Part 1, step 3). Each unsuccessful bidder that is a student or a group of students gets at least the equity the successful buyer offers the work's owner, whether or not it accepts it. This rewards bidding, so students have a reason to split into several bids, each of which would then be owed equity. It could be kept, limited (for example, to one grant per group, or a total cap), or dropped.
 - **Every participant.** The owner's later proposal is that every participant, student or Partner, get at least an advisor-level grant in the winner's equity. It raises four questions:
     1. **Who counts:** every student on the project, including those who left early, or only those still on it at the end of the Duration.
     2. **Fully vested:** whether each grant vests at once.
     3. **Founders' vesting equity:** whether equity that a founder of the buyer holds, and that vests only as they work for the company, counts toward their grant.
-    4. **A Partner that is also the owner:** whether it gets one grant, or both the floor's equity and a participant's grant.
+    4. **A Partner that is also the work's owner:** whether it gets one grant, or both the floor's equity and a participant's grant.
 
   There is also a practical point. Many small holders complicate a startup's capitalization table, consents, and later financings, and investors may object.
 - **Who may buy.** The removed text let any of the project's students buy. An Add-On Agreement could keep that, or limit buyers to its signers (bracketed in Appendix 2).
-- **The periods.** The [2] years before the right starts, the [2] years of non-use, and the [30] days for the owner to choose.
+- **The periods.** The [2] years before the right starts, the [2] years of non-use, and the [30] days for the work's owner to choose.
 
 ## 7. Questions for counsel
 
 1. **Enforceability** (from the note removed from old CA 5.7): whether the right binds a Partner and every later owner, including its limits on transfers; how the assignment should be recorded (35 U.S.C. § 261); whether "equity typically granted to advisors" is a workable standard; and how much of the default procedure helps, beyond requiring the parties to negotiate in good faith.
 2. **Adhesion and required courses:** whether a default binds a Partner that signs a template it cannot change, and students who had to sign the Course Agreement to take the Course, including in a course their degree requires; and whether an easy way out (Option 1) answers that.
 3. **Students under 18:** how they should sign, since their agreements could be voidable (see the note after CA 8.4).
-4. **Securities and tax:** the treatment of the equity given to the owner and to losing bidders or every participant, and whether the buyer's grants need a securities exemption.
+4. **Securities and tax:** the treatment of the equity given to the work's owner and to losing bidders or every participant, and whether the buyer's grants need a securities exemption.
 5. **Harvard:** whether forms the Course offers need Harvard's approval, and how a purchase works where Harvard has rights in the work (PA 4.5(g)).
-6. **The hook:** whether CA 5.5 is enough for an Add-On Agreement between a Partner and students to work, including its limits on the Partner's transfers, given the limits on changes in CA 8.4 and PA 6.3; and whether one signed by only some students is workable.
+6. **The hook:** whether CA 5.5, with the sentences in CA 8.4 and PA 1.2 and 6.8 that make room for it, is enough for an Add-On Agreement between a Partner and students to work, including its limits on the Partner's transfers; and whether one signed by only some students is workable.
 
 ## Appendix 1: the removed text
 
@@ -207,7 +215,7 @@ Project title: ______________________________ \
 Partner's full legal name (as in the Project Agreement): ______________________________ \
 Date of this agreement: ______________
 
-**1. This agreement.** This is an Add-On Agreement under Course Agreement Section 5.5 for the project named above. It is made among the project's Partner and the students on the project who sign it (each a "**Party**"), and binds only them. Terms defined in the Course Agreement or the project's Project Agreement have the same meanings here. Among the Parties, this agreement governs over the Course Agreement and the Project Agreement. It cannot reduce the rights of anyone who does not sign it, including a Teammate, a Student Company, or the public under a public license. [A student who joins the project later may become a Party by signing a copy of the signature entry below.]
+**1. This agreement.** This is an Add-On Agreement under Course Agreement Section 5.5 for the project named above. It is made among the project's Partner and those of the project's students who sign it (each of them, including the Partner, a "**Party**"), and binds only them. Terms defined in the Course Agreement or the project's Project Agreement have the same meanings here. Among the Parties, this agreement governs over the Course Agreement and the Project Agreement. It cannot reduce the rights of anyone who does not sign it, including a Teammate, a Student Company, or the public under a public license. [A student who joins the project later may become a Party by signing a copy of the signature entry below.]
 
 **2. Right to purchase unused work.**
 
@@ -219,11 +227,11 @@ Date of this agreement: ______________
 
 (d) The buyer must pay the owner at least its documented out-of-pocket costs for the work, such as patent filing and outside legal fees. If the buyer is or acts through a Student Company, it must also give the owner equity in that company not less than that typically granted to its advisors.
 
-(e) Patents and patent applications on the work transfer with it. If the owner is the Partner, it keeps a perpetual, non-exclusive, royalty-free license to use and exploit the work for any purpose, transferable only with its business. The purchase ends any exclusive license in the work and is subject to non-exclusive licenses granted before the notice. It gives no right to use or disclose Partner Information that the Project Agreement restricts.
+(e) Patents and patent applications on the work transfer with it. If the owner is the Partner, it keeps a perpetual, non-exclusive, royalty-free license to use and exploit the work for any purpose, transferable only with its business. [The purchase ends any exclusive license in the work whose licensee agreed to be bound under paragraph (f), and is subject to every other license granted before the notice.] It gives no right to use or disclose Partner Information that the Project Agreement restricts.
 
 (f) The owner must not transfer the work, or grant an exclusive license in it, unless the transferee or licensee first agrees in writing to be bound by this Section and Section 3. That agreement must be for the benefit of the project's Partner, its students, and their Student Companies, who may enforce it. The owner must notify them within 30 days, with a copy of that agreement and the transferee's or licensee's email address.
 
-**3. Procedure.** The owner and the buyer may agree in writing on something else. No such agreement may reduce the equity owed under step 3 without the consent of the person it is owed to. Notices under this agreement follow Course Agreement Section 8.5, using the contact details below and, for the Partner, those in the Project Agreement, as updated.
+**3. Procedure.** The owner and the buyer may agree in writing on something else. No such agreement may reduce the equity owed under step 3 without the consent of the person it is owed to. Notices under this agreement follow Course Agreement Section 8.5, using the contact details below and, for the Partner, those in the Project Agreement, as updated. A notice to a later owner or exclusive licensee goes to the email address most recently given for it in writing under Section 2(f) or this Section 3.
 
 1. If only one person or group has given notice or a proposal when the 30 days in Section 2(c) end, they may buy the work at the floor in Section 2(d).
 2. If more than one has, the owner selects one in its sole discretion, based in part on their proposals about how they intend to use the work and what they will pay, within [30] days after those 30 days end. If the owner selects no one in time, the first to give notice or a proposal meeting the floor may buy.
@@ -231,7 +239,7 @@ Date of this agreement: ______________
 4. Within 30 days after the first notice, the owner gives everyone the notice went to a written statement of its documented out-of-pocket costs for the work.
 5. The buyer, or its company, then prepares, signs, and gives the owner a written agreement to buy the work on at least the terms in Section 2(d), or on its selected proposal, and to be bound as Section 2(f) requires. If step 3 applies, the agreement also promises each person entitled under step 3 their equity, and that person may enforce the promise. Within 30 days after receiving the agreement, the owner must sign it and an assignment of the work, including patents and patent applications, keeping any license that Section 2(e) reserves.
 
-**4. General.** The Partner, each of the project's students, and their Student Companies may enforce this agreement as it benefits them. Massachusetts law governs this agreement, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, and counterparts together form one agreement. Each Party confirms that it may enter into this agreement and, if an individual, that they have reached the age of majority. The Partner confirms that the individual signing for it is authorized to do so. This agreement may be changed only in a writing signed by every Party, except as Section 3 allows.
+**4. General.** The Partner, each of the project's students, and their Student Companies may enforce this agreement as it benefits them. Massachusetts law governs this agreement, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, and counterparts together form one agreement. Each Party confirms that it may enter into this agreement and, if an individual, that they have reached the age of majority. The Partner confirms that the individual signing for it is authorized to do so. Each student who is a Party also confirms that they have read this agreement, have had the chance to ask questions and consult advisors, and sign voluntarily. This agreement may be changed only in a writing signed by every Party, except as Section 3 allows. "Including" means "including without limitation". An unenforceable term is enforced as far as the law allows, and the rest stays in effect.
 
 > **Note for counsel:** The questions under "Questions for counsel" in this paper apply to this form, in particular its limits on transfers, the recording of the assignment, the advisor-equity standard, students under 18, securities, and tax.
 
@@ -283,7 +291,7 @@ The same text could serve as Option 1, a default with an easy way out, without a
 
 These are new, and need the owner's confirmation:
 
-1. **Parties.** The Partner and the students sign. The Partner's signature is the one that matters most, because the Partner carries the burden.
+1. **Parties.** The Partner and the students sign, and Section 1 makes the Partner a Party. The Partner's signature is the one that matters most, because the Partner carries the burden.
 2. **"Party"** is used instead of "Signer", which both agreements already define.
 3. **Late joiners** may become Parties (bracketed in Section 1).
 4. **Section 2(a)** says the agreement binds the Partner and, through paragraph (f), every later owner, instead of "binds every later owner of it", because an Add-On Agreement binds only those who sign it.
@@ -292,5 +300,7 @@ These are new, and need the owner's confirmation:
 7. **Step 3** brackets the two equity alternatives, as the owner asked. Alternative B's wording is new, and each of its four open questions is bracketed.
 8. **Step 5** says "each person entitled under step 3", so it works with either alternative.
 9. **Enforcement** follows old CA 8.3 and 5.7(f): the Partner, the students, and their Student Companies may enforce what benefits them.
-10. **General terms** (law, signatures, authority, age, and changes) are written out from CA 8.4 and PA 6.7 and 6.8, so the form reads on its own.
+10. **General terms** (law, signatures, authority, age, the students' confirmation that they read the agreement and sign voluntarily, changes, "including", and severability) are written out from CA 8.4 and PA 6.7 and 6.8, so the form reads on its own.
 11. **Commercial use** is defined in Section 2(a), carried from old CA 5.1.
+12. **Exclusive licenses.** Section 2(e) brackets a narrower rule: a purchase ends only an exclusive license whose licensee agreed to be bound under paragraph (f). Old CA 5.7 bound the Partner from the start, so every exclusive licensee had agreed first. An Add-On Agreement may be signed later, and it cannot end the license of someone who never agreed.
+13. **Notices to later owners.** Section 3 sends notices to a later owner or exclusive licensee at the email address given for it in writing. Round 6 cut that rule from CA 8.5(f), and a later owner is not a Party.
