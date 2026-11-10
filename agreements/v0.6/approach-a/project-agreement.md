@@ -156,13 +156,12 @@ Signature: ______________________________ Date: ______________
 
 - 3.1 (Inadvertent Disclosures);
 - 3.2 (other projects' Course Private Information), as it applies to information Partner receives through the Course;
-- 5.7 and Exhibit B (right to purchase unused work, and its default procedures);
 - 7.2 (Harvard's rights come first);
 - 7.4 (no liability of Harvard or the Course Staff);
 - 7.5 (Partner's protection); and
 - 8.2 (exclusions and permitted disclosures).
 
-Anyone entitled to enforce those sections under Course Agreement Section 8.3, including Harvard, the Course Staff, a Student Company, and the students and Partner of another project, may enforce them against Partner. Each student Signer agrees with Partner and every other Signer to Course Agreement Sections 2.3, 3, 5, 7.2, 7.4, 7.5, and 8, and Exhibit B, as if they had signed the Course Agreement, whether or not they have. This agreement adds to the Course Agreement and does not change it. If the two conflict, the Course Agreement governs.
+Anyone entitled to enforce those sections under Course Agreement Section 8.3, including Harvard, the Course Staff, and the students and Partner of another project, may enforce them against Partner. Each student Signer agrees with Partner and every other Signer to Course Agreement Sections 2.3, 3, 5, 7.2, 7.4, 7.5, and 8, as if they had signed the Course Agreement, whether or not they have. This agreement adds to the Course Agreement and does not change it. If the two conflict, the Course Agreement governs. Partner and any student Signers may also sign an Add-On Agreement under Course Agreement Section 5.5, which binds only those who sign it.
 
 **1.3 Coursework.** Partner sponsors the Project as part of an academic course. The Project is coursework: the Course Staff alone set its academic requirements, supervise it, and evaluate and grade the students. Partner may benefit from the results.
 
@@ -228,7 +227,7 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 (e) If "None" is chosen for a category, that category has no public license. If CC0 is chosen, each student Signer instead dedicates their rights in that category to the public domain under CC0, as far as the law allows, and the Partner License still covers any rights CC0 does not waive, such as patent rights.
 
-(f) The student Signers' rights among themselves, including Teammates' licenses, Student Companies, and the buyout of a Teammate's share in work with no public license, are in Course Agreement Section 5. Any transfer under that Section remains subject to the Partner License and any public license.
+(f) The student Signers' rights among themselves, including Teammates' licenses and Student Companies, are in Course Agreement Section 5. Any transfer under that Section remains subject to the Partner License and any public license.
 
 > **Note for counsel:** The Partner License may not be sublicensed without the students' consent, as in v0.5 Section 8.2. Please confirm whether Partner may still let its customers use products that include the work, and whether that should be said expressly. The same question applies to Teammates' licenses under Course Agreement Section 5.3.
 
@@ -262,9 +261,7 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 (f) If the information choice is Open, there is no publication review. A student Signer must instead give Partner written notice, with a copy, at least 30 days before any publication or other public disclosure of the Project Work Product. This includes publishing the Approved Poster and Video. By written notice within that period, Partner may delay the disclosure until up to 60 days after the student's notice, so that Partner can file a patent application.
 
-(g) Partner agrees to the right to purchase unused work in Course Agreement Section 5.7 and its Exhibit B, including its limits on transferring the work.
-
-(h) If Harvard has intellectual property rights in the Project Work Product, due to faculty research, Harvard resources, or other reasons, paragraph (a) assigns only the students' own rights. Partner may obtain Harvard's rights, or exclusive rights in the work, only through a separate letter negotiated and signed by Partner and Harvard's Office of Technology Development.
+(g) If Harvard has intellectual property rights in the Project Work Product, due to faculty research, Harvard resources, or other reasons, paragraph (a) assigns only the students' own rights. Partner may obtain Harvard's rights, or exclusive rights in the work, only through a separate letter negotiated and signed by Partner and Harvard's Office of Technology Development.
 
 > **Note for counsel:** A Private Course Event, such as the poster session, may count as a public disclosure for patent purposes, but it is a private academic use under Section 3.1. The bracketed sentence in Section 3.1 would give Partner time to file first. It changes register item D3, so the owner decides whether to keep it.
 
@@ -298,6 +295,6 @@ Anyone entitled to enforce those sections under Course Agreement Section 8.3, in
 
 **6.7 Authority and acknowledgment.** Each party confirms that it may enter into and perform this agreement and, if an individual, that they have reached the age of majority. Partner confirms that the individual signing for it is authorized to do so. Partner certifies the Course instructor's approvals as the cover page and Section 6.3 require. Each student Signer confirms that they have read this agreement, have had the chance to ask questions and consult advisors, sign voluntarily, and could instead have asked for an Open Science project or a project without a Partner.
 
-**6.8 Law, signatures, and interpretation.** Massachusetts law governs this agreement, without regard to conflict-of-laws rules, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, including through Adobe Acrobat Sign, and counterparts together form one agreement. This agreement, with the Course Agreement as it applies to the Project, is the entire agreement among Partner and the Signers about the Project. "Including" means "including without limitation". An unenforceable term is enforced as far as the law allows, and the rest stays in effect.
+**6.8 Law, signatures, and interpretation.** Massachusetts law governs this agreement, without regard to conflict-of-laws rules, and the state and federal courts in Massachusetts have exclusive jurisdiction over disputes about it. Signatures may be electronic, including through Adobe Acrobat Sign, and counterparts together form one agreement. This agreement, with the Course Agreement as it applies to the Project and any Add-On Agreement that Partner signs, is the entire agreement among Partner and the Signers about the Project. "Including" means "including without limitation". An unenforceable term is enforced as far as the law allows, and the rest stays in effect.
 
 **6.9 Survival.** This agreement continues after the Duration and after each Signer's End Date, except the license in Section 4.1. Sections 3.1 to 3.3 continue without time limit.

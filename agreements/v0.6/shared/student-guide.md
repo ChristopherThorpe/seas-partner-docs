@@ -27,13 +27,13 @@ Each project makes one information choice and one ownership choice. Unless Partn
 | Apache 2.0 | Like MIT, plus a patent license from each contributor. | Yes |
 | MIT and Apache 2.0 | Each recipient picks one. | Yes |
 | CC0 (public domain) | You give up your copyright as far as the law allows. It doesn't waive patent rights. | Yes |
-| None, or Other (named) | No public license, or the named one. With none, the buyout can apply. | No |
+| None, or Other (named) | No public license, or the named one. With none, see "Planning ahead" below. | No |
 | FSL-1.1-MIT or FSL-1.1-ALv2 | Only with joint ownership, which requires it. No competing commercial use for two years, then MIT or Apache 2.0. | No |
 | **Everything else** (unless Partner owns) | | |
 | CC BY 4.0 (default) | Anyone may reuse and adapt the work if they credit you. | Yes |
 | CC BY-SA 4.0 | Like CC BY 4.0, but anyone who shares an adaptation must use CC BY-SA or a compatible license. | Yes |
 | CC0 (public domain) | Anyone may use the work for anything, with no credit required. | Yes |
-| None, or Other (named) | No public license, or the named one. With none, the buyout can apply. | No |
+| None, or Other (named) | No public license, or the named one. With none, see "Planning ahead" below. | No |
 
 More points to know:
 
@@ -49,9 +49,9 @@ More points to know:
 ### What you can do with the work afterwards
 
 - **Students own, with public licenses:** everyone may use the work under those licenses.
-- **Students own, no public license:** you may use the work for any purpose, including through your Student Company, under your teammates' licenses. Partner keeps its license. No one has exclusive rights, and the buyout can apply.
+- **Students own, no public license:** you may use the work for any purpose, including through your Student Company, under your teammates' licenses. Partner keeps its license. No one has exclusive rights, so see "Planning ahead" below.
 - **Students and Partner own jointly:** you, your teammates, and Partner may each use the code for any purpose, including through a Student Company. Everyone else may use it under FSL.
-- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. If no one has used the work commercially (including internally) for [2] years, and at least [2] years have passed since the Course ended, Partner or any of the project's students, alone or through a Student Company, may offer to buy it. The notice goes to the owner, Partner, and all of the project's students, and any of them may make a proposal within 30 days. If they can't agree, a default procedure applies: a sole buyer may buy at the minimum price below, and if there are several, the owner picks one in its discretion, and losing teams get at least the equity the winner offers the owner. The price is at least the owner's documented out-of-pocket costs, such as patent and outside legal fees, plus the equity a company's advisors typically get if the buyer is or acts through a Student Company. Partner keeps a non-exclusive license, patents and patent applications go with the work, and every later owner is bound. Partner's own data and code are never included.
+- **Partner owns:** you may use the work for demonstrations, your portfolio, and the final poster and video, subject to confidentiality. The agreements give no one a right to buy the work if Partner leaves it unused (see "Planning ahead" below).
 - **In every case:** Partner's own data and code stay Partner's. You may use them only for the project during the Course, apart from the demo data described under "Showing your work."
 
 The agreements say that no teammate owes another a share of profits from using the work.
@@ -75,7 +75,7 @@ These rules bind every student and every member of the Course Staff, and protect
 - **Others' confidential information.** Don't share, or use in a project, anyone else's confidential information, such as a current or former employer's. Code you wrote for a job usually belongs to your employer, so don't reuse it without permission. Your employment agreement may also cover work you do outside your job.
 - **Generative AI.** Use your Harvard accounts and Harvard's tools by default. A partner's restricted information may go only into tools that partner approves in writing or by email. Read each tool's terms on who owns its output and how it uses your inputs.
 - **Course Staff** contribute no IP, and share no grades or other education records with partners unless you ask in writing. They see a project's Confidential Information only by signing its agreement. No student may be a project's partner[ without Harvard's approval], and no instructor without Harvard's consent. Any other member of the Course Staff may be one only if they don't evaluate that project's work or see its students' grades.
-- **Notices.** Notices under the agreements, including buyout and purchase notices, go to your Harvard and personal emails, with a text or voicemail. Each notice is sent three times, about [7] days apart, unless you acknowledge it sooner. It counts from the day it was first sent, even if you don't answer, once a text or voicemail has reached your phone. If you gave no phone number, or yours no longer works and you didn't report a change, it counts without one. Notices you send, such as accepting a buyout offer, follow the same rule. Keep your personal email and phone current with your project's other signers (including any partner) and any system the Course provides for the agreements, and, during the Course, with the Course Staff.
+- **Notices.** Notices under the agreements go to your Harvard and personal emails, with a text or voicemail. Each notice is sent three times, about [7] days apart, unless you acknowledge it sooner. It counts from the day it was first sent, even if you don't answer, once a text or voicemail has reached your phone. If you gave no phone number, or yours no longer works and you didn't report a change, it counts without one. Notices you send, such as a copy for publication review, follow the same rule. Keep your personal email and phone current with your project's other signers (including any partner) and any system the Course provides for the agreements, and, during the Course, with the Course Staff.
 - **How long.** Confidentiality duties, including for other projects' information, last five years after your End Date (the Confidentiality Period). Your End Date is the end of the Course, or the day you stop taking part, if earlier. Trade secrets stay protected while they remain trade secrets.
 
 ## Copyright
@@ -157,23 +157,27 @@ Whenever students own or co-own the work, with or without a partner, the agreeme
 - Course work stays non-exclusive. What your company builds afterwards is its own.
 - Teammates who start separate companies each keep their licenses.
 
-### The buyout ("use it or lose it")
-
-The buyout applies only where students own work with no public license. It doesn't apply to FSL software, or to work Partner owns.
-
-1. After a teammate leaves the project or the Course ends, a Student Company that is actively developing the work may buy out that teammate's rights, if the teammate isn't using the work commercially (including internally), personally or through a company. Starting to use it after the notice doesn't stop the buyout.
-2. If both agree, the teammate may join the company instead.
-3. Otherwise, the company must offer fully vested equity at least equal to the greater of what each founding student got for their own rights in the work and what its initial part-time advisors get. Its notice shows those grants. The teammate has 30 days to decide, and gets cash at fair market value if they refuse the equity or don't accept it within 30 days.
-4. The teammate's rights pass to the company when it tenders the price, once it has promised to keep the teammate's commitments, such as confidentiality. The teammate keeps the right to describe and show their own contribution in a portfolio or academic setting, without distributing it. A dispute about the price is only a claim for money. If the teammate doesn't sign the papers to record the transfer within [15] business days, the company may sign them in the teammate's name.
-5. The buyout works only while one group of teammates is developing the work. If two or more groups are, no one may use it, and each keeps its license.
-
-> **Note for counsel:** the agreements' own notes cover enforceability, securities, and tax.
-
 ### Why investors want exclusive rights
 
 Investors back companies that others can't easily copy, so they usually ask founders to assign their IP to the company. Licenses held by teammates or a partner weaken that position. Patents raise the stakes, because a patent's value is the right to exclude others. A co-owner outside the company can license competitors, and can block enforcement by refusing to join a lawsuit.
 
-Talk with your teammates early, and write down what you agree. The instructor can point you to help, including patent attorneys' office hours and the Harvard Innovation Labs.
+## Planning ahead
+
+The agreements don't decide what happens if some of your team want to build a company on the project's work and others don't, or if Partner owns the work and leaves it unused. That's for you to settle. The Course recommends that your team agree on something early in the project, in writing, with Partner if there is one. It's far easier before anyone knows whether the work is valuable, or who will want to use it.
+
+Why it matters:
+
+- **A teammate moves on.** Three of you start a company and want to raise money. The fourth has taken a job elsewhere and won't sign anything. They keep their share and their license, so the company can't get the exclusive rights that investors usually want.
+- **Partner shelves the work.** Partner owns the work, then decides not to use it. You can still show it in your portfolio, but no one else can build on it unless Partner agrees. If Partner holds a patent on it, no one else may use the invention.
+
+Common approaches:
+
+- **Assign at founding.** Everyone who wants in assigns their rights to the company when it's formed, in exchange for equity.
+- **A buyout.** Teammates who don't join assign their rights to the company for a fair price agreed in advance, such as fully vested equity matching what founders or advisors get, or cash.
+- **All in or all out.** Each teammate either joins the company or releases their rights to it.
+- **A right to purchase unused work.** If Partner will own the work, ask, when the Project Agreement is signed, for a right to buy it if no one uses it for a set time, for example for Partner's costs plus a small amount of equity.
+
+[The Course offers optional add-on forms for a teammate buyout and for a right to purchase unused work.] An add-on binds only those who sign it, and can't take away anyone else's rights, so it works best if everyone signs early. Write down what you agree. The instructor can point you to help, including patent attorneys' office hours and the Harvard Innovation Labs.
 
 ## Startups on openly licensed work
 
@@ -209,7 +213,7 @@ Weigh these points:
 
 - Competitors are barred for two years, but your teammates and any partner aren't. Then each version is open to everyone.
 - Until then, FSL code is source-available, not open source, and some users avoid it.
-- Releasing FSL code is still a public disclosure, and the buyout doesn't apply.
+- Releasing FSL code is still a public disclosure.
 
 ## Harvard's IP policy
 

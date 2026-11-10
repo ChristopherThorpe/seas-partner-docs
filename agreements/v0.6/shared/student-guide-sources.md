@@ -15,8 +15,8 @@ Status key: **Opened** means the drafter read the full text. **Search results on
 - MIT License, full text (a standard copy of https://opensource.org/license/mit). \
   Supports: the notice condition, and that the license doesn't mention patents or trademarks.
 - v0.5 course project letter agreement, Exhibit A.DS and sections 3, 5, and 8 (`agreements/course-project-letter-agreement.md`); `agreements/v0.6/BRIEF.md`; `agreements/outline-next-version.md`; and `agreements/decision-register.md`. \
-  Supports: every statement about the agreements' terms, including "Showing your work," the course-wide rules, and the buyout.
-- v0.6 draft course documents (`agreements/v0.6/approach-a/course-agreement.md` and `agreements/v0.6/approach-b/course-rules.md`), read only to check that "Duration" means the Course's terms and sessions, and how the Course Community is bracketed.
+  Supports: every statement about the agreements' terms, including "Showing your work," the course-wide rules, and "Planning ahead."
+- v0.6 draft course documents (`agreements/v0.6/approach-a/course-agreement.md` and `agreements/v0.6/approach-b/course-rules.md`), read only to check that "Duration" means the Course's terms and sessions, how the Course Community is bracketed, and, for "Planning ahead," that approach A sets no default for later use (its Section 5.5).
 
 ## Search results only
 
