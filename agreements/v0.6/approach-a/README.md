@@ -537,6 +537,10 @@ Applied with small changes:
 - **Both papers:** a short paragraph with the abbreviations (and, in the purchase paper, the two meanings of "owner") stays between the title and section 1, because the decision uses them. The lead-in to the owner's first text now says that the owner confirmed it covers both defaults (R39, confirmed November 10).
 - **Both papers' "The situation":** its description of CA 5.5 is cut to one clause, since section 1 now gives it.
 
+### R45: the Student Guide and related policies (owner)
+
+CA 1.4 now reads: "The guide explains these agreements and the Harvard and SEAS policies that relate to them, but it is not part of these agreements. If the guide differs from these agreements or from a policy it describes, the agreements or the policy govern, not the guide." It sets no precedence between the policies and the agreements; CA 7.2 still covers Harvard's rights under its policies.
+
 ### Choices for the owner to confirm
 
 Wording and design choices beyond the edits file, current after review 6:

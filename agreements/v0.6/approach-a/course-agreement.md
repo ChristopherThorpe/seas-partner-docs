@@ -30,7 +30,7 @@ Harvard's rights in students' work (check each that applies; see Section 7.3): \
 
 > **Note for counsel:** (Review note R-8.) Please advise who counts as the SEAS community (for example, cross-registered students, postdocs, and alumni), how that is determined, and whether attendees at Private Course Events must be told that Course Private Information is shown.
 
-**1.4 Student Guide.** Before choosing a project, each student must confirm on the signature roster that they have read the *Student Guide to Course Project Agreements*. The guide explains these agreements but is not part of them, and the agreements govern if they differ.
+**1.4 Student Guide.** Before choosing a project, each student must confirm on the signature roster that they have read the *Student Guide to Course Project Agreements*. The guide explains these agreements and the Harvard and SEAS policies that relate to them, but it is not part of these agreements. If the guide differs from these agreements or from a policy it describes, the agreements or the policy govern, not the guide.
 
 **1.5 Project Terms and this agreement.** Project Terms add to this agreement: they record a project's choices and, for a project with a Partner, the Partner's rights and duties. They do not change this agreement, which says where a project's choices matter. If Project Terms conflict with this agreement, this agreement governs, but an Add-On Agreement governs over both among those who sign it, as Section 5.5 allows.
 
